@@ -1,0 +1,24 @@
+Summary: There are three principle forms of technology in use on Iria.
+Categories: iria
+
+= Technology =
+
+There are three principle forms of technology in use on Iria.
+
+== Mechanistry ==
+
+"Mechanistry" is the term for devices using mechanical or elemental principles.  [[Malvet]] regards steam power and gunpowder, technologies founded on the element of fire, as religiously acceptable.
+
+Examples of such devices are most weapons, including bows and crossbows (created using earth or wood, and using mechanical principles in their construction), siege weapons such as catapults, wheeled vehicles drawn by draft animals, and so on.
+
+== Arcanistry ==
+
+Arcanistry is the use of Glamour, or creatures of the Other, embedded in a physical item.  Magical items, religious relics, and other "enchanted" objects are examples of arcanistry.  All such items have at least some level of awareness, and some are intelligent enough to carry on conversations.
+
+Examples of arcanistry would be a glowing sword which does additional damage when it strikes an opponent, or a ring which turns its wearer invisible.
+
+== Zoan Technology ==
+
+The science of the [[Zoa]] civilization called upon the celestial forces - lightning, the sun, the stars, and other more nebulous forces.  The use of such technology is strictly prohibited for religious reasons.
+
+Examples of Zoan technology would be the lightning curtains which sometimes protect old Zoan installations, and the energetic plates of shimmering scale that capture sunlight and release it suddenly when touched by metal.

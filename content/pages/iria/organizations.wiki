@@ -1,0 +1,28 @@
+Summary: A list of organizations.
+Categories: iria
+
+= Organizations =
+
+Empire of [[Malvet]]:
+
+* [[Absolution]] - Malvet's "church militant", dedicated to stamping out "obsolete heresies".
+* [[Imperial Cartographic Charter]] - mapmakers, geographers and students of [[Geomancy]].
+
+Religious groups:
+
+* [[Dragon Cults]] - worshippers of powerful Vores or Other-avatars.
+* [[Ouroboros]] - a reincarnationist religion.
+* [[Separatist Cults]] - "heretical" religious organizations that oppose all contact with the Other.
+
+International organizations:
+
+* [[Eden]] - a mercenary group and training school for fighters.
+* [[Lamplighters]] - a knightly order dedicated to road safety and the destruction of [[Vores]].
+* [[Ordo Annulus]] - an international faction of spellcasters who study [[Geomancy]].
+* [[Ordo Oneiros]] - a cabal of wizards and sages dedicated to studying [[The Other|the Other]].
+* The [[Seven Shadows]] - a criminal organization.
+* [[Zoan Archaeological Society]] - a league of explorers who pursue the mysteries of [[Zoa]].
+
+Smaller groups:
+
+* [[Ordo Sanguis]] - a small group studying "blood magic" and Other inheritance.

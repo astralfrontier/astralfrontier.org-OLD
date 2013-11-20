@@ -1,0 +1,38 @@
+/
+blog
+settings
+  settings/force-effect
+  iria
+  masque
+  song-of-eden
+  team-lambda
+characters
+  characters/lou
+  characters/sookie
+  characters/thomas-temple
+  characters/windwalker
+stories
+  empyrean-city
+  stories/make-believe
+  stories/outlast
+  stories/pray
+  stories/psychopomp
+  stories/realaspixels
+  stories/rogues-story
+  stories/uncertainty
+rpg
+  rpg/junkyard-heroes
+  rpg/fate
+  rpg/futile-octave
+  rpg/pathfinder
+  rpg/pathfinder/stupid-wizard-tricks
+  rpg/pathfinder/scrollmaster
+  rpg/pathfinder/witch
+games
+writing
+library
+  library/anime-and-manga
+  library/books
+  library/movies
+  library/music
+about

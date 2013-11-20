@@ -1,0 +1,20 @@
+Summary: The Compact is the world's oldest extant document.
+Categories: iria
+
+= The Compact =
+
+The '''Compact''' is the world's oldest extant document. It was graven on metal and spread throughout the world. Many museums today have a copy, and archaeological dig sites regularly uncover more examples of it.
+
+The Compact was a treaty between several ancient kingdoms. It laid out four sacred rules, and followed them with commentary and other adjurations. Most of the text is only of interest to historians. However, it is known that a cataclysmic event immediately preceded the Compact, and most people believe the rules that it describes will avert another terrible disaster. For this reason, most nations on Iria follow the sacred rules, or at least an interpretation of them. 
+The rules, translated from the original text, are as follows:
+
+# The artifice of Man shall draw only on the terrestrial.  The celestial is forbidden.
+# In all dealings with the Other, Man shall treat equitably and fairly.  He shall neither give more than he is called for, nor take more than is his due.
+# He that calls out a creature from the Other without the blessing of the Five has called forth a demon and shall be put to death.
+# All Men must stand in brotherhood against the menace of the [[Vores]].
+
+== Commentary ==
+
+The modern interpretation of these rules is that the Other is to be treated with care and reverence, and dealt with only by the wise.  This has led to some modern discrimination against the so-called "arcane" casters, who work their magic without the formal sanction of [[The Courts|a Court]].  Likewise, Vores are never used as weapons of war, and two enemies set upon by Vores may well put aside their differences - momentarily - to fight them off.
+
+The prohibition on "the artifice of man" is considered a ban on technology that does not draw its principles from mechanical or elemental sources - crossbows, steelwork, and the like.  The empire of Malvet has drawn criticism for pushing this boundary with their steam engines and guns.

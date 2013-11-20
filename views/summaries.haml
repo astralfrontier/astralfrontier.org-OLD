@@ -1,0 +1,12 @@
+- unless pages.empty?
+  - columns = [@page.metadata("Columns").to_i, 1].max
+  - div_size = (12 / columns).to_i
+  - pages.each_slice(columns) do |pageset|
+    .row
+      - pageset.each do |page|
+        %div{class: "small-#{div_size} columns"}
+          - if page.metadata("Icon")
+            %img{src: page.metadata("Icon"), align: "left"}
+          %h5
+            %a{href: url(page.abspath)}= page.heading
+          ~ (page.summary.nil? || page.summary.empty?) ? page.body(self) : page.summary

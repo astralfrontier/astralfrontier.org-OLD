@@ -1,0 +1,17 @@
+.row
+  .large-12.columns
+    .nav-bar.right
+      %ul.button-group
+        %li
+          %a.button{href: "https://twitter.com/astralfrontier", data: {dropdown: "twitter-dropdown"}} @astralfrontier
+          #twitter-dropdown.f-dropdown.content.medium
+            :plain
+              <a class="twitter-timeline" href="https://twitter.com/astralfrontier" data-widget-id="296923603096698881">Tweets by @astralfrontier</a>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        %li
+          %a.button#sidr-toggle{href: "#sidr-menu"} Menu &raquo;
+    %h3
+      = @heading
+      %small= @subtitle
+    - display_menu(@menu_items.reject { |i| i.respond_to?(:each) }, class: "inline-list")
+    %hr

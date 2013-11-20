@@ -1,0 +1,10 @@
+Summary: There are forty-eight known Courts in the Other.
+Categories: iria
+
+= The Courts =
+
+There are forty-eight known '''Courts''' in [[The Other]].  Each is made up of singularly powerful creatures interested in the collection of [[Dross]], and each centers around some particular magical or cosmic principle.
+
+The Courts explicitly modeled themselves around ancient human aristocracy.  Courts have a ruler or rulers, usually the most powerful of their number.  Because Dross is necessary for any creature of the Other to retain itself and its identity, considerable political jockeying takes place - both within each Court and between the Courts - for supplies of the stuff.  Unpopularity or failure on the part of a lesser servitor can lead to dissolution for lack of Dross.  Conversely, success and status lead to steady supplies of it.
+
+Courts are served collectively by priests and holy men.  The rulers of a Court are not venerated as gods, but they are respected and their instructions followed.

@@ -1,0 +1,36 @@
+$bto_sapphire_shade: #001449;
+$bto_deep_sea: #012677;
+$bto_brads_blue: #005BC5;
+$bto_bbluee: #00B4FC;
+$bto_rare_sea_shell: #17F9FF;
+
+@import "normalize";
+@import "astralfrontier";
+
+$primary-color:            $bto_deep_sea;
+$secondary-color:          $bto_sapphire_shade;
+$body-bg:                  #7DFBFF; // $bto_rare_sea_shell;
+$header-font-color:        $bto_deep_sea;
+
+$crumb-bg:                 $bto_bbluee;
+$crumb-font-color-current: $bto_rare_sea_shell;
+
+@import "foundation";
+
+body > .row > .columns {
+  background-color: transparentize($body-bg, 0.1);
+}
+
+html, body {
+  background-image: url('/attachments/art/game-reveal3-1024x768.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+article {
+  padding-left: 1em;
+  padding-right: 1em;
+  font-family: "Georgia", $body-font-family;
+}

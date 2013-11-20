@@ -1,0 +1,24 @@
+Summary: The Sacred Light is a radiant white light created by magic.
+Categories: iria
+
+= Sacred Light =
+
+The '''Sacred Light''' is a radiant white light created by magic.  It draws from the power of [[The Other|the Other]], creating an area which [[Vores]] will naturally shun.  Sacred Lights are generally lit from one of two sources: an immobile light source which draws energy from the earth via geomancy, or from blessed oil.
+
+== Sacred Trees ==
+
+A cleric can call upon his patron Court to dispatch a dryad.  The dryad then takes up residence in a tree, making it holy.  The sacred light shines forth from the tree, illuminating a large area.  The cleric's ritual allows the Dryad to draw Dross from the world via geomancy, exchanging it for Glamour which repels Vores.
+
+The Courts are reluctant to create dryads for such purposes.  They believe that Vores are a problem for humanity to solve on its own.
+
+Sacred trees mark the boundaries of holy sites and important landmarks.
+
+== Lamps ==
+
+Sacred lamps can be erected by wizards, using arcane principles similar to a dryad.  However, the spirits they gather are different, and the relationship is not always so amicable.  Still, they are easier to create than sacred trees, since the Courts' permission is not required for their construction.
+
+Well-traveled routes are marked by the presence of such lamps.  A distingushed order of knighthood, the [[Lamplighters]], make it their business to build and maintain these lamps along major thoroughfares.
+
+== Sacred Oil ==
+
+Clerics are also capable of imbuing lamp oil with the Sacred Light.  When lit, Vores are compelled to stay out of the radius of the light.  Such lamp oil is expensive and usually reserved for use by the temple.  It is not sold, although it can occasionally be found on the black market.

@@ -1,0 +1,47 @@
+$future_lies_abroad: #5C4B2B;
+$future_lies_fireworks: #856DF1;
+$future_lies_way_out: #2A2158;
+$future_lies_outer_space_dandy: #1B1D02;
+$future_lies_colour_end: #030302;
+
+@import "normalize";
+@import "astralfrontier";
+
+$primary-color:               $future_lies_way_out;
+$secondary-color:             $future_lies_outer_space_dandy;
+$body-bg:                     $future_lies_colour_end;
+$header-font-color:           $future_lies_fireworks;
+$header-font-family: "Droid Serif", serif;
+$body-font-family: "Gudea", sans-serif;
+$body-font-color:             lighten($future_lies_fireworks, 10%);
+$anchor-font-color:           $future_lies_fireworks;
+
+$button-font-color:           $future_lies_fireworks;
+
+$crumb-bg:                    $future_lies_outer_space_dandy;
+$crumb-font-color:            $future_lies_fireworks;
+$crumb-font-color-current:    lighten($future_lies_fireworks, 10%);
+
+@import "foundation";
+
+html {
+  background-color: $body-bg;
+}
+
+body {
+  background-color: $body-bg;
+  background-image: url('/attachments/art/Project_Cyborg_by_Transhuman_Project.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+body > .row > .columns {
+  background-color: $body-bg;
+}
+
+article {
+  padding-left: 1em;
+  padding-right: 1em;
+}

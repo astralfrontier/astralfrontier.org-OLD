@@ -1,0 +1,82 @@
+// Color source: http://www.colourlovers.com/palette/1406402/Tron_Legacy_2
+
+$tron_legacy_orange: #DF740C;
+$tron_legacy_yellow: #FFE64D;
+$tron_legacy_pane: #E6FFFF;
+$tron_legacy_cyan: #6FC3DF;
+$tron_legacy_basestar: #0C141F;
+
+@import "normalize";
+@import "astralfrontier";
+
+$primary-color: $tron_legacy_cyan;
+$secondary-color: $tron_legacy_yellow;
+$body-bg: $tron_legacy_basestar;
+$header-font-color: $tron_legacy_orange;
+$header-font-family: "Droid Serif", serif;
+$body-font-family: "Gudea", sans-serif;
+$body-font-color: $tron_legacy_yellow;
+$anchor-font-color: $tron_legacy_orange;
+$font-smoothing: antialiased;
+
+$button-font-color: $tron_legacy_yellow;
+
+$crumb-bg: $tron_legacy_basestar;
+$crumb-font-color: $tron_legacy_orange;
+$crumb-font-color-current: $tron_legacy_yellow;
+
+@import "foundation";
+
+html {
+  background-color: $body-bg;
+}
+
+body {
+  background-color: $body-bg;
+  background-image: url('/attachments/art/First_Background_by_N1LS.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+body > .row > .columns {
+  background-color: transparentize($body-bg, 0.05);
+}
+
+article {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.orange-lightcycle-left {
+  border-left: thick solid saturate($tron_legacy_orange, 20%);
+}
+
+.orange-lightcycle-right {
+  border-right: thick solid saturate($tron_legacy_orange, 20%);
+}
+
+.orange-lightcycle-top {
+  border-top: thick solid saturate($tron_legacy_orange, 20%);
+}
+
+.orange-lightcycle-bottom {
+  border-bottom: thick solid saturate($tron_legacy_orange, 20%);
+}
+
+.pane-lightcycle-left {
+  border-left: thick solid $tron_legacy_pane;
+}
+
+.pane-lightcycle-right {
+  border-right: thick solid $tron_legacy_pane;
+}
+
+.pane-lightcycle-top {
+  border-top: thick solid $tron_legacy_pane;
+}
+
+.pane-lightcycle-bottom {
+  border-bottom: thick solid $tron_legacy_pane;
+}

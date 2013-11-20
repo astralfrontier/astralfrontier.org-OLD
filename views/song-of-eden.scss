@@ -1,0 +1,50 @@
+// http://www.colourlovers.com/palette/1239681/Galaxy_glow
+// Northern Dancer
+// CC-BY-NC-SA
+// Galaxy glow
+
+$gg_galaxy_glow: #4CA5A9;
+$gg_milky_way: #46727F;
+$gg_light_year: #414A6D;
+$gg_ultraviolet: #383158;
+$gg_outer_space: #1C1925;
+
+@import "normalize";
+@import "astralfrontier";
+
+$primary-color:             $gg_milky_way;
+$secondary-color:           $gg_light_year;
+$body-bg:                   $gg_outer_space;
+$header-font-color:         $gg_galaxy_glow;
+$body-font-color:           #fff;
+$anchor-font-color:         $gg_milky_way;
+
+$button-font-color:         #fff;
+
+$crumb-bg:                  $gg_ultraviolet;
+$crumb-font-color:          $gg_galaxy_glow;
+$crumb-font-color-current:  #fff;
+
+@import "foundation";
+
+html {
+  background-color: $body-bg;
+}
+
+body {
+  background-color: $body-bg;
+  background-image: url('/attachments/art/pixie-228.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+body > .row > .columns {
+  background-color: transparentize($body-bg, 0.05);
+}
+
+article {
+  padding-left: 1em;
+  padding-right: 1em;
+}

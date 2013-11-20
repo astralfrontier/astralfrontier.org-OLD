@@ -1,0 +1,18 @@
+@import "normalize";
+@import "astralfrontier";
+$primary-color: #FFC640;
+$secondary-color: #4965D6;
+$header-font-color: #FFB300;
+$body-bg: #000;
+$body-font-color: #eee;
+@import "foundation";
+
+html {
+  background-color: $body-bg;  
+}
+
+article {
+  background-image: url('/attachments/art/6034593855_2d784f7131_b.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}

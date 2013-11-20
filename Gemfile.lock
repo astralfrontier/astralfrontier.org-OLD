@@ -1,0 +1,58 @@
+GIT
+  remote: git://github.com/astralfrontier/nesta.git
+  revision: 89e56d6ab19c02dc83bd0ace444a32d9913e3dd0
+  specs:
+    nesta (0.9.13)
+      RedCloth (~> 4.2)
+      haml (~> 3.1)
+      rack (~> 1.3)
+      rdiscount (~> 1.6)
+      sass (~> 3.1)
+      sinatra (~> 1.3)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    RedCloth (4.2.9)
+    builder (3.2.2)
+    coderay (1.1.0)
+    daemons (1.1.9)
+    eventmachine (1.0.3)
+    expression_parser (0.9.0)
+    haml (3.1.8)
+    kramdown (1.2.0)
+    nesta-plugin-blogazine (0.0.1)
+      nesta (>= 0.9.11)
+    rack (1.5.2)
+    rack-protection (1.5.0)
+      rack
+    rack-rewrite (1.4.01)
+    rdiscount (1.6.8)
+    sass (3.2.12)
+    shotgun (0.9)
+      rack (>= 1.0)
+    sinatra (1.4.3)
+      rack (~> 1.4)
+      rack-protection (~> 1.4)
+      tilt (~> 1.3, >= 1.3.4)
+    thin (1.6.0)
+      daemons (>= 1.0.9)
+      eventmachine (>= 1.0.0)
+      rack (>= 1.5.0)
+    tilt (1.4.1)
+    wikicloth (0.8.0)
+      builder
+      expression_parser
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  coderay
+  kramdown
+  nesta!
+  nesta-plugin-blogazine
+  rack-rewrite
+  shotgun
+  thin
+  wikicloth

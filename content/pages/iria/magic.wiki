@@ -1,0 +1,32 @@
+Summary: Magic is the practice of drawing power from [[The Other]] and releasing it in a controlled fashion.
+Categories: iria
+
+= Magic =
+
+'''Magic''' is the practice of drawing power from [[The Other]] and releasing it in a controlled fashion.  There are a few key principles when it comes to working magic.
+
+=== Glamour and Dross ===
+
+:''Main Article:'' [[Glamour and Dross]]
+
+Glamour is the mystical creative force of the Other.  Dross is the stabilizing force of Iria.  A mage extracts Dross from the world around him, offering it to the Other in exchange for a supply of Glamour.  This Dross can come from the environment for weak spells, or from physical materials.  The most potent form of Dross comes from concentrated or highly-structured material, such as diamond.  Either way, a spellcaster must give up a bit of the world to get a bit of magic.  Senior clerics are sometimes troubled by the implications - particularly that it's impossible for magic to create long-lasting solid matter outright.
+
+=== Dreaming ===
+
+Spellcasters visit the Other in their dreams.  To cast spells, a mage practices a form of lucid dreaming. He travels the Other, searching for the sorts of creatures he wishes to use.  He devises traps for them, capturing them and bringing them back with him to the waking world.  The trapped creatures remain caged in his mind until he is ready to cast his spells.
+
+When the mage is prepared, he transfers Dross to the other and receives Glamour in return.  He pours the Glamour into his caged creature, releasing it into the world.  At that moment, the spell is cast.
+
+=== Nodes, Orbits and Concurrences ===
+
+:''Main Article:'' [[Cosmology]]
+
+The most powerful magic draws on the cosmic forces surrounding Iria and the Other.  Certain spells can only be cast at certain times, or in certain places.
+
+== Spell Preparation ==
+
+Glave, the human wizard, has a spellbook.  It's a combination of ritual description, dream-diary, and handwritten notes which chronicle his nightly excursions.  When Glave dreams, he travels through a brightly illuminated and ever-shifting world whose few signposts are jealously-guarded secrets.  He travels to a place where he knows he can bait out the firelings that form his Fireball spell, and elsewhere he dreams of electric nets that will catch the lightning sprites which power his Lightning Bolt.  Alone and unaided, he captures and cages such creatures.  He returns to the waking world with a feeling of their presence in his mind.
+
+Zauri, the elven sorceress, is different.  Her sorcerer's heritage draws the creatures of the Other to her on a regular basis.  In her mind she hears the whispers of her friends, waiting to be reified into the real world with a sacrifice of Dross.  Although she can only perform the transmutation a few times a day before losing her connection to the Other, Zauri loves her alien friends and enjoys their company.
+
+Kusa, the minotaur cleric, does not roam the everchanging terrain of the Other.  He dreams of the Water Court, his patron.  In that place, he makes his request known for allies from the Court to work with him, and he speaks of the work that he is doing.  When he wakes, he finds the reassuring presence of allied spirits in his thoughts.  And in return, he works to support his Court's agenda.

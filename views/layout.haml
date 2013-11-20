@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+%html{lang: "en"}
+  %head
+    %meta{charset: "utf-8"}
+    %meta{name: "viewport", content: "width=device-width"}
+    - if @description
+      %meta{name: "description", content: @description}
+    - if @keywords
+      %meta{name: "keywords", content: @keywords}
+    %title= "#{@title} | astral frontier"
+    = haml :fonts, layout: false
+    <!--[if ! lte IE 6]><!-->
+    %link(href="#{url("/css/#{page_design}.css")}" media="screen" rel="stylesheet")
+    %link{href: url("/css/jquery.sidr.dark.css"), media: "screen", rel: "stylesheet"}
+    <!--<![endif]-->
+    /[if lte IE 6]
+      %link(rel="stylesheet" href="http://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection")
+    /[if lt IE 9]
+      %script(src="//html5shim.googlecode.com/svn/trunk/html5.js")
+    - local_stylesheet_link_tag('local')
+    %link(href="#{url('/articles.xml')}" rel="alternate" type="application/atom+xml")
+    = haml :analytics, layout: false
+    %script{src: "/js/vendor/custom.modernizr.js"}
+  %body
+    = haml :header, layout: false
+    = yield
+    = haml :footer, layout: false
+    = haml :sidr, layout: false
+    .row
+      .small-12.columns
+        = haml :comments, layout: false
+    %script{src: "/js/vendor/jquery.js"}
+    %script{src: "/js/vendor/jquery.sidr.min.js"}
+    %script{src: "/js/foundation/foundation.js"}
+    %script{src: "/js/foundation/foundation.abide.js"}
+    %script{src: "/js/foundation/foundation.alerts.js"}
+    %script{src: "/js/foundation/foundation.clearing.js"}
+    %script{src: "/js/foundation/foundation.cookie.js"}
+    %script{src: "/js/foundation/foundation.dropdown.js"}
+    %script{src: "/js/foundation/foundation.forms.js"}
+    %script{src: "/js/foundation/foundation.interchange.js"}
+    %script{src: "/js/foundation/foundation.joyride.js"}
+    %script{src: "/js/foundation/foundation.magellan.js"}
+    %script{src: "/js/foundation/foundation.orbit.js"}
+    %script{src: "/js/foundation/foundation.placeholder.js"}
+    %script{src: "/js/foundation/foundation.reveal.js"}
+    %script{src: "/js/foundation/foundation.section.js"}
+    %script{src: "/js/foundation/foundation.tooltips.js"}
+    %script{src: "/js/foundation/foundation.topbar.js"}
+    %script{src: "/js/astralfrontier.js"}

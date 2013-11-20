@@ -1,0 +1,27 @@
+Summary: Vores are creatures either brought from the Other, or tainted by its power.
+Categories: iria
+
+= Vores =
+
+'''Vores''' are creatures either brought from [[The Other]], or tainted by its power.  They are the monsters and fiends of Iria, preying on travelers, assaulting cities, and devouring or destroying whatever takes their fancy.
+
+{{GameRule|name=Vores|
+rule=Vores aren't special sorts of monsters; the term refers to any sort of uncivilized monster.  Civilized "monsters", of course, are more politely known as the demihuman races - elves, dwarves, and the like.}}
+
+== Glamour and Dross ==
+
+:''Main Article:'' [[Glamour and Dross]]
+
+Vores are valuable to all spellcasters because their bodies contain alchemical organs for transmuting Glamour and Dross.  Because of this, and because most manmade settlements are at constant risk from Vore attacks, almost any settlement or urban area will have posted bounties for killing Vores (and returning with their corpses, generally).
+
+== Attraction to Dream Zones ==
+
+:''Main Article:'' [[Dream Zones]]
+
+Whatever their nature, Vores are always attracted to the use of magic - particularly "arcane" magic.  As former denizens of the Other, they are drawn to spellcasting and spell preparation, which always leaves a mark of sorts on the world around it.
+
+== Defenses ==
+
+:''Main Article:'' [[Sacred Light]]
+
+Vores are repelled by the radiance of the Sacred Light, which is created through clerical rituals which draw from the Other.

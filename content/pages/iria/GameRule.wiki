@@ -1,0 +1,6 @@
+{| class="wikitable" style="width: 80%; background-color: #E0E0E0; border: thin solid black;"
+|- 
+| style="border-bottom: thin solid black;" | ''Game Rule:'' '''{{{name}}}'''
+|-
+| {{{rule}}}
+|}

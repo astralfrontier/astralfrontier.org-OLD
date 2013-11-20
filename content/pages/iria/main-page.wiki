@@ -1,0 +1,22 @@
+Summary: Iria is a Dungeons & Dragons campaign setting.
+Categories: iria
+
+= Iria =
+
+'''Iria''' is a Dungeons & Dragons campaign setting.
+
+== Setting Material ==
+
+* [[Cosmology]]
+** [[The Other]]
+* [[Geography]]
+* [[History]]
+* [[Magic]]
+* [[Organizations]]
+* [[Religion]]
+** [[The Courts]]
+* [[Technology]]
+
+== The Silver Rose ==
+
+* [[Kenjin]]
