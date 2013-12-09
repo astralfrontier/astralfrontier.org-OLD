@@ -2,7 +2,7 @@
 blog
 settings
   settings/force-effect
-  iria
+  settings/libraria
   masque
   song-of-eden
   team-lambda
