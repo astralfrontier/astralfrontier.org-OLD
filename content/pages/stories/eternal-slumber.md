@@ -1,4 +1,3 @@
-Flags: draft
 Summary: Last rites for a peculiar person.
 Categories: stories
 
@@ -52,11 +51,12 @@ It was a year later that we found the New Mistress one morning.
 The inspector concluded that only awild beast, enraged by injury,
 would have been capable of the savage cruelty we found.
 We did not speak to the police of the words on the wall of the bedroom,
-marked there in the lifeblood of the deceased, whose existence we hurriedly effaced
+splashed there in the lifeblood of the deceased, whose existence we hurriedly effaced
 before contacting the police. We speculated amongst ourselves that
-there must be some other member of the family, also a student of the old mysteries
+there must be some distant member of the family, also a student of the old mysteries
 the Master had loved, who had gone mad upon learning of his kinsman's final fate.
 No other sane explanation might motivate a killer to have written "you should have burned me".
 
-Mindful of the Master's last words, those of us loyal to him watched silently
+The New Mistress's wishes were carried out, of course. The vicar arranged the matter.
+And mindful of the Master's last words, those of us loyal to him watched silently
 as the woman who had ignored his wishes was lowered slowly into the earth.
