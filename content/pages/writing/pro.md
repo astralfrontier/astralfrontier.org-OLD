@@ -24,3 +24,4 @@ How do you make it as a writer? Here's some suggestions.
 * [25 Things Writers Should Stop Doing](http://terribleminds.com/ramble/2012/01/03/25-things-writers-should-stop-doing/)
 * [Respecting Science](http://www.projectrho.com/public_html/rocket/respectscience.php) - how to write SF without breaking science.
 * [http://thrillbent.com/blog/3-point-plotting/](3-Point Plotting) - hints on serialized content
+* [http://www.projectrho.com/public_html/rocket/crossindex.php Atomic Rockets] - ways to make your scifi content not suck.
