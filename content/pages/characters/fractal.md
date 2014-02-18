@@ -17,10 +17,10 @@ answer questions from every major branch of science, then turn around and do a p
 forensic analysis that left the local cops baffled."
 
 The superhero who calls himself "Fractal" seems, at first glance, to be a costumed vigilante,
-the product of intense training and widespread study. Fractal's secret is that he is,
-in fact, superhuman. His ability is the duplication of his body into multiple copies,
-sometimes dozens at a time. He has a variety of secret identities, from unassuming college
-students around the world to beat cops and detectives in a dozen precincts. He is a student,
+the product of intense training and widespread study. Fractal's true power is a closely guarded
+secret. His ability is the duplication of his body into multiple copies, up to dozens
+at a time. He has a variety of secret identities, from unassuming college students studying
+a variety of subjects, to beat cops, criminals, detectives, and scientists. He is a student,
 adventurer, athlete, and more in his various incarnations. His mind is spread across the
 duplicates, allowing him to instantly know what any of his selves are aware of.
 
