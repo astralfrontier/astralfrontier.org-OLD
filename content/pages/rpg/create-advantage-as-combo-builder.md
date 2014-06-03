@@ -1,5 +1,5 @@
 Categories: rpg
-Summary: New rules, resources, and links for the Fate roleplaying rules.
+Summary: Another way to think of the Fate combat rules.
 
 # Create Advantage as Combo Builder
 
