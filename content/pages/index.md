@@ -33,6 +33,8 @@ Flags: no-breadcrumbs
   Real as Pixels, my "best of" blog
 * [@astralfrontier]{: target="_blank"}\\
   My storytelling and gaming twitter account
+* [villainsvictorious]{: target="_blank"}\\
+  An in-character villain blog
 {:.no-bullet}
 
   </div>
@@ -89,4 +91,5 @@ Flags: no-breadcrumbs
 [riff]: http://riff.astralfrontier.org
 [tenorvale]: http://tenorvale.blog.astralfrontier.org
 [tumblr]: http://astralfrontier.tumblr.com/
+[villainsvictorious]: http://villainsvictorious.blogspot.com/
 [wiki]: http://wiki.astralfrontier.org
