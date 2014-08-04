@@ -115,7 +115,7 @@ System Shock: https://www.systemshock.org/index.php?topic=269.0
 
 [AB]: http://en.wikipedia.org/wiki/Astro_Boy_(2003_TV_series)
 [CFP]: http://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project
-[CP]: http://en.wikipedia.org/wiki/Captain_Power 
+[CP]: http://soldiersofthefuture.wikia.com/wiki/History
 [DS]: http://en.wikipedia.org/wiki/Demon_Seed
 [IR]: http://en.wikipedia.org/wiki/I,_Robot_(film)
 [RC]: http://en.wikipedia.org/wiki/RoboCop
