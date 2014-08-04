@@ -72,31 +72,43 @@ Skynet's last move in the long temporal chess match with John Connor is not to a
 
 **2043:** *Dr. Tenma* and *Dr. Ochanomizu* both have a role in creating Astro, a robot with "heart" who will not need hard-coded ethical directives. ([AB])
 
+Led by Astro and other robots such as the Blue Knight and Sonny, many free robots make their own way in the world.
+
 **2069**: The hovercraft transport ship Nebuchadnezzar, later to be captained by *Morpheus*, is constructed in the United States.
 
 **2075**: AI programs evolve and some robots began to resent their human overlords.
 
-**2077:** Flaws in USR's "three laws" logic has led to a new set of directives. These permit butler robot *B166ER* to kills its human owner, claiming self defense. ([TSR])
+**2077:** Butler robot *B166ER* kills its human owner, claiming self defense. ([TSR])
+
+**2082:** Bio-Mechs have replaced soldiers in the world's armies. ([CP])
+
+These designs are based on the OCP ED-200 series.
+
+*Dr. Stuart Gordon Power* and *Lyman Taggart* build OverMind, a control system which will override the Bio-Mechs, similar to the earlier VIKI system used by US Robotics. ([CP])
 
 **2080 - 2085:** Rioting and violence against machines prompts robots to flee major cities and establish their own community - known as Zero One - in a remote part of the Middle East. ([TSR])
 
 **2096:** United Nations officials refuse to accept the robot civilization of Zero One as a sovereign nation. A trade blockade of robot goods leads to war. ([TSR])
 
-**2097-2099:** War between the humans and machines. ([TSR])
+**2097 - 2099:** The "Metal Wars" or "Machine Wars", when humans lose a battle against intelligent machines. ([CP])([TSR])
+
+Dr. Taggart, now redubbed "Lord Dread", uses ENCOM's laser technology to digitally capture humans and transfer them to the Grid.
 
 **2100:** Creation of the Matrix. ([TMT])
 
+With the loss of their primary power source, digitization is no longer an option for the Machines. Instead, they physically store human bodies in their power plants.
+
+In early iterations of the Matrix, the One - Neo, always Neo - would be sent back in time, using Skynet time travel hardware. He would be plugged back into the Matrix, supplying that iteration with the acquired data from the previous one.
+
 **2105 - 2150:** Zion resistance movement created, although The One later dies under unexplained circumstances. ([TMT])
-
-**2132:** Bio-Mechs replace soldiers in the world's armies. ([CP])
-
-**2147:** The "Metal Wars", when humans lose a battle against intelligent machines. ([CP])
 
 **2161:** *Morpheus* born in a Matrix womb; freed in childhood. ([TMT])
 
 **2167:** *Trinity* born in a Matrix womb; freed in early childhood. ([TMT])
 
-**2199:** The sixth iteration of the Zion project. ([TMT])
+**2199:** In earlier iterations of the Matrix, Neo confronts the Architect, makes a choice, and is sent back in time.
+
+**2201:** The Machine War comes to an end. ([TMT])
 
 TODO
 ----
@@ -106,7 +118,6 @@ TODO
 * Where does Sydney Bloom go?
 * What is Astro's role in the Second Renaissance?
 * Who created the 2004 Judgement Day's Skynet virus?
-* Which Zion era (Neo is the 6th) includes Captain Power?
 * Proteus needs to deliver the leukemia cure to Sarah Connor. Via Sydney?
 
 System Shock: https://www.systemshock.org/index.php?topic=269.0
