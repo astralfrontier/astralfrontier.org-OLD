@@ -25,3 +25,4 @@ How do you make it as a writer? Here's some suggestions.
 * [Respecting Science](http://www.projectrho.com/public_html/rocket/respectscience.php) - how to write SF without breaking science.
 * [http://thrillbent.com/blog/3-point-plotting/](3-Point Plotting) - hints on serialized content
 * [Atomic Rockets](http://www.projectrho.com/public_html/rocket/crossindex.php Atomic Rockets) - ways to make your scifi content more realistic, and interesting.
+* [Helping Writers Become Authors](http://www.helpingwritersbecomeauthors.com/)
