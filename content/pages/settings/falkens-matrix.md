@@ -70,7 +70,7 @@ _In this timeline, Skynet was activated to stop a mysterious virus infecting com
 
 **2007:** Sarah Connor, John Connor, and Cameron travel forward in time from 1999. ([TERM])
 
-**2010:** Sam Flynn enters the Grid. Kevin Flynn defeats CLU. Sam returns with *Quorra* and takes control of ENCOM. ([TRON])
+**2010:** Sam Flynn enters the Grid. Kevin Flynn defeats CLU. Sam returns with Quorra and takes control of ENCOM. ([TRON])
 
 **2011:** Judgement Day (alternative date). ([TERM])
 
@@ -87,6 +87,8 @@ _Though some nuclear launches have occurred, and John Connor responds to terrifi
 **2015:** The "RoboCop" project is unveiled by OCP. Due to problems with the ED-209 and the success of RoboCop, ethical constraints are considered a mandatory feature for any robot intending to interact with humans. ([RC])
 
 _Though Cyberdyne's engineers and scientists who had studied the Terminator design retained their knowledge, the ED-209 was physically effective but behaviorally flawed. The Three Laws of Robotics are introduced to restrain robot behavior._
+
+_The advanced AI which yields human-level intelligence by 2035 is spearheaded by ENCOM, since the presence of the last ISO Quorra makes revolutionary AI and artificial life a simple matter to reverse engineer._
 
 **2035:** Detective Del Spooner investigates the death of Alfred Lanning, head of US Robotics. Spooner and Dr. Susan Calvin learn of VIKI, a powerful central processor running at USR. ([IR])
 
@@ -143,6 +145,8 @@ _In reality, this is an older Neo, who has experienced a semi-stable time loop a
 **2199:** _In earlier iterations of the Matrix, Neo confronts the Architect, makes a choice, and is sent back in time. In the sixth temporal iteration, Neo chooses differently._
 
 **2201:** The Machine War comes to an end. ([TMT])
+
+_The "equation" which led a series of AIs to attempt to destroy or control humanity has a balance. Humans can choose not to destroy themselves, and do so._
 
 Other properties
 ----------------
