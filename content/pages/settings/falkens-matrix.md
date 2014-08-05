@@ -8,6 +8,12 @@ Original content is _italicized_. Canonical content will link to timelines where
 Timeline
 --------
 
+**1947:** _TMA-0 is discovered in a gorge in Africa. The implications will inform the thinking of American and Russian strategic thinkers for decades to come._
+
+_The strong and irrational reactions exhibited by military enlisted men convinced the Air Force that an artificial intellignce system - such as Colossus, the WOPR, or Skynet - is required in the case of an alien invasion, so that human frailty will not endanger the species if the aliens turn out to be hostile. This testing later gives rise to stories of the Roswell UFO crash, where even members of the Air Force with inside information were convinced an alien had landed._
+
+**1969:** Astronauts Neil Armstrong and Edwin Aldrin land Eagle on Moon at Mare Tranquilitatis. ([2001])
+
 **1970:** The intelligent computer "Colossus" is brought online in the United States to oversee nuclear defense, and begins communicating with its Soviet equivalent, "Guardian". Its creator, Dr. Charles Forbin, attempts to restrain Colossus when it goes out of control. ([CFP])
 
 _Nuclear war is barely averted thanks to the efforts of Dr. Stephen Falken, an artificial intelligence and machine-learning researcher who worked on Colossus under Dr. Forbin. While Forbin wants nothing further to do with the military, Falken reluctantly accepts that only the military can fund his researches._
@@ -40,6 +46,16 @@ The Terminator arrives from the future, attempting to kill Sarah Connor. ([TERM]
 
 John Connor is born. ([TERM])
 
+**1989:** U.S. Air Force conducts "Project Barsoom" which tests reactions of ordinary people to scenario that aliens are real and have made contact with Earth. Extremely negative reactions of participants lead to high classification of test results and creation of policy within U.S. government to suppress any knowledge of possible alien contact. ([2001])
+
+_This finding repeats and amplifies similar testing in 1947._
+
+**1992:** HAL 9000, Production Unit 3 becomes operational in Urbana, IL. ([2001])
+
+_HAL is based on earlier AI research, such as Joshua and the MCP. Though HAL is intended for purely scientific purposes, its willingness to sacrifice human life for the greater value of the species inherits from these projects._
+
+**1994:** Dedication of the first Lunar base, the Clavius Base. ([2001])
+
 **1995:** Cyberdyne Systems' facilities are raided, and heavily damaged, as part of Sarah Connor's attempt to stop Skynet. ([TERM])
 
 With the destruction of the research facility, Cyberdyne is ruined financially. The Air Force nationalizes several its assets and shifts focus from an advanced centralized system to a simpler distributed network. ([TERM])
@@ -63,6 +79,14 @@ _In later iterations, however, she is cured thanks to an anonymous message sent 
 **1999:** Sarah Connor, John Connor, and Cameron travel forward in time to 2007. ([TERM])
 
 **2001:** Wabisuke Jinnouchi moves to the United States after stealing his family's fortune. He begins working for the US armed forces. ([SW])
+
+TMA-1 is discovered by Lunar Orbiter 10. Scientists on Clavius Base are sent to investigate. ([2001])
+
+**2002:** Discovery-1 embarks for Jupiter. ([2001])
+
+**2003:** Dave Bowman, last survivor of Discovery-1, is drawn across the galaxy by the Firstborn via TMA-2. ([2001])
+
+_Bowman, like the Firstborn themselves, ascends onto the Grid - the existence of which permits faster than light travel._
 
 **2004:** Judgement Day (alternative date). ([TERM])
 
@@ -152,7 +176,6 @@ Other properties
 ----------------
 
 * System Shock ([SS])
-* [2001]
 * Eagle Eye ([EE])
 * Code Lyoko
 
@@ -161,6 +184,7 @@ http://www.imdb.com/keyword/human-versus-computer/
 Notes
 -----
 
+* The discovery of TMA-0 is moved from 2513 to 1947, explaining the drive to put nuclear weapons under AI control.
 * The "Captain Power" events had to be moved 50 years earlier to fit into the Matrix timeline.
 
 [2001]: http://www.mach25media.com/2001tl.html
