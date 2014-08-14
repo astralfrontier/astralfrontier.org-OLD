@@ -80,6 +80,7 @@ _In later iterations, however, she is cured thanks to an anonymous message sent 
 
 **2001:** Wabisuke Jinnouchi moves to the United States after stealing his family's fortune. He begins working for the US armed forces. ([SW])
 
+
 TMA-1 is discovered by Lunar Orbiter 10. Scientists on Clavius Base are sent to investigate. ([2001])
 
 **2002:** Discovery-1 embarks for Jupiter. ([2001])
@@ -92,7 +93,13 @@ _Bowman, like the Firstborn themselves, ascends onto the Grid - the existence of
 
 _In this timeline, Skynet was activated to stop a mysterious virus infecting computers all over the world. In reality, this "virus" was the MCP's intrusion capabilities being wielded by Joshua._
 
+**2005:** _Wabisuke Jinnouchi works with Ethan Shaw, an Air Force lieutenant._
+
 **2007:** Sarah Connor, John Connor, and Cameron travel forward in time from 1999. ([TERM])
+
+**2008:** The supercomputer ARIIA is defeated by the efforts of Jerry Shaw and Rachel Holloman. ([EE])
+
+_ARIIA was a prototype of the Joshua-MCP-Skynet system, optimized for intelligence gathering._
 
 **2010:** Sam Flynn enters the Grid. Kevin Flynn defeats CLU. Sam returns with Quorra and takes control of ENCOM. ([TRON])
 
@@ -176,7 +183,6 @@ Other properties
 ----------------
 
 * System Shock ([SS])
-* Eagle Eye ([EE])
 * Code Lyoko
 
 http://www.imdb.com/keyword/human-versus-computer/
