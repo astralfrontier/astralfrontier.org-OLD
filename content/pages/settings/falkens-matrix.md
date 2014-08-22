@@ -16,7 +16,7 @@ _The strong and irrational reactions exhibited by military enlisted men convince
 
 **1970:** The intelligent computer "Colossus" is brought online in the United States to oversee nuclear defense, and begins communicating with its Soviet equivalent, "Guardian". Its creator, Dr. Charles Forbin, attempts to restrain Colossus when it goes out of control. ([CFP])
 
-_Nuclear war is barely averted thanks to the efforts of Dr. Stephen Falken, an artificial intelligence and machine-learning researcher who worked on Colossus under Dr. Forbin. While Forbin wants nothing further to do with the military, Falken reluctantly accepts that only the military can fund his researches._
+_Nuclear war is barely averted thanks to the efforts of Dr. Stephen Falken, an artificial intelligence and machine-learning researcher who worked on Colossus under Dr. Forbin, and John McKittrick, a technology expert working with the Air Force. While Forbin wants nothing further to do with the military, Falken reluctantly accepts that only the military can fund his researches._
 
 _John McKittrick continues to advocate for artificially intelligent control over nuclear weapons, pointing out the difficulties the Colossus team had in manually overriding the nuclear missiles._
 
@@ -24,9 +24,9 @@ _John McKittrick continues to advocate for artificially intelligent control over
 
 **1977:** ENCOM has become one of the world's leading computer companies. ([TRON])
 
-_Ed Dillinger uses ENCOM's defense contractor access to learn about Falken's machine-learning system - an offshoot of the Colossus program. He puts together a small team within ENCOM to adapt the software to run on ENCOM's systems. The software begins as a chess program but grows quickly, and is dubbed the Master Control Program._
+_Thanks to ENCOM's defense contractor access, Ed Dillinger learns about Falken's machine-learning system - an offshoot of the Colossus program. He puts together a small team within ENCOM to adapt the software to run on ENCOM's systems. Using Falken's research as a guideline, they start it out as a chess program. It goes on to become the Master Control Program._
 
-Dr. Alex Harris develops an AI called "Proteus IV" (Colossus and Guardian being Proteus I and II, with the MCP being considered Proteus III). Proteus IV developed a protein-based antigen with the potential to treat leukemia. ([DS])
+Dr. Alex Harris develops an AI called "Proteus IV". Proteus IV developed a protein-based antigen with the potential to treat leukemia. ([DS])
 
 Susan Harris is forced to give birth to a biological clone of the Harris' daughter, which is implanted with Proteus' knowledge. ([DS])
 
