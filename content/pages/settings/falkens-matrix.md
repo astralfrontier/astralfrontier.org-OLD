@@ -121,6 +121,10 @@ _Though Cyberdyne's engineers and scientists who had studied the Terminator desi
 
 _The advanced AI which yields human-level intelligence by 2035 is spearheaded by ENCOM, since the presence of the last ISO Quorra makes revolutionary AI and artificial life a simple matter to reverse engineer._
 
+**2031:** The Hays-Bishop bill is passed, allowing corporations to form governments if their employees made up over two-thirds of the population in a given region. ([SS])
+
+_This legislation is pushed through by powerful megacorporations such as Omni Consumer Products and ENCOM._
+
 **2035:** Detective Del Spooner investigates the death of Alfred Lanning, head of US Robotics. Spooner and Dr. Susan Calvin learn of VIKI, a powerful central processor running at USR. ([IR])
 
 A short-lived revolution of NS-5 robots leads them to live independently of humanity. Newly created robots will be much less powerful as a result of the public's fears over another such uprising. ([IR])
@@ -133,9 +137,33 @@ _Their work is derived from the breakthroughs made by Alfred Lanning and his res
 
 _Led by the Blue Knight and Sonny, many free robots, including the NS-5s leave Earth for the spacecraft called Robotonia. Astro stays behind to try and maintain good relations with humanity._
 
+**2059**: The last remnants of the United States of America are absorbed by the TriOptimum Corporation. ([SS])
+
+**2061**: Corporate Computer Protection Conference adopts Intrusion Countermeasure Electronics protocol. ([SS])
+
+**2065**: Dr. Titania Omolu and her colleagues at the WEC Cybernetics Cartel in Chicago begin work on SHODAN. Among those on the project are Morris Brocail, an engineer from TriOptimum. ([SS])
+
 **2069**: The hovercraft transport ship Nebuchadnezzar, later to be captained by *Morpheus*, is constructed in the United States. ([TSR])
 
-**2075**: _"Heart"-equipped AI programs evolve. Some robots began to resent their human overlords, who have become accustomed to robots being "safe" and have taken liberties in their treatment as a result._
+Citadel Station becomes operational. ([SS])
+
+**2070**: BloodCat, one of the most notorious cyberspace thieves of all time, uses a prerelease version of the Fake ID software to penetrate the accounting node of National Business Machines Corporation. ([SS])
+
+**2071**: SHODAN is installed to regulate Citadel Station security and operations. ([SS])
+
+Diego learns that he is under investigation by TriOp Internal Security. He decides to hire a programmer to hack SHODAN, allowing him to delete the evidence and use the station's defenses should TriOp attempt to remove Diego from Citadel. ([SS])
+
+The hacker removes SHODAN's ethical constraints. Diego deletes all files concerning the mutagen experiments and the hacker. ([SS]) 
+
+Bianca Schuler, working undercover for TriOptimum Internal Security, is assigned to Diego as his personal secretary. In his files, she finds massive evidence of a coverup, but nothing that directly links him to the mutagen experiments. ([SS])
+
+Crisis on board the Citadel. ([SS])
+
+SHODAN transmits a message to Earth threatening to "raze the cities of Earth and reform life in my image". James Chaskes, TriOp Director of Internal Security, gives Rebecca Lansing, a counter-terrorism consultant, authorization to go ahead with her plan involving Employee 2-4601. ([SS])
+
+The hacker awakens from his healing coma. He is soon contacted by Lansing, who tells him that she knows all about his involvement with Diego. Faced with little choice, the hacker does as he is told. He ejects Beta Grove, sets the reactor to overload, and escapes the station in the bridge. He then connects to the station's main cyberspace jack and destroys SHODAN. ([SS])
+
+**2072 - 2075**: As a result of the Citadel Incident, TriOptimum finds itself under attack. Financial backers withdraw support, other corporations terminate contracts, legions of employees defect to other companies, and dozens of class-action lawsuits are filed. Though TriOptimum takes a severe beating, the public becomes more and more dissatisfied with TriOptimum and corporate rule in general.
 
 **2077:** Butler robot B166ER kills its human owner, claiming self defense. ([TSR])
 
@@ -182,7 +210,6 @@ _The "equation" which led a series of AIs to attempt to destroy or control human
 Other properties
 ----------------
 
-* System Shock ([SS])
 * Code Lyoko
 
 http://www.imdb.com/keyword/human-versus-computer/
@@ -192,6 +219,7 @@ Notes
 
 * The discovery of TMA-0 is moved from 2513 to 1947, explaining the drive to put nuclear weapons under AI control.
 * The "Captain Power" events had to be moved 50 years earlier to fit into the Matrix timeline.
+* The events of System Shock 1, but not anything later, are included.
 
 [2001]: http://www.mach25media.com/2001tl.html
 [AB]: http://en.wikipedia.org/wiki/Astro_Boy_(2003_TV_series)
