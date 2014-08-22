@@ -165,15 +165,21 @@ The hacker awakens from his healing coma. He is soon contacted by Lansing, who t
 
 **2072 - 2075**: As a result of the Citadel Incident, TriOptimum finds itself under attack. Financial backers withdraw support, other corporations terminate contracts, legions of employees defect to other companies, and dozens of class-action lawsuits are filed. Though TriOptimum takes a severe beating, the public becomes more and more dissatisfied with TriOptimum and corporate rule in general.
 
+**2075**: Using the public's discontent to their advantage, the national governments of Earth unite to form the Unified National Nominate. They attempt to assume control of all megacorporate holdings but are met by armed resistance from corporate forces, igniting all-out war between the UNN and the megacorps. ([SS])
+
+**2076**: Processing Rationalisation Act passed by UNN, according to which computers should be downgraded so as they are unable to acquire cognition. ([SS])
+
 **2077:** Butler robot B166ER kills its human owner, claiming self defense. ([TSR])
+
+_Such intelligent robots are still being produced by companies like USR, TriOp, OCP, and more, in defiance of the act._
 
 **2082:** Powerful robots, called Bio-Mechs, have replaced soldiers in the world's armies. ([CP])
 
-_Bio-Mech construction is handled by companies like OCP, based on their decades of research into robotics._
+_Bio-Mech construction is handled by companies like OCP, based on their decades of research into robotics. They are used in the war between the UNN and the megacorps._
 
 Dr. Stuart Gordon Power and Lyman Taggart build OverMind, a control system which will override the Bio-Mechs, similar to the earlier VIKI system used by US Robotics. ([CP])
 
-_The pair have realized that the anti-machine violence, and robot retaliation, will present a major danger if these military robots align against the humans._
+_The pair have realized that the anti-machine violence, and robot retaliation, will present a major danger if these military robots align against all humans._
 
 **2080 - 2085:** Rioting and violence against machines prompts robots to flee major cities and establish their own community - known as Zero One - in a remote part of the Middle East. ([TSR])
 
