@@ -41,10 +41,3 @@ World of Warcraft: the Visual Novel
 Talking to my roommate about X-Com's FPS and its reaction from hardcore RTS fans, I likened it to WoW players encountering "World of Warcraft: the Visual Novel".
 
 Thrall returns to his hometown of Orgrimmar and encounters a variety of girls: unlucky childhood friend Taretha, tsundere shamaness Aggra, bookish Jaina, cunning Sylvanas, and mysterious Garona. Will his relationship with these girls change the direction of his life?
-
-Training Dummy
---------------
-
-An F-list villain, finally captured and thrown in jail after years of giving minor heroes grief, tells his life story: he was once a superhero, but saw that young supers didn't have enough mentoring. Those that he approached saw his attempts at guidance as patronizing, or were too impressed with their powers to listen to anyone else.
-
-So he became a villain, but a minor and incompetent one. He'd pick fights with young heroes, get trounced, but always make a getaway. Their victories - and the occasional humiliating "lucky shot" he'd get in - were his way of molding the next generation of hero.
