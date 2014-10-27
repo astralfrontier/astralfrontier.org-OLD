@@ -13,5 +13,6 @@
     %h3
       = @heading
       %small= @subtitle
+    %br
     - display_menu(@menu_items.reject { |i| i.respond_to?(:each) }, class: "inline-list")
     %hr
