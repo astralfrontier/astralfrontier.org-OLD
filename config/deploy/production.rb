@@ -10,7 +10,7 @@
 # server list. The second argument is a, or duck-types, Hash and is
 # used to set extended properties on the server.
 
-server 'astralfrontier.org', user: ENV['USER'], roles: [:web, :app]
+server 'astralfrontier.org', user: 'astralfrontier', roles: [:web, :app]
 
 # Custom SSH Options
 # ==================
