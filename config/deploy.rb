@@ -8,3 +8,5 @@ set :repo_url, 'git@github.com:astralfrontier/astralfrontier.org.git'
 # set :deploy_to, '/var/www/my_app'
 
 set :scm, :git
+
+set :bundle_bins, fetch(:bundle_bins, []).push('thin')
