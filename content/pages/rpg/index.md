@@ -3,7 +3,7 @@ Link text: Roleplaying
 
 # Roleplaying
 
-![D20](/attachments/art/200px-D20pic.svg.png){: align="right"}
+![D20](/attachments/art/200px-D20pic.svg.png){: align="right" class="show-for-medium-up"}
 
 I'm a fan of roleplaying games and RP in general. This includes classic tabletop (D&D-style games), newer narrativist-style games (Fate), and free-form online RP.
 
