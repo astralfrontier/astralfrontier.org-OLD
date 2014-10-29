@@ -10,6 +10,7 @@ gem 'rack-rewrite'
 gem 'capistrano', '~> 3.2.0'
 gem 'capistrano-bundler'
 gem 'capistrano-thin'
+gem 'sass', '3.4.5' # https://github.com/sass/sass/issues/1476
 
 group :development do
   gem 'shotgun'
