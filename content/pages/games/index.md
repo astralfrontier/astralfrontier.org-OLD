@@ -11,15 +11,20 @@ Columns: 2
 
 ### MMOs
 
-*World of Warcraft*
+#### Final Fantasy 14
+
+* [The Compleat Job](/games/ffxiv/jobs) - what levels you need for each job to max out the useful cross-class skills
+
+#### World of Warcraft
 
 * [Healing is the Hardest Role](/games/healing-is-the-hardest-role) - an explanation of what's wrong with healing.
 * [Here Be Draenei](/games/here-be-draenei) - now defunct. A guide to the old, hard-to-reach parts of Azeroth.
 * [Raid Tropes](/games/raid-tropes) - the examples are stale but many of these tropes are still with us.
 
-[Rift](/games/rift)
+#### Others
 
-[The Secret World](/games/tsw)
+* [Rift](/games/rift)
+* [The Secret World](/games/tsw)
 
 ### FPS and Multiplayer
 
