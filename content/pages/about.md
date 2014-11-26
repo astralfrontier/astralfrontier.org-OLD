@@ -26,6 +26,7 @@ Content                        | Author                 | License
 [Future Lies A]                | ycc2106                | CC-BY-NC-SA
 [Galaxy glow palette]          | Northern Dancer        | CC-BY-NC-SA
 [Guardian Angel]               | Ozakuya                | CC-BY-NC-ND
+[Lady Knight]                  | ogitaka                | CC-BY-NC-3.0
 [lambda.png]                   | Luks                   | Public Domain
 [Landscape Carina Nebula]      | Hubble                 | Public Domain
 [milkyway]                     | Troubadour1            | CC-BY-NC-SA
@@ -59,6 +60,7 @@ Some content is &copy; 2004 Blizzard Entertainment, Inc. All rights reserved. Wo
 [Future Lies A]: http://www.colourlovers.com/palette/1399398/Future_Lies_A_...
 [Galaxy glow palette]: http://www.colourlovers.com/palette/1239681/Galaxy_glow
 [Guardian Angel]: http://ozakuya.deviantart.com/art/Guardian-Angel-178586564
+[Lady Knight]: http://ogitaka.deviantart.com/art/Lady-Knight-463651774
 [lambda.png]: http://commons.wikimedia.org/wiki/File:Lambda_lc.svg
 [Landscape Carina Nebula]: http://commons.wikimedia.org/wiki/File:Landscape_Carina_Nebula.jpg
 [milkyway]: http://www.flickr.com/photos/9614328@N02/6034593855/
