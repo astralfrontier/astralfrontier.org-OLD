@@ -1,6 +1,9 @@
 Categories: rpg/inthyname
+Summary: A Vessel of the Wild lends his advice to the farmers of a plateau.
 
 # The Wild
+
+<img src="/attachments/art/shaman-king-nature-grace.jpg" align="right" alt="The Shaman King - Nature Grace" title="The Shaman King - Nature Grace" class="hide-from-small" />
 
 The Green Man was a welcome sight to the people of Crosswind Plateau.
 He would come and go as he pleased, staying long enough to swap stories, sell seeds,

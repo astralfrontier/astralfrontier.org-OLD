@@ -20,6 +20,8 @@ I'm playing [Legends of New Troy], using FAE. My PC is [Link]. I also have a sid
 
 I'm running [Wayward Stars], aka World War Xee and set in the same universe, also using FAE.
 
+I'm working on a new game tentatively called [In Thy Name](/rpg/inthyname).
+
 ### Game Wishlist
 
 I'd like to try out *The Strange*, *D&D 5th Edition*, *Pathfinder*, *Golden Sky Stories* (or a game very much like it), and many of the Fate or FAE settings out there such as Tianxia.

@@ -25,12 +25,14 @@ Content                        | Author                 | License
 [First_Background_by_N1LS.jpg] | ~N1LS                  | CC-BY-ND
 [Future Lies A]                | ycc2106                | CC-BY-NC-SA
 [Galaxy glow palette]          | Northern Dancer        | CC-BY-NC-SA
+[Guardian Angel]               | Ozakuya                | CC-BY-NC-ND
 [lambda.png]                   | Luks                   | Public Domain
 [Landscape Carina Nebula]      | Hubble                 | Public Domain
 [milkyway]                     | Troubadour1            | CC-BY-NC-SA
 [My Bookshelf palette]         | mavey                  | CC-BY-NC-SA
 [Project Cyborg]               | Transhuman-Project     | CC-BY-NC-SA-3.0
 [Quill (PSF).svg]              | Pearson Scott Foresman | Public Domain
+[Shaman King - Nature Grace]   | Eternalinpeace         | CC-BY-NC-ND
 [Tron Legacy 2 palette]        | polettomichele         | CC-BY-NC-SA
 [Tuxedo details.jpg]           | Nicogenin              | CC-BY-3.0
 [Walther PPK.svg]              | Nanoxyde               | GFDL or CC-BY-SA-3.0-2.5-2.0-1.0
@@ -56,6 +58,7 @@ Some content is &copy; 2004 Blizzard Entertainment, Inc. All rights reserved. Wo
 [First_Background_by_N1LS.jpg]: http://n1ls.deviantart.com/art/First-Background-62110789
 [Future Lies A]: http://www.colourlovers.com/palette/1399398/Future_Lies_A_...
 [Galaxy glow palette]: http://www.colourlovers.com/palette/1239681/Galaxy_glow
+[Guardian Angel]: http://ozakuya.deviantart.com/art/Guardian-Angel-178586564
 [lambda.png]: http://commons.wikimedia.org/wiki/File:Lambda_lc.svg
 [Landscape Carina Nebula]: http://commons.wikimedia.org/wiki/File:Landscape_Carina_Nebula.jpg
 [milkyway]: http://www.flickr.com/photos/9614328@N02/6034593855/
@@ -63,6 +66,7 @@ Some content is &copy; 2004 Blizzard Entertainment, Inc. All rights reserved. Wo
 [Paizo]: http://paizo.com/paizo/about/communityuse
 [Project Cyborg]: http://transhuman-project.deviantart.com/art/Project-Cyborg-99991151
 [Quill (PSF).svg]: http://commons.wikimedia.org/wiki/File:Quill_(PSF).svg
+[Shaman King - Nature Grace]: http://eternalinpeace.deviantart.com/art/The-Shaman-King-Nature-Grace-91583228
 [Tron Legacy 2 palette]: http://www.colourlovers.com/palette/1406402/Tron_Legacy_2
 [Tuxedo details.jpg]: http://commons.wikimedia.org/wiki/File:Tuxedo_details.jpg
 [Walther PPK.svg]: http://commons.wikimedia.org/wiki/File:Walther_PPK.svg
