@@ -1,6 +1,5 @@
 Date: 11 Dec 2014
-Summary: The same old song and dance
-Flags: draft
+Summary: The same old song and dance.
 
 # Healing Warlords of Draenor
 
@@ -52,4 +51,14 @@ Based on the rate of incoming damage, the dev statement that the healing changes
 
 ### The root of all evil: game balance
 
-So to recap: my options for gearing up have been narrowed. The major option for gearing to raid readiness now depends on my ability to do my primary job (healing) i
+So to recap: my options for gearing up have been narrowed. The major option for gearing to raid readiness now depends on my ability to do my primary job (healing) at the highest possible difficulty level. Why the highest? Because starting out is where my gear is weakest and my experience with the encounters is missing. Better gear makes the same encounters easier.
+
+If this is such a bad game experience, then why did Blizzard do things this way?
+
+In short, I think it's because they are trying to balance their game on the back of a set of flawed foundations. Let's look at those, and the ways in which other games (like FFXIV) have solved those problems. What is Blizzard's game play built upon?
+
+1. Small groups and large groups clearing instanced content. To keep things interesting, risk must be present. But when any mistake can kill the player or wipe the group, fewer players in the group means less risk. In FFXIV, a "light party" consists of 4 people (one tank, one healer, two damage dealers). The small raid in Warcraft is 10 people, while in FFXIV a "full party" is 8 people (two tanks, two healers, four damage dealers). This may seem like a simple change, but the feeling it creates is very different.
+2. Tanks, healers, and damage dealers having meaningful roles. In earlier expansions, raid leaders doing familiar content would bring fewer healers than normal to maximize their DPS. FFXIV solves this with the job system. If Bob's White Mage isn't the right job for this week's raid, Bob can job change to something more useful rather than being benched or having to bring an alt. Rather than driving up demand for raid healers by capping their effectiveness, Square gave the players more versatility.
+3. Driving encounters toward deliberation rather than reaction time. This was solved in FFXIV with a global cooldown of 2.5 seconds, not 1.5. This extra second gives a much more measured feeling to encounters, giving players plenty of time to think about what they're doing next.
+
+Every expansion has brought a new healing model to Warcraft. Warlords of Draenor is no different. Unfortunately, Blizzard has built so much atop a shaky foundation that making real and effective change to the root causes of their problems seems unlikely.
