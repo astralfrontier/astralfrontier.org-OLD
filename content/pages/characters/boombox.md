@@ -8,6 +8,7 @@ Categories: characters
 **High Concept:** Street kid with big dreams  
 **Trouble:** Respect is everything  
 **Aspects:**
+
 * Bruce Lee is my idol
 * Vibe's power, my moves
 * More educated than I seem

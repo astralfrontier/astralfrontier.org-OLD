@@ -3,11 +3,12 @@ Categories: characters
 
 # The Emerald Sentinel
 
-The Emerald Sentinel (N'ga)
+**The Emerald Sentinel (N'ga)**
 
 **High Concept:** Fearless tribal hunter turned superhero  
 **Trouble:** Stranger in a strange land  
 **Aspects:**
+
 * I must broaden my imagination
 * Wielder of the Green Lantern ring
 * Your technology means nothing to me
