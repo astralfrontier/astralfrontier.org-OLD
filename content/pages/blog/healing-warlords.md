@@ -46,6 +46,10 @@ You can see Joystiq's coverage of the "new healing model" [here](http://wow.joys
 
 That would be fine if incoming damage was also scaled down. Is it? In my most recent heroic instances, I watched people lose literally half their health to individual attacks. There was a lot of fire on the ground to walk in, and all of it did very aggressive damage. So I would have to say no, it's not. I feel like I need those big healing spells still. Heroic should be hard, I get that, but it should not be hard to the point where we lose 2-3 people per boss fight.
 
-Go ahead. Tell me I'm a bad healer for letting them die. If so, I was a bad healer among terrible healers while healing Siege of Orgrimmar through the last expansion, and even getting started late in the expansion I was ranking well on World of Logs' healer leader boards. I was good at healing triage, which is what the new model is all about.
-
 No tank in the world can keep DPS from standing in fire. If the DPS are bad at their jobs, I could at least compensate a little for that. That's no longer the case. If you stand in fire, you're going to die, and I can't help you. But that puts pressure on me, because trying to heal you up costs me time that I could be using for tank healing. And I have lost tanks on heroics, even well-geared ones that I've worked with before, simply because incoming damage was too high.
+
+Based on the rate of incoming damage, the dev statement that the healing changes are meant to ["replace testing reaction time with testing decision-making"](https://twitter.com/WatcherDev/status/441963850942783488) has failed to live up to its promise. There is no decision to make in 5-man right now - the decision has been made. At any given moment, it's either "the tank" or "all the DPS standing in fire". But reaction time definitely still matters.
+
+### The root of all evil: game balance
+
+So to recap: my options for gearing up have been narrowed. The major option for gearing to raid readiness now depends on my ability to do my primary job (healing) i
