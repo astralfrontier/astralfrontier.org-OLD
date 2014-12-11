@@ -27,7 +27,7 @@ If my guild wants a healer and wants to just combine efforts to craft me raid-re
 
 Apexis shards trickle in as mob loot at level 100, unless you're doing one of the two possible daily missions for either 800 or 1000 shards. The equippable items' costs start at around 5000 shards per piece. That's a week of dailies per piece, and only for the slots where items are available.
 
-Follower missions deliver item level 615 items once you've reached the point where missions reward gear at all, and they're blues with random stats. That's enough to barely get you into the door of heroics, but not enough to make you raid-ready.So in general, dungeon runs are what you need to fill all slots.
+Follower missions deliver item level 615 items once you've reached the point where missions reward gear at all, and they're blues with random stats. That's enough to barely get you into the door of heroics, but not enough to make you raid-ready. So in general, dungeon runs are what you need to fill all slots.
 
 ### Dungeon runs
 
