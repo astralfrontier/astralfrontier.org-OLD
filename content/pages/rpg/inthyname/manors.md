@@ -21,9 +21,9 @@ The report was complete and conclusive, the dinner delicious. Thanda retired to 
 
 "Yes? What is it?" Thanda blinked at the text on the page. The data seemed in good order. It must have been something minor.
 
-"I sabotaged the cairnstones." He said it almost casually. And Thanda immediately knew something was wrong. Not only was an act of rankest betrayal, something she'd been unable to foresee from spending the half-day in his presence, but she wasn't physically as shocked. The feeling of sleepiness - the spiciness of the meal - drugs!
+"I sabotaged the cairnstones." He said it almost casually. And Thanda immediately knew something was wrong. Not only was it an act of rankest betrayal, something she'd been unable to foresee from spending the half-day in his presence, but she wasn't physically as shocked. The feeling of sleepiness - the spiciness of the meal - drugs!
 
-She tried to stand, and her hand groped for the daggers she kept on her person. "Those won't help you," Davian remarked. The sound of booted feet in the hall confirmed his words. The door burst open and men poured in as Thanda wavered to her feet. None of these men or women were familiar. Mercenaries, then.
+She tried to stand, and her hand groped for the daggers she kept on her person. "Those won't help you," Davian remarked. The sound of booted feet in the hall confirmed his words. The door burst open and armed figures poured in as Thanda wavered to her feet. None of these men or women were familiar. Mercenaries, then. How long had he been planning this?
 
 "So like... your grandfather," Thanda gasped. She had to buy time while she felt for whatever might be left. Could she get him talking, or would he be as cold as the old man had been?
 
@@ -39,6 +39,6 @@ She tried to stand, and her hand groped for the daggers she kept on her person. 
 
 Thanda admired the boy's scheme over a midnight snack of roast rabbit. The tiny fire was the only light in a forest of black. And she stared into the flame, thinking. Davian had certainly inherited his grandfather's knack for planning. The "wagon wreck" at the manor house was a fake, with the repair efforts hiding the cairnstones from her sight until she was inside.
 
-The people of the manor might believe her if she pled her case to them, if Davian hadn't already concocted a story to deceive them. Or they might be loyal to Davian after all, if he explained his cause to them. There was too much she didn't know about the situation, even if there were other surviving cairnstones.
+The people of the manor might believe her if she pled her case to them, if Davian hadn't already concocted a story to deceive them. Or they might be loyal to Davian after all, if he explained his cause to them. After all, he'd personally had no chance to drug her food. That meant at least one conspirator in the household staff.
 
-Without the cairnstones, she lacked power. She'd need conventional forces of her own. She'd need friends. It was time to leave the manor lands and find her old allies. This was going to take time.
+There was too much she didn't know about the situation, even if there were other surviving cairnstones. And without the cairnstones, she lacked power. She'd need conventional forces of her own. She'd need friends. It was time to leave the manor lands and find her old allies. This was going to take time.
