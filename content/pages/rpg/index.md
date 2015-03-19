@@ -16,11 +16,9 @@ I'm a contributor on the Google Plus Fate Core community and [Station 53], and h
 
 ### My Games
 
-I'm playing [Legends of New Troy], using FAE. My PC is [Link]. I also have a side-story blog here: [Snow in New Troy](http://snowinnewtroy.blogspot.com/)
+I'm running a FAE supers game, called [Super-Sheriffs of Sagan City](https://www.tavern-keeper.com/campaign/764/latest), and playing in two other games, [Heroes Accelerated](https://www.tavern-keeper.com/campaign/751/latest) and [TianXia: Iron, Blood, and Shadow](https://www.tavern-keeper.com/campaign/653/latest).
 
-I'm running [Wayward Stars], aka World War Xee and set in the same universe, also using FAE.
-
-I'm working on a new game tentatively called [In Thy Name](/rpg/inthyname).
+In my spare time, I'm writing rules for a new game tentatively called [In Thy Name](/rpg/inthyname), and exploring other game ideas.
 
 ### Game Wishlist
 
@@ -41,9 +39,6 @@ These are logs of games I ran online.
 
 [Junkyard Heroes] - A game about blue-collar superheroes, run in GURPS.
 
-[Legends of New Troy]: http://newtroy.astralfrontier.org/wiki/Main_Page
-[Wayward Stars]: http://imperium.astralfrontier.org/wiki/Main_Page
-[Link]: http://newtroy.astralfrontier.org/wiki/Link
 [Create Advantage as Combo Builder]: /rpg/create-advantage-as-combo-builder
 [Fate]: /rpg/fate
 [FUTILE OCTAVE]: /rpg/futile-octave
