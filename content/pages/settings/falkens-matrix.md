@@ -11,7 +11,7 @@ Timeline
 
 **1947:** _TMA-0 is discovered in a gorge in Africa. The implications will inform the thinking of American and Russian strategic thinkers for decades to come._
 
-_The strong and irrational reactions exhibited by military enlisted men convinced the Air Force that an artificial intellignce system - such as Colossus, the WOPR, or Skynet - is required in the case of an alien invasion, so that human frailty will not endanger the species if the aliens turn out to be hostile. This testing later gives rise to stories of the Roswell UFO crash, where even members of the Air Force with inside information were convinced an alien had landed._
+_The strong and irrational reactions exhibited by military enlisted men convinced the Air Force that an artificial intelligence system - such as Colossus, the WOPR, or Skynet - is required in the case of an alien invasion, so that human frailty will not endanger the species if the aliens turn out to be hostile. This testing later gives rise to stories of the Roswell UFO crash, where even members of the Air Force with inside information were convinced an alien had landed._
 
 **1969:** Astronauts Neil Armstrong and Edwin Aldrin land Eagle on Moon at Mare Tranquilitatis. ([2001])
 
@@ -218,6 +218,7 @@ Other properties
 ----------------
 
 * Code Lyoko
+* Ex Machina (2015)
 
 http://www.imdb.com/keyword/human-versus-computer/
 
