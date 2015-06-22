@@ -8,6 +8,7 @@ drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
 jade            = require 'metalsmith-jade'
 less            = require 'metalsmith-less'
+link_checker    = require 'metalsmith-broken-link-checker'
 markdown        = require 'metalsmith-markdown'
 metadata        = require 'metalsmith-metadata'
 pagination      = require 'metalsmith-pagination'
@@ -93,6 +94,7 @@ metalsmith(__dirname)
   .use(beautify({
     html: { wrap_line_length: 80 }
   }))
+  .use(link_checker({warn: true}))
   .destination('./build')
 # .use(serve({
 #   host: '0.0.0.0'

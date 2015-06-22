@@ -1,0 +1,11 @@
+extends ./sidebar-right.jade
+
+block sidebar
+  h2 Stories
+  ul
+    for story in collections.masque
+      li
+        a(href="/"+story.path)= story.title
+        if story.synopsis
+          br/
+          small= story.synopsis
