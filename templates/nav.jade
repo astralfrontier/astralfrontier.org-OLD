@@ -1,0 +1,12 @@
+div.site-nav-masthead
+  div.container
+    nav.site-nav
+      for item in nav
+        if new RegExp(item.regex).test(path)
+          a.site-nav-item.active(href=item.path)= item.label
+        else
+          a.site-nav-item(href=item.path)= item.label
+      a.site-nav-item.pull-right(href="/rss.xml")
+        i.fa.fa-rss
+      a.site-nav-item.pull-right(href="mailto:garrett@astralfrontier.org")
+        i.fa.fa-envelope-o

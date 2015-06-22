@@ -1,0 +1,23 @@
+extends ./fullpage.jade
+
+block main
+  h1 Reviews
+  div.container
+    div.row
+      for review in pagination.files
+        div.col-md-4
+          h2= review.title
+          p= review.synopsis
+          p
+            a.btn.btn-default(role="button" href="/"+review.path) Read more &raquo;
+    div.row
+      nav
+        ul.pagination
+          if pagination.previous
+            li
+              a(href=pagination.previous.path) &laquo;
+          li
+            a(href=path)= pagination.num
+          if pagination.next
+            li
+              a(href=pagination.next.path) &raquo;

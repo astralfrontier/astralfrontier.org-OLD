@@ -1,0 +1,35 @@
+---
+title: Astral Frontier
+template: basic.jade
+---
+
+div.jumbotron
+  div.container
+    h1 Kimi ni Todoke
+    p I've started writing reviews for movies, series, and games that I enjoy. You can find the first one here.
+    p
+      a.btn.btn-primary.btn-lg(role="button" href="/review/kimi-ni-todoke.html") Read more &raquo;
+div.container
+  div.row
+    div.col-md-4
+      h2 Vessels
+      p I'm working on a new roleplaying game, built around manipulation of emotion.
+      p
+        a.btn.btn-default(role="button" href="/fiction/vessels.html") Read more &raquo;
+    div.col-md-4
+      h2 Falken's Matrix
+      p Do you want a world where #[strong every] hostile-AI story happened? Because I've got one.
+      p
+        a.btn.btn-default(role="button" href="/fiction/falkens-matrix.html") Read more &raquo;
+    div.col-md-4
+      h2 Avengers Accelerated
+      p My series of articles about modeling the Avengers' Battle of New York, using Fate Accelerated Edition.
+      p
+        a.btn.btn-default(role="button" href="http://station53.blogspot.com/2014/07/avengers-accelerated-invasion-begins.html") Read more &raquo;
+  div.row
+    div.col-md-12#social_media
+      for link in social_media
+        a(href=link.url)
+          | &nbsp;
+          i.fa(class="fa-"+link.icon)
+          | &nbsp;

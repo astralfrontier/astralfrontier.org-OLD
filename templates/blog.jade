@@ -1,0 +1,28 @@
+extends ./fullpage.jade
+
+block title
+  | Blog posts
+
+block main
+  h1 Blog
+  div.container
+    div.row
+      div.col-md-12
+        for post in pagination.files
+          h4
+            = post.title
+            small &nbsp;- #{post.date.toDateString()}
+          p= post.synopsis
+          p
+            a.btn.btn-default(role="button" href="/"+post.path) Read more &raquo;
+    div.row
+      nav
+        ul.pagination
+          if pagination.previous
+            li
+              a(href=pagination.previous.path) &laquo;
+          li
+            a(href=path)= pagination.num
+          if pagination.next
+            li
+              a(href=pagination.next.path) &raquo;

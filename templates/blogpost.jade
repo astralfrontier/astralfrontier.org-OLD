@@ -1,0 +1,14 @@
+extends ./sidebar-right.jade
+
+block main
+  h1= title
+  != contents
+
+block sidebar
+  h2 Recent posts
+  ul
+    for post in collections.blog
+      li
+        a(href="/"+post.path)= post.title
+        br/
+        small Posted on #{post.date.toDateString()}
