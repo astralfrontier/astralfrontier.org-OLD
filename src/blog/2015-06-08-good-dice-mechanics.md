@@ -7,6 +7,8 @@ synopsis: What makes a dice rolling mechanic for RPGs fun, good, and fast?
 
 Because most RPGs have you roll dice fairly frequently, and because most games use the dice for most of their mechanics, it's important that the specific rules around rolling dice are *inclusive*, *expressive*, *believable*, and *simple*.
 
+<!-- more -->
+
 Inclusiveness means that the dice mechanic can accommodate as many situations as the rest of the rules are likely to demand. Some games use multiple types of die rolls for different tasks. For example, the d20 system, GURPS, and Hero all roll one set of dice for success on things like an attack, but roll a different set for damage or effectiveness. Others roll everything in the same way, or a similar way. White Wolf's Storyteller system rolls pools of d10s with variable target numbers, with only minor modifications for cases like damage rolls vs. success rolls.
 
 Expressiveness means that you can supply more input variables, and/or get back more output variables, as part of the rolling process. For example, the Storyteller system has three variables you can feed into its roll: number of dice being rolled, target number that each die must hit, and number of times the target number was hit to count as a success. The output of that roll is a success/failure flag, a flag indicating a "botch" (when enough of the dice roll 1), and a number of excess successes over and above the minimum.

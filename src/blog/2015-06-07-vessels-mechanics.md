@@ -15,6 +15,8 @@ One of the things that's kept me from doing this game already is my fear about p
 
 Points 1 and 2 are what keeps me from just writing a DW/AW hack and shipping. I actually had written [Simple World] rules but I was unsatisfied with them. The main reason is how I interpret how the World games handle difficulty. And the way I think of that is like a train robbery.
 
+<!-- more -->
+
 Dungeon World as Train Robbery
 ------------------------------
 

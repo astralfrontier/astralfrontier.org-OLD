@@ -11,6 +11,8 @@ What do I want out of this game? While this isn't an AW/DW game, that design voc
 * Rules should tell you what's on your character sheet, or how moves work. All other rules should be moves.
 * Whenever possible, character sheets and moves should be self-documenting.
 
+<!-- more -->
+
 Stakes:
 
 * Something must be at stake for both players and PCs.

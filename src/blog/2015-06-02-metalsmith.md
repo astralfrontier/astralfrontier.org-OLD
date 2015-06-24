@@ -2,10 +2,11 @@
 title: Metalsmith
 template: blogpost.jade
 collection: blog
-synopsis: The new astralfrontier.org layout and backend
 ---
 
 I've rewritten the astralfrontier.org site from using [Nesta] to [Metalsmith], a Node-based static site creator. There's a few reasons for the transition.
+
+<!-- more -->
 
 1. I've been interested in learning more about Node.js. While Nesta is written in Ruby, it doesn't really teach me anything significantly new about Ruby. I did do some monkey-patching of Nesta functionality to make it work more like I wanted, but that was the application of a familiar skill.
 2. The site is pretty static by nature, so there's no need for a live server running except to handle things like dynamic redirects.

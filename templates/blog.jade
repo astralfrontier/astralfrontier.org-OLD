@@ -12,5 +12,5 @@ block main
           h4
             a(href="/"+post.path)= post.title
             small &nbsp;- #{post.date.toDateString()}
-          p= post.synopsis
+          != post.less
     include ./pagination.jade

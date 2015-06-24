@@ -9,6 +9,8 @@ I originally posted this on Ello in two parts ([Part 1], [Part 2]). This is a re
 
 Mostly I need better terminology for some of these things, and a truckload of playtesting. I wrote [Inept Sorcerers] around this dice mechanic, and it's theoretically a playable game, so if you want to help me test it, let's start with that.
 
+<!-- more -->
+
 Goals
 -----
 

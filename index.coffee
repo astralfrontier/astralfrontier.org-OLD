@@ -11,6 +11,7 @@ less            = require 'metalsmith-less'
 link_checker    = require 'metalsmith-broken-link-checker'
 markdown        = require 'metalsmith-markdown'
 metadata        = require 'metalsmith-metadata'
+more            = require 'metalsmith-more'
 pagination      = require 'metalsmith-pagination'
 path            = require 'metalsmith-path'
 serve           = require 'metalsmith-serve'
@@ -109,6 +110,9 @@ metalsmith(__dirname)
     destination: './assets'
   }))
   .use(path())
+  .use(more({
+    alwaysAddKey: true
+  }))
   .use(templates({
     engine: 'jade'
     directory: 'templates'
@@ -118,7 +122,7 @@ metalsmith(__dirname)
   .use(beautify({
     html: { wrap_line_length: 80 }
   }))
-  .use(link_checker({warn: true}))
+  .use(link_checker())
   .destination('./build')
 # .use(serve({
 #   host: '0.0.0.0'

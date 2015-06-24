@@ -2,6 +2,7 @@ extends ./sidebar-right.jade
 
 block main
   h1= title
+  small Posted on #{date.toDateString()}
   != contents
 
 block sidebar

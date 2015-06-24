@@ -11,6 +11,8 @@ Aside from novelty, what does this system bring to the table? It brings *risk*, 
 
 In the new system, anyone can technically attempt anything. Nothing stops you from accumulating dice to pay off a high Action Cost. At the end of the day, high skill doesn't give you more opportunities, it just prevents more things from going badly. There's a gatekeeper, of course: if the GM doesn't think you get to make the roll at all, you don't. The bespectacled professor isn't going to lift a 10-ton rock off his crushed car, unless he also has superpowers.
 
+<!-- more -->
+
 To see what I mean, let's imagine a PC party trekking through the jungle. Nearby are some bad guys, waiting in ambush. It would be interesting to determine if the PCs notice the ambush, so that calls for a roll. The GM has set the Action Cost for a "Realize" type action at 18 - fairly steep as things go. Let's imagine two different PCs making this same roll.
 
 First is the capable, wilderness-savvy ranger type. He's got a special action or feat or something that gives him an Ability of 6 to notice ambushes. He rolls d4 (3), d6 (3), d8 (6), and d10 (2). This reduces the AC from 18 to 15, 12, 6, and 4, respectively. His final roll on d12 (11) brings it to -7, fully paying off the Action Cost and leaving 7 points of Risk. He adds his Ability leaving 1 point of Risk. "You overlook a minor detail," says the GM. "You'll find out about it after the fight." The player agrees, and the combat begins.
