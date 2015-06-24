@@ -10,11 +10,9 @@ block main
       div.col-md-12
         for post in pagination.files
           h4
-            = post.title
+            a(href="/"+post.path)= post.title
             small &nbsp;- #{post.date.toDateString()}
           p= post.synopsis
-          p
-            a.btn.btn-default(role="button" href="/"+post.path) Read more &raquo;
     div.row
       nav
         ul.pagination
