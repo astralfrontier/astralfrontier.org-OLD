@@ -13,14 +13,4 @@ block main
             a(href="/"+post.path)= post.title
             small &nbsp;- #{post.date.toDateString()}
           p= post.synopsis
-    div.row
-      nav
-        ul.pagination
-          if pagination.previous
-            li
-              a(href=pagination.previous.path) &laquo;
-          li
-            a(href=path)= pagination.num
-          if pagination.next
-            li
-              a(href=pagination.next.path) &raquo;
+    include ./pagination.jade
