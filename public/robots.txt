@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /user
-Disallow: /book/export
-Disallow: /taxonomy
-Disallow: /category
-Disallow: /tracker
-Disallow: /glossary
-Disallow: /node/*
