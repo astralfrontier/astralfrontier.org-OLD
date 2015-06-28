@@ -10,7 +10,9 @@ forward to gussy it up a bit - adding art, doing better layout,
 and so forth.
 
 If you are interested in discussing the game, I've got a new
-phpBB forum installed [here](http://forum.astralfrontier.org/).
+phpBB forum installed here:
+[http://forum.astralfrontier.org/](http://forum.astralfrontier.org/)
+
 Register for an account - it'll require you to follow an activation
 link sent via email - and let me know what you think of the game,
 what you'd like it to do, or anything else.
