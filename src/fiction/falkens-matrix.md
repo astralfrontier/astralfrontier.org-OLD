@@ -120,9 +120,13 @@ _Note: No timeline exists for Ex Machina, so it is placed here to allow for Ava'
 
 **2015:** The "RoboCop" project is unveiled by OCP. Due to problems with the ED-209 and the success of RoboCop, ethical constraints are considered a mandatory feature for any robot intending to interact with humans. ([RC])
 
-_Though Cyberdyne's engineers and scientists who had studied the Terminator design retained their knowledge, the ED-209 was physically effective but behaviorally flawed. The Three Laws of Robotics are introduced to restrain robot behavior._
+_Though Cyberdyne's engineers and scientists who had studied the Terminator design retained their knowledge, the ED-209 was physically effective but behaviorally flawed._
 
 _The advanced AI which yields human-level intelligence by 2035 is spearheaded by ENCOM, since the presence of the last ISO Quorra makes revolutionary AI and artificial life a simple matter to reverse engineer._
+
+**2025:** Delos, a high-tech adult amusement park populated by robots, suffers a severe technical failure resulting in the deaths of almost everyone at the park. ([WW])
+
+_Placement is arbitrary. Futureworld suggests a date of 1985, which is both anachronistic in the real world and inconsistent with the timeline. It is placed here to reflect the period prior to Three Laws robots, but after human-realistic androids could plausibly have been introduced into the setting._
 
 **2031:** The Hays-Bishop bill is passed, allowing corporations to form governments if their employees made up over two-thirds of the population in a given region. ([SS])
 
@@ -218,7 +222,7 @@ _In reality, this is an older Neo, who has experienced a semi-stable time loop a
 
 **2201:** The Machine War comes to an end. ([TMT])
 
-_The "equation" which led a series of AIs to attempt to destroy or control humanity has a balance. Humans can choose not to destroy themselves, and do so._
+_The "equation" which led a series of AIs to attempt to destroy or control humanity has a balance. Humans can choose not to destroy themselves, and do now consciously choose to live in peace._
 
 Notes
 -----
@@ -245,3 +249,4 @@ Notes
 [TMT]: http://usatoday30.usatoday.com/life/movies/news/2003-11-04-matrixwhen_x.htm
 [VR5]: http://en.wikipedia.org/wiki/VR.5
 [WG]: http://en.wikipedia.org/wiki/WarGames
+[WW]: https://en.wikipedia.org/wiki/Westworld
