@@ -5,9 +5,11 @@ collection: blog
 ---
 
 I've been looking for a way to play-test the
-[cue system I described earlier](2015-07-06-cues.html).
+[cue system I described earlier](/blog/2015-07-06-cues.html).
 I could plug it into [Inept Sorcerers](/assets/rpg/IneptSorcerers.pdf),
 but I thought of another possibility: make a separate game.
+
+<!-- more -->
 
 **It Was There, Honest!** is about a group of kids telling a parent,
 uncle, or other authority figure about something unbelievable.
@@ -15,8 +17,6 @@ In the mountains, they found a cave that led to a fantastic valley of
 dinosaurs and cave-men. They fell down a hole and encountered talking
 rabbits and red-eyed goblins. They were abducted by aliens using a
 floating blue force field. Whatever.
-
-<!-- more -->
 
 There's no traditional GM, only the Authority Figure.
 The AF's job is not to tell the kids what happened - that's what the kids do.
