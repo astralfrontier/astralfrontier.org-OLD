@@ -16,6 +16,7 @@ pagination      = require 'metalsmith-pagination'
 path            = require 'metalsmith-path'
 serve           = require 'metalsmith-serve'
 templates       = require 'metalsmith-templates'
+yaml            = require 'metalsmith-yaml'
 
 fs = require 'fs'
 main_bower_files = require 'main-bower-files'
@@ -104,6 +105,7 @@ metalsmith(__dirname)
     gfm: true
     tables: true
   }))
+  .use(yaml({}))
 # .use(bower_plugin({}))
   .use(assets({
     source: './assets'
