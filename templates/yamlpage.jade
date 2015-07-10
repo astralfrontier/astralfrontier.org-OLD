@@ -1,0 +1,26 @@
+extends ./basic.jade
+
+block contents
+  include ./nav.jade
+  div.container
+    div.row
+      for column in yaml_contents.columns
+        div(class="col-md-#{column.width}")
+          for entry in column.entries
+            h2= entry.name
+            if entry.desc
+              p!= entry.desc
+            if entry.url
+              a.btn.btn-default(role="button" href=entry.url)
+                if entry.pdf
+                  i.fa.fa-file-pdf-o
+                  | &nbsp;
+                | Read more &raquo;
+            if entry.bullets
+              ul
+                for bullet in entry.bullets
+                  li
+                    a(href=bullet.url)= bullet.name
+                    if bullet.desc
+                      br/
+                      small!= bullet.desc

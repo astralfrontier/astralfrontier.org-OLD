@@ -1,0 +1,75 @@
+---
+title: Games
+template: yamlpage.jade
+---
+
+columns:
+  - width: 4
+    entries:
+      - name: Final Fantasy XIV
+        desc: This is my preferred MMO.
+        bullets:
+          - name: FFXIV Guild
+            desc: Leveling guides for all classes and jobs
+            url: http://www.ffxivguild.com/
+          - name: Atma farming theory
+            desc: How to quickly acquire Atma tokens for your relic weapon.
+            url: https://www.reddit.com/r/ffxiv/comments/22p1w8/japanese_atma_farming_theory
+      - name: World of Warcraft
+        bullets:
+          - name: Healing is the Hardest Role
+            desc: The problems healers face in progression raid content.
+            url: /games/healing-is-the-hardest-role.html
+          - name: Top 10 Signs You're Watching the Warcraft Movie
+            desc: How will viewers be able to tell whether the movie lives up to expectations?
+            url: /games/top-10-warcraft.html
+      - name: RPG Design Patterns
+        desc: An invaluable document - not mine - that decomposes RPGs into their component pieces.
+        url: http://legendaryquest.netfirms.com/books/RPG_Design_Patterns_9_13_09.pdf
+        pdf: true
+  - width: 4
+    entries:
+      - name: Active RPGs
+        desc: I'm running one game and playing in two more, hosted on Tavern Keeper.
+        bullets:
+          - name: Super-Sheriffs of Sagan City
+            url: https://www.tavern-keeper.com/campaign/764/latest
+          - name: Heroes Accelerated
+            url: https://www.tavern-keeper.com/campaign/751/latest
+          - name: TianXia - Iron, Blood, and Shadow
+            url: https://www.tavern-keeper.com/campaign/653/latest
+      - name: Fate Core/FAE
+        bullets:
+          - name: Create Advantage as Combo Builder
+            desc: One way to think of Create Advantage in conflicts.
+            url: /games/create-advantage-as-combo-builder.html
+          - name: Creating Challenging Opponents
+            desc: Ways to effectively stage a conflict.
+            url: http://station53.blogspot.com/2015/01/the-tao-of-fate-creating-challenging.html
+      - name: Avengers Accelerated
+        desc: A set of posts describing the Battle of New York from "The Avengers" as a Fate Accelerated Edition conflict.
+        bullets:
+          - name: Part 1
+            url: http://station53.blogspot.com/2014/07/avengers-accelerated-invasion-begins.html
+          - name: Part 1
+            url: http://station53.blogspot.com/2014/07/avengers-accelerated-war-part-25.html
+          - name: Part 1
+            url: http://station53.blogspot.com/2014/07/avengers-accelerated-avengers-assembled.html
+          - name: Part 1
+            url: http://station53.blogspot.com/2014/07/avengers-accelerated-hope-is-lost-part.html
+          - name: Part 1
+            url: http://station53.blogspot.com/2014/08/avengers-accelerated-sacrifice-play.html
+          - name: PC Character Sheets
+            url: https://docs.google.com/document/d/1jdLwE_ayNgjAZuVD0XllUvSJ_r5yJPXBrzMz9YgUGEw/edit
+  - width: 4
+    entries:
+      - name: Fairy Soul
+        desc: A Simple World game about urban fantasy in the 1880s.
+        url: /games/fairy-soul.html
+      - name: Inept Sorcerers
+        desc: This is a small game I put together to test out a new dice mechanic.
+        url: /assets/rpg/IneptSorcerers.pdf
+        pdf: true
+      - name: Procedural Culture Generation
+        desc: I'm writing on Ello about how to generate plausible fictional cultures using Perlin noise and other tools.
+        url: https://ello.co/astralfrontier
