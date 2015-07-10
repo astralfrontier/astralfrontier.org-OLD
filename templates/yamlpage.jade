@@ -2,6 +2,18 @@ extends ./basic.jade
 
 block contents
   include ./nav.jade
+  if yaml_contents.hero
+    div.jumbotron
+      div.container
+        h1= yaml_contents.hero.name
+        if yaml_contents.hero.desc
+          p!= yaml_contents.hero.desc
+        if yaml_contents.hero.url
+          a.btn.btn-default(role="button" href=yaml_contents.hero.url)
+            if yaml_contents.hero.pdf
+              i.fa.fa-file-pdf-o
+              | &nbsp;
+            | Read more &raquo;
   div.container
     div.row
       for column in yaml_contents.columns
