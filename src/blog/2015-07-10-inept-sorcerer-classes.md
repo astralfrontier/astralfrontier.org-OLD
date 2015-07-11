@@ -22,8 +22,8 @@ manner of other magical concoctions.
 *New card*: ...In a Bottle [3]: you can capture the essence of a spell
 in liquid form, storing it safely. At any time, cast a spell with this
 card to carry the spell around as a potion. You may use that spell once,
-at any later time, without drawing power or using the spellcasting rules
-- the spell takes effect immediately.
+at any later time, without drawing power or using the spellcasting rules -
+the spell takes effect immediately.
 You cannot carry more such potions than your Chaos Capacity.
 
 *Typical Bothers*: Laboratory explosions, foul smells, and blackened
