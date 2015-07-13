@@ -93,12 +93,12 @@ I LOVE THIS: ~"I have already developed a tool for overcoming contempt" = plus t
  
 Yeah, "backstory as tactical tool" has been part of the plan since the beginning. Ideally I wanted to provide people both fluff ("you can narrate whatever you like") and crunch ("there's an optimal route through this emotional maze, my understanding of the rules will help me find it.")  That's why it's so important for me to get something approximating good science. :)
 
-Angyl - Jun 29, 2015
+### Angyl - Jun 29, 2015
  
 Vague related from today's newsfeed
 http://blogs.psychcentral.com/after-trauma/2015/06/pendulum-of-change-a-cbt-activity/?utm_source=dlvr.it&utm_medium=facebook
 
-Bill Garrett - Jun 29, 2015+1
+### Bill Garrett - Jun 29, 2015+1
  
 ...Fluttershy?
 
