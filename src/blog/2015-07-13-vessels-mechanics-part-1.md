@@ -8,6 +8,8 @@ The "Vessels" game I've been working on has been a struggle.
 Questions needed answering: what do emotions really do in a group
 situation? What is the right way to model influencing those emotions?
 
+<!-- more -->
+
 I put up some [notes](/games/vessels-notes.html) from a conversation I
 had with a friend on G+, who's a subject matter expert on the brain.
 This was thoroughly enlightening, and gave me a model to work from:
