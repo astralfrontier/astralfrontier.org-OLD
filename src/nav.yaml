@@ -20,3 +20,6 @@
 - label: About
   path: /about.html
   regex: ^about
+- label: Forum
+  path: http://forum.astralfrontier.org/
+  regex: ^forum
