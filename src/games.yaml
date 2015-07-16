@@ -15,6 +15,9 @@ columns:
           - name: Atma farming theory
             desc: How to quickly acquire Atma tokens for your relic weapon.
             url: https://www.reddit.com/r/ffxiv/comments/22p1w8/japanese_atma_farming_theory
+          - name: Gearing up at level 60
+            desc: A blog post explaining how to reach raid-ready gear levels in Heavensward.
+            url: http://na.finalfantasyxiv.com/lodestone/character/3938468/blog/2342792/
       - name: World of Warcraft
         bullets:
           - name: Healing is the Hardest Role
