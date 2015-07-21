@@ -63,8 +63,7 @@ collection_data = {
   masque:
     sortBy: 'title'
   reviews:
-    sortBy: 'date'
-    reverse: true
+    sortBy: 'title'
   songofeden:
     sortBy: 'title'
   vessels:
