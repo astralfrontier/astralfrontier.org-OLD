@@ -1,3 +1,6 @@
+- icon: envelope-o
+  name: Email
+  url: mailto:garrett@astralfrontier.org
 - icon: share-alt
   name: Ello
   url: https://ello.co/astralfrontier

@@ -123,7 +123,7 @@ metalsmith(__dirname)
   .use(beautify({
     html: { wrap_line_length: 80 }
   }))
-  .use(link_checker())
+  .use(link_checker({warn: true}))
   .destination('./build')
 # .use(serve({
 #   host: '0.0.0.0'

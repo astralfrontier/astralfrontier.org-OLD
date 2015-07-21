@@ -8,5 +8,13 @@ div.site-nav-masthead
           a.site-nav-item(href=item.path)= item.label
       a.site-nav-item.pull-right(href="/rss.xml")
         i.fa.fa-rss
-      a.site-nav-item.pull-right(href="mailto:garrett@astralfrontier.org")
-        i.fa.fa-envelope-o
+      div.dropdown.pull-right
+        a.dropdown-toggle.site-nav-item#socialmedia(data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#")
+          i.fa.fa-share-alt
+        ul.dropdown-menu(aria-labelledby="socialmedia")
+          for site in social_media
+            li
+              a(href=site.url)
+                i.fa(class="fa-#{site.icon}")
+                | &nbsp;
+                = site.name
