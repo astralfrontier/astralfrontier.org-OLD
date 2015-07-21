@@ -1,0 +1,27 @@
+---
+title: Astral Frontier
+template: yamlpage.jade
+---
+
+hero:
+  name: Kimi ni Todoke
+  desc: I've started writing reviews for movies, series, and games that I enjoy. You can find the first one here.
+  url: /review/kimi-ni-todoke.html
+columns:
+  - width: 4
+    entries:
+      - name: Inept Sorcerers
+        desc: I'm publishing a small game about would-be wizards. Check it out!
+        url: /assets/rpg/IneptSorcerers.pdf
+        pdf: true
+  - width: 4
+    entries:
+      - name: Vessels
+        desc: I'm working on a new roleplaying game, built around manipulation of emotion.
+        url: /fiction/vessels.html
+  - width: 4
+    entries:
+      - name: Falken's Matrix
+        desc: Do you want a world where <em>every</em> hostile-AI story happened? Because I've got one.
+        url: /fiction/falkens-matrix.html
+
