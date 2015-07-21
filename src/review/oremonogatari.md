@@ -19,11 +19,11 @@ His best friend, Sunakawa Makoto, is a typically bishounen high school hero.
 The girls swoon over him, he's good at sports, he's aloof, he's cool.
 But he and Takeo are best friends, and their relationship is as important as the love story.
 
-The story really starts with Takeo's rescue of Yamato Rinko on the subway,
+The series starts with Takeo's rescue of Yamato Rinko on the train,
 as a molester is making a move on her.
 Takeo easily manhandles the guy, but he and Rinko fall for each other at first sight in the process.
 She expresses her gratitude by baking him treats.
-Though Takeo is convinced that she - like every other girl - is mostly interested in Sunakawa,
+Though Takeo is convinced that she - like every other girl he's ever liked - is mostly interested in Sunakawa,
 his best friend helps him realize that he's not the target.
 
 The story continues to explore two relationships - Takeo and Rinko carefully
