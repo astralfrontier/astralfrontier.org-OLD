@@ -3,7 +3,13 @@ title: Oremonogatari
 template: review.jade
 collection: reviews
 synopsis: The enormous gonk Gouda Takeo falls in love with Yamato Rinko, a petite girl who loves to cook.
+images:
+  - /assets/gouda-takeo.png
+  - /assets/yamato-rinko.jpg
+  - /assets/sunakawa-makoto.jpg
 links:
+  - name: Crunchyroll
+    url: http://www.crunchyroll.com/my-love-story
   - name: TV Tropes
     url: http://tvtropes.org/pmwiki/pmwiki.php/Manga/MyLoveStory
 ---
