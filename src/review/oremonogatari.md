@@ -36,6 +36,8 @@ The story continues to explore two relationships - Takeo and Rinko carefully
 and delicately exploring their new romance, and Takeo and Makoto's deep and
 years-long friendship.
 
+### What works
+
 I watched "Oremonogatari" after finishing shows like "Golden Time" and "[Kimi ni Todoke]",
 and this show was such a departure from them without detracting from them.
 Sunakawa's sly arrangement of a mutual love confession short-circuited what could have been
@@ -51,7 +53,22 @@ But the series is also equally about a relationship between two young men.
 Sunakawa will always be there for Gouda, and it's clear that he gets something in return
 from the earnest giant that no other friend can ever provide.
 
-Watch "Oremonogatari" if you want to see an unconventional but sincere romance,
-no particular villain, and good people being recognized for their goodness.
+### What doesn't work
+
+Early on, Takeo seems like a superhero. He catches falling girders, rescues people from
+a fire, and even stops a groper on the train. While he would be a fantastic character in
+a superhero comic, sometimes it felt a little over-the-top. Thankfully later episodes
+toned this down a bit, making his over-the-top physical prowess work in more conventional
+arenas like school sports.
+
+Each of these actions was set up to help develop both Takeo and the characters around him,
+like Rinko or her friends from school. A slightly more mundane way to accomplish that same
+development would have given the series a less goofy start.
+
+### Conclusion
+
+Watch "Oremonogatari" if you want to see an unconventional but sincere romance with
+no particular villain, good-hearted characters, and an exploration of relationships
+both romantic and otherwise.
 
 [Kimi ni Todoke]: /review/kimi-ni-todoke.html
