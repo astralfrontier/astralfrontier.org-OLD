@@ -44,7 +44,7 @@ for her. So as part of the discovery phase, she puts a heckler into the
 crowd to arouse such feelings, and as part of the direct phase, she
 places the new obstacle to overcome onto Contempt.
 
-The result of this move is a 1-star obstacle, perhaps. Well, good.
+The result of this move is a 2-star obstacle, perhaps. Well, good.
 Contempt to Surprise to Anticipation is still two jumps, but the
 difficulty is lower. This time she makes the roll, and succeeds.
 
@@ -62,22 +62,40 @@ useful currency to Discover.
 The difficulty of the Disrupt roll can be based on the star count:
 1 for no-stars, 3 for 1 star, 6 for 2 star, 10 for 3 star, 15 for
 4 star, and 21 for 5 star. This is a nice progression that maps neatly
-to the average rolls on a given dice pool.
+to the average rolls on a given dice pool. We'll also say that adding
+a hop to the journey adds one star, and you also add stars for
+each node you pass along the way.
 
-So our four-star fear obstacle means the knight needs to beat 15.
-Say that she rolls 3, 5, 6, and 4, putting her 3 over.
-Going back to our difficulty numbers earlier, we see 3 is a 1-star
-obstacle, so we create that obstacle on Contempt.
+So our four-star fear obstacle, bumped up to five for the extra hop,
+means the knight needs to beat 21.
+She rolls 3, 2, 6, 6, and 9, putting her at 26. This is 5 over.
 
-We could have declared that it goes anywhere. The knight could 
-roll the d12 she left behind, and if she got 4 or less, it'd
-contribute a token toward Discovery for her. She rolls a 10
-and fails, but her backstory lets her get a free Discovery token instead.
-With that token, she gets to choose any unoccupied square and place
-the obstacle there.
+The knight turns this into a 2-star (6 points) obstacle, which
+must be placed during the Direct phase. Discovery lets the
+knight and the GM negotiate about where.
 
-The crisis itself, and the community of people, can affect the
-tokens that emerge from Discovery. For example,
+The knight has no dice left to roll, but if she did, Discovery
+tokens could come out of that.
+Her backstory can contribute tokens, and it does - letting
+her choose Contempt as a destination for the excess emotion.
+The crisis itself, and the community of people, can create
+tokens as well.
 For example, the GM could create a family who'd lost people to the
 Bronze Horde, creating a source of Anguish. Tracing a path through
-Anguish would have required this obstacle to be overcome as well.
+Anguish would have required this obstacle to be overcome.
+
+With Discovery done, the knight Directs her 2-star obstacle
+onto Contempt, spending her token to do so.
+
+----
+
+The knight needs a 6 for a 2-star outcome, to move off of Contempt.
+She rolls d4 and d6, getting 7.
+This leaves a d8, d10, and d12 for discovery.
+The d8 comes up 3, the d10 comes up 1, and the d12 comes up 12.
+The 3 and the 1 are enough to create discovery tokens.
+We'll let such tokens neutralize obstacles as well as create them,
+perhaps subtracting from the star rating on a 1-to-1 basis.
+This is enough for the knight to neutralize the 1 extra point
+she needs. Since there's no further obstacles, and the knight
+is currently "on" Anticipation (her goal), she wins.
