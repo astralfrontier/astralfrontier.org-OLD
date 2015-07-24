@@ -1,7 +1,8 @@
-Summary: A sonic-powered martial artist for a DC Comics-based game.
-Categories: characters
-
-# Boombox
+---
+title: Boombox
+template: fullpage-title.jade
+synopsis: A sonic-powered martial artist for a DC Comics-based game.
+---
 
 **Boombox (Gabriel Ramon)**
 

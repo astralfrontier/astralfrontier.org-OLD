@@ -1,16 +1,3 @@
-Summary: Japanese visual and printed media.
-Categories: library
-
-# Anime and Manga
-
-Here's an incomplete list of anime and manga I enjoy. Links go to [TVTropes](http://tvtropes.org/).
-
-If you're looking for ways to watch online, I recommend:
-
-* [CrunchyRoll](http://www.crunchyroll.com/) - lots of streaming TV and anime.
-* [Hulu](http://www.hulu.com/) - an absurdly varied selection of TV series, movies, and imports. Decently sized anime selection. Free, with ads.
-
-### Light
 
 A lot of what I like is upbeat and optimistic. There is some outright fantasy that I really enjoy, and some explicitly comedic series (like Slayers), but mostly I just like seeing peoples' better natures pay off.
 
@@ -60,5 +47,3 @@ This is stuff I've had recommended or heard about, but don't really know much ab
 
 * [Hidan no Aria](http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/HidanNoAria) - a spin on historical figures reincarnated.
 * [Our Home's Fox Deity](http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/WagayaNoOinariSama) - there's a home, there's a fox deity. See it on [Hulu](http://www.hulu.com/our-homes-fox-deity)
-
-

@@ -1,9 +1,10 @@
-Summary: A character and starship for the Diaspora rules.
-Categories: characters
+---
+title: Jiro Uzuki
+template: fullpage-title.jade
+synopsis: A character and starship for the Diaspora rules.
+---
 
-# Jiro Uzuki
-
-See [here](/attachments/jiro.pdf) for an old GURPS character sheet.
+See [here](/assets/jiro.pdf) for an old GURPS character sheet.
 
 Aspects:
 

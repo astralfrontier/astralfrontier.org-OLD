@@ -1,20 +1,8 @@
-Summary: A half-orc gish cleric.
-Categories: characters, rules/pathfinder
-Design: paizo
-
-# Karn of Ravenfall
-
-> Save your tears for the day\\
-when our pain is far behind\\
-on your feet, come with me\\
-we are soldiers stand or die
-
-> Save your fears, take your place\\
-save them for the judgement day\\
-fast and free, follow me\\
-time to make the sacrifice\\
-we rise or fall
-<cite>Origa, "Rise"</cite>
+---
+title: Karn of Ravenfall
+template: fullpage-title.jade
+synopsis: A half-orc gish cleric.
+---
 
 Ravenfall
 ---------

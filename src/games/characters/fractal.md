@@ -1,7 +1,8 @@
-Summary: An unusual combination of power choice and team role.
-Categories: characters
-
-# Fractal
+---
+title: Fractal
+template: fullpage-title.jade
+synopsis: An unusual combination of power choice and team role.
+---
 
 "They say that the moment the chief turned away to look at something, he was gone.
 Stealthy as anything - no noise of a window opening, no sound of footsteps."

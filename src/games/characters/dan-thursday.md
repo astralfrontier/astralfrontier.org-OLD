@@ -1,7 +1,8 @@
-Summary: A "mystic native", updated for the atomic age, for a 1950's pulp scifi game.
-Categories: characters
-
-# Dan Thursday
+---
+title: Dan Thursday
+template: fullpage-title.jade
+synopsis: A "mystic native", updated for the atomic age, for a 1950's pulp scifi game.
+---
 
 After his growing psychic awareness of atomic disturbances throughout the solar system sent uneasy thoughts into the telepathic group-consciousness of his people, the alien prince known to Earth as "Dan Thursday" was sent to make contact with the humans and discover the source of this disturbance. Only by discovering the truth and bringing order back to the system will Dan find himself welcomed back to his tribe. 
 
