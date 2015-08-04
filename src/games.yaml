@@ -75,4 +75,4 @@ columns:
         pdf: true
       - name: Procedural Culture Generation
         desc: I'm writing on Ello about how to generate plausible fictional cultures using Perlin noise and other tools.
-        url: https://ello.co/astralfrontier
+        url: https://ello.co/search?terms=%23ProceduralCultures
