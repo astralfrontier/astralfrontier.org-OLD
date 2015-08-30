@@ -66,13 +66,12 @@ columns:
             url: https://docs.google.com/document/d/1jdLwE_ayNgjAZuVD0XllUvSJ_r5yJPXBrzMz9YgUGEw/edit
   - width: 4
     entries:
+      - name: Inept Sorcerers
+        desc: This is a small game I put together to test out a new dice mechanic.
+        url: /games/inept-sorcerers.html
       - name: Fairy Soul
         desc: A Simple World game about urban fantasy in the 1880s.
         url: /games/fairy-soul.html
-      - name: Inept Sorcerers
-        desc: This is a small game I put together to test out a new dice mechanic.
-        url: /assets/rpg/IneptSorcerers.pdf
-        pdf: true
       - name: Procedural Culture Generation
         desc: I'm writing on Ello about how to generate plausible fictional cultures using Perlin noise and other tools.
         url: https://ello.co/search?terms=%23ProceduralCultures

@@ -17,5 +17,4 @@ Register for an account - it'll require you to follow an activation
 link sent via email - and let me know what you think of the game,
 what you'd like it to do, or anything else.
 
-[Inept Sorcerers]: /assets/rpg/IneptSorcerers.pdf
-
+[Inept Sorcerers]: /games/inept-sorcerers.html

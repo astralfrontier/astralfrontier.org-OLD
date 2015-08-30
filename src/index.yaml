@@ -6,8 +6,7 @@ template: yamlpage.jade
 hero:
   name: Inept Sorcerers
   desc: I'm publishing a small game about would-be wizards. Check it out!
-  url: /assets/rpg/IneptSorcerers.pdf
-  pdf: true
+  url: /games/inept-sorcerers.html
 columns:
   - width: 4
     entries:
