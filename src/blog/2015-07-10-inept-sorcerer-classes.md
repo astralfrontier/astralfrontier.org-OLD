@@ -4,7 +4,7 @@ template: blogpost.jade
 collection: blog
 ---
 
-[Inept Sorcerers](/assets/rpg/IneptSorcerers.pdf) doesn't say anything
+[Inept Sorcerers](/games/inept-sorcerers.html) doesn't say anything
 about the sort of magic your character uses, or where they learned it,
 or anything really. But what if it did?
 
