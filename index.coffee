@@ -6,7 +6,6 @@ collections     = require 'metalsmith-collections'
 dateInFilename  = require 'metalsmith-date-in-filename'
 drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
-jade            = require 'metalsmith-jade'
 less            = require 'metalsmith-less'
 link_checker    = require 'metalsmith-broken-link-checker'
 markdown        = require 'metalsmith-markdown'
@@ -96,9 +95,6 @@ metalsmith(__dirname)
   .use(collections(collection_data))
   .use(pagination(pagination_data))
   .use(less({}))
-  .use(jade({
-    useMetadata: true
-  }))
   .use(markdown({
     smartypants: true
     gfm: true

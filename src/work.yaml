@@ -1,0 +1,23 @@
+---
+title: Work
+template: yamlpage.jade
+---
+
+columns:
+  - width: 6
+    entries:
+      - name: Résumé
+        desc: You can view my latest résumé online (PDF).
+        url: /assets/resume.pdf
+        pdf: true
+      - name: Github
+        desc: My open-source projects, including this website.
+        url: https://github.com/astralfrontier
+  - width: 6
+    entries:
+      - name: Fate Folio
+        desc: A searchable index of Fate-related gaming material.
+        url: http://fatefolio.com/
+      - name: Riff
+        desc: A comedy forum site where anyone can post as any avatar.
+        url: http://riff.astralfrontier.org/

@@ -20,7 +20,6 @@
     "metalsmith-date-in-filename": "0.0.14",
     "metalsmith-drafts": "0.0.1",
     "metalsmith-feed": "0.0.6",
-    "metalsmith-jade": "^2.0.2",
     "metalsmith-less": "^2.0.0",
     "metalsmith-markdown": "~0.2.1",
     "metalsmith-metadata": "0.0.1",
@@ -31,7 +30,6 @@
     "metalsmith-permalinks": "^0.4.0",
     "metalsmith-serve": "0.0.3",
     "metalsmith-templates": "~0.7.0",
-    "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master",
-    "then-jade": "^2.4.1"
+    "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master"
   }
 }
