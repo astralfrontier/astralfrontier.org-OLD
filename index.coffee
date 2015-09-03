@@ -131,5 +131,5 @@ metalsmith(__dirname)
 # }))
   .build (err, files) ->
     if err
-      console.error err
+      console.error err.stack
       process.exit(1)
