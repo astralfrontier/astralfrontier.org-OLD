@@ -1,12 +1,12 @@
 metalsmith      = require 'metalsmith'
 assets          = require 'metalsmith-assets'
 beautify        = require 'metalsmith-beautify'
-cheerio         = require 'cheerio'
 collections     = require 'metalsmith-collections'
 dateInFilename  = require 'metalsmith-date-in-filename'
 drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
 inPlace         = require 'metalsmith-in-place'
+jquery          = require 'metalsmith-jquery'
 layouts         = require 'metalsmith-layouts'
 less            = require 'metalsmith-less'
 link_checker    = require 'metalsmith-broken-link-checker'
@@ -42,21 +42,6 @@ bower_plugin = (options) ->
         contents = String(fs.readFileSync(file))
         files[dest] = { contents: contents }
     done()
-
-cheerio_plugin = (options) ->
-  match = new RegExp("\.html")
-  plugin = (files, metalsmith, done) ->
-    for file of files
-      if match.test(file)
-        $ = cheerio.load files[file].contents, { normalizeWhitespace: true }
-
-        # All external links should open in new windows
-        $('a[href^="http://"]').attr("target", "_blank")
-        $('a[href^="https://"]').attr("target", "_blank")
-
-        files[file].contents = $.html()
-    done()
-  plugin
 
 collection_data = {
   blog:
@@ -130,8 +115,12 @@ metalsmith(__dirname)
     partials: 'partials'
     default: 'fullpage-title.jade'
   }))
+  .use(jquery(($) ->
+    # All external links should open in new windows
+    $('a[href^="http://"]').attr("target", "_blank")
+    $('a[href^="https://"]').attr("target", "_blank")
+  ))
   .use(feed(collection: 'blog'))
-  .use(cheerio_plugin())
   .use(beautify({
     html: { wrap_line_length: 80 }
   }))
