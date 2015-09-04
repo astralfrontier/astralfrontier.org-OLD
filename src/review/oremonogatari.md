@@ -1,6 +1,6 @@
 ---
 title: Oremonogatari
-template: review.jade
+layout: review.jade
 collection: reviews
 synopsis: The enormous gonk Gouda Takeo falls in love with Yamato Rinko, a petite girl who loves to cook.
 images:

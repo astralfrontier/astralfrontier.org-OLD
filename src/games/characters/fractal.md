@@ -1,6 +1,5 @@
 ---
 title: Fractal
-template: fullpage-title.jade
 synopsis: An unusual combination of power choice and team role.
 ---
 

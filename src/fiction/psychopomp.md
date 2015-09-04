@@ -1,6 +1,5 @@
 ---
 title: Psychopomp
-template: fullpage-title.jade
 synopsis: If your soul goes where it thinks it belongs, then what about children?
 ---
 

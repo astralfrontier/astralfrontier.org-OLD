@@ -1,6 +1,6 @@
 ---
 title: PAX Playtesting for Inept Sorcerers
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

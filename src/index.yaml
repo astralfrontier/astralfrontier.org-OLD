@@ -1,6 +1,6 @@
 ---
 title: Astral Frontier
-template: yamlpage.jade
+layout: yamlpage.jade
 ---
 
 hero:

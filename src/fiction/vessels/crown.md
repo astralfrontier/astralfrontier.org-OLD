@@ -1,11 +1,8 @@
 ---
 title: The Crown
-template: fullpage.jade
 collection: vessels
 synopsis: A Vessel of the Crown protects a caravan of travelers.
 ---
-
-# The Crown
 
 <img src="/assets/art/lady_knight_by_ogitaka-d7o1nzy.jpg" alt="Lady Knight by Ogitaka" title="Lady Knight by Ogitaka" class="hide-from-small pull-right" width="293" height="400" style="margin-left: 1em;" />
 

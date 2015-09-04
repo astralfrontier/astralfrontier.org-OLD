@@ -1,6 +1,5 @@
 ---
 title: Beyond City Lights
-template: fullpage-title.jade
 synopsis: The city and the sky above.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: The Warrior
-template: fullpage-title.jade
 collection: songofeden
 synopsis: A modern mercenary swordsman fights battles in VR.
 ---

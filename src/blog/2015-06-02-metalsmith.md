@@ -1,6 +1,6 @@
 ---
 title: Metalsmith
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

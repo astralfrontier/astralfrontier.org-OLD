@@ -1,6 +1,6 @@
 ---
 title: Inept Sorcerers Playtest
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

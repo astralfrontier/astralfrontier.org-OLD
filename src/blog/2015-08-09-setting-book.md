@@ -1,6 +1,6 @@
 ---
 title: What setting books would I love to put out?
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

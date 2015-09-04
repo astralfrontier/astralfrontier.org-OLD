@@ -1,11 +1,8 @@
 ---
 title: Notes
-template: fullpage.jade
 collection: masque
 synopsis: Notes on the various stories.
 ---
-
-# Notes
 
 Apollo
 ------

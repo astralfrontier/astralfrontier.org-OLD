@@ -1,6 +1,6 @@
 ---
 title: Golden Time
-template: review.jade
+layout: review.jade
 collection: reviews
 synopsis: A law student with a forgotten past enters college, makes friends, and struggles with love.
 links:

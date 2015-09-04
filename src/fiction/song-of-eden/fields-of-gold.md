@@ -1,6 +1,5 @@
 ---
 title: Fields of Gold
-template: fullpage-title.jade
 collection: songofeden
 synopsis: An unusual approach to farming.
 ---

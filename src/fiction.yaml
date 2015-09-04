@@ -1,6 +1,6 @@
 ---
 title: Fiction
-template: yamlpage.jade
+layout: yamlpage.jade
 ---
 
 columns:

@@ -1,6 +1,5 @@
 ---
 title: Brachiation
-template: fullpage-title.jade
 collection: songofeden
 synopsis: Starships often use unconventional approaches to maintenance.
 ---

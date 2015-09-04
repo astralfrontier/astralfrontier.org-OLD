@@ -1,6 +1,5 @@
 ---
 title: The Beast
-template: fullpage-title.jade
 synopsis: Is it a monster pretending to be a man, or a man who's cursed to become a monster?
 ---
 

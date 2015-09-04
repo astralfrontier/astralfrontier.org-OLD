@@ -1,6 +1,6 @@
 ---
 title: Effects-Based Superhero Games
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

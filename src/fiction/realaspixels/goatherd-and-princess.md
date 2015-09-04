@@ -1,6 +1,5 @@
 ---
 title: The Goatherd and the Princess
-template: fullpage-title.jade
 synopsis: One half of a two-part story.
 ---
 

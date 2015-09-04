@@ -1,6 +1,6 @@
 ---
 title: Why Another Dice System?
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 synopsis: What does the "baroque" dice mechanic do that other systems don't?
 ---

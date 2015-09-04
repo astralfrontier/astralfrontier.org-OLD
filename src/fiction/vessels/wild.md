@@ -1,11 +1,8 @@
 ---
 title: The Wild
-template: fullpage.jade
 collection: vessels
 synopsis: A Vessel of the Wild lends his advice to the farmers of a plateau.
 ---
-
-# The Wild
 
 <img src="/assets/art/shaman-king-nature-grace.jpg" alt="The Shaman King - Nature Grace" title="The Shaman King - Nature Grace" class="hide-from-small pull-right" style="margin-left: 1em;" />
 

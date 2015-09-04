@@ -1,6 +1,5 @@
 ---
 title: A Visit to Hallows Gate
-template: fullpage-title.jade
 collection: songofeden
 synopsis: Deep space in the Song of Eden universe.
 ---

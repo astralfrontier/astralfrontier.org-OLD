@@ -1,6 +1,5 @@
 ---
 title: Space Warfare
-template: fullpage-title.jade
 collection: songofeden
 synopsis: What starship combat is like in the setting.
 draft: true

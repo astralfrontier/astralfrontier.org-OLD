@@ -1,6 +1,5 @@
 ---
 title: Pray
-template: fullpage-title.jade
 synopsis: Salvation comes in many forms.
 ---
 

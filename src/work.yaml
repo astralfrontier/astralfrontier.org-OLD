@@ -1,6 +1,6 @@
 ---
 title: Work
-template: yamlpage.jade
+layout: yamlpage.jade
 ---
 
 columns:

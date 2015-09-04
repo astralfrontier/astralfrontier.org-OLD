@@ -1,11 +1,8 @@
 ---
 title: Mack Atlas
-template: fullpage.jade
 collection: masque
 synopsis: The life of a blue-collar superhuman.
 ---
-
-# Mack Atlas
 
 Cheyenne is waiting at the door when he gets home. She's got that look on her face.
 

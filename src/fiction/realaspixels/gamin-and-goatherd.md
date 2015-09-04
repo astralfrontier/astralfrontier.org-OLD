@@ -1,6 +1,5 @@
 ---
 title: The Gamin and the Goatherd
-template: fullpage-title.jade
 synopsis: One half of a two-part story.
 ---
 

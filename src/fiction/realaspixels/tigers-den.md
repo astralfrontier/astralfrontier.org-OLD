@@ -1,6 +1,5 @@
 ---
 title: The Tiger's Den
-template: fullpage-title.jade
 synopsis: A terrible creature indeed.
 ---
 

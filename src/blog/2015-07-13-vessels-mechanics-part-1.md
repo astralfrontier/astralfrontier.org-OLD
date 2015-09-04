@@ -1,6 +1,6 @@
 ---
 title: Vessels Mechanics (Part 1)
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

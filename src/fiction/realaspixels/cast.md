@@ -1,6 +1,5 @@
 ---
 title: The Cast
-template: fullpage-title.jade
 synopsis: People, places, and things you might find written about here.
 ---
 

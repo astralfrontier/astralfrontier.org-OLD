@@ -1,11 +1,8 @@
 ---
 title: Cathy's Story
-template: fullpage.jade
 collection: masque
 synopsis: The success, and ouster, of a Persona executive.
 ---
-
-# Cathy's Story
 
 Exit interviews are as hard to conduct as they are to sit through. The typical employee of a corporation will often see their HR representative as someone who sets himself apart from the rank-and-file. At Persona, this is complicated for agent interviews, since we must ascertain who among them is likely to give away trade secrets or risk our security. A good interviewer will cut through that tension and partner well with his subject.
 

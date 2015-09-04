@@ -1,6 +1,6 @@
 ---
 title: Grand Adventure
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

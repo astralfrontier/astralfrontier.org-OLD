@@ -1,6 +1,5 @@
 ---
 title: Eternal Slumber
-template: fullpage-title.jade
 synopsis: Last rites for a peculiar person.
 ---
 

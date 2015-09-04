@@ -1,6 +1,5 @@
 ---
 title: The Dock
-template: fullpage-title.jade
 collection: songofeden
 synopsis: Ships are equal participants with their human crews in spaceflight.
 ---

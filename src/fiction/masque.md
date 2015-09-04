@@ -1,6 +1,6 @@
 ---
 title: Fiction
-template: masque.jade
+layout: masque.jade
 ---
 
 Masque

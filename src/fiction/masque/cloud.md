@@ -1,11 +1,8 @@
 ---
 title: Cloud
-template: fullpage.jade
 collection: masque
 synopsis: A typical Persona insertion.
 ---
-
-# Cloud
 
 The Holiday Inn hotel in Monterrey has been taken over by three dozen gunmen and three confirmed superhumans. The police attempted a peaceful negotiation, but the negotiator was killed in what appeared to be a blast of green lightning from an upstairs window, and a strike team that attempted to infiltrate the hotel was seriously injured and forced to retreat.
 

@@ -1,6 +1,5 @@
 ---
 title: Healing is the Hardest Role
-template: fullpage-title.jade
 ---
 
 **Note:** This was written from the perspective of a World of Warcraft raider, but some of it will apply to other MMOs as well.

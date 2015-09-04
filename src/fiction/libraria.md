@@ -1,6 +1,5 @@
 ---
 title: Libraria
-template: fullpage-title.jade
 synopsis: Swashbuckling pirate librarians
 ---
 

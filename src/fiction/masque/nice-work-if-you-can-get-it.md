@@ -1,11 +1,8 @@
 ---
 title: Nice Work If You Can Get It
-template: fullpage.jade
 collection: masque
 synopsis: A villain's Heel Face Turn. Sort of.
 ---
-
-# Nice Work If You Can Get It
 
 I called myself "the Ogre" when I knocked over the bank. It worked for about three minutes, until some yahoo busted through the skylight and took me down. I'm pretty sure that property damage isn't FDIC insured. So why was I the one to go to jail?
 

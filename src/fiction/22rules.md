@@ -1,6 +1,5 @@
 ---
 title: Pixar's 22 Rules of Storytelling
-template: fullpage-title.jade
 ---
 
 Original: [pixartouchbook.com](http://www.pixartouchbook.com/blog/2011/5/15/pixar-story-rules-one-version.html)

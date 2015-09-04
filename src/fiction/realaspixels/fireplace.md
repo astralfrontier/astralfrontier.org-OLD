@@ -1,6 +1,5 @@
 ---
 title: The Fireplace
-template: fullpage-title.jade
 synopsis: Come on baby light my fire.
 ---
 

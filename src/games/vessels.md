@@ -1,6 +1,5 @@
 ---
 title: Vessels (Haiku edition)
-template: fullpage-title.jade
 ---
 
 ## What you need to play

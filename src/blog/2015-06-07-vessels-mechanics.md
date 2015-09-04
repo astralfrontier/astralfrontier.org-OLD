@@ -1,6 +1,6 @@
 ---
 title: Vessels - Mechanics
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 synopsis: What do the mechanics look like for the game?
 ---

@@ -1,6 +1,6 @@
 ---
 title: A Baroque Dice Mechanic
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 synopsis: A way of rolling dice with escalating risk.
 ---

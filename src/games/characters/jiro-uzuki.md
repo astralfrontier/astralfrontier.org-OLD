@@ -1,6 +1,5 @@
 ---
 title: Jiro Uzuki
-template: fullpage-title.jade
 synopsis: A character and starship for the Diaspora rules.
 ---
 

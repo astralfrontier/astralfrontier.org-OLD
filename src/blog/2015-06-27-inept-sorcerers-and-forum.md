@@ -1,6 +1,6 @@
 ---
 title: Inept Sorcerers and Forums
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

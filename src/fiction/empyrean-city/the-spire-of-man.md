@@ -1,9 +1,6 @@
 ---
 title: The Spire of Man
-template: fullpage.jade
 ---
-
-# The Spire of Man
 
 The City's inhabitants are numerous. Among them, living humans are perhaps the most acceptable minority.
 

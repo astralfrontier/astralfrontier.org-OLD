@@ -1,11 +1,8 @@
 ---
 title: The Church
-template: fullpage.jade
 collection: vessels
 synopsis: A Vessel of the Church visits a small town with hidden sins.
 ---
-
-# The Church
 
 <img src="/assets/art/guardian_angel_by_ozakuya-d2ybq9w.jpg" alt="Guardian Angel by Ozakuya" title="Guardian Angel by Ozakuya" class="hide-from-small pull-right" width="293" height="400" style="margin-left: 1em;"/>
 

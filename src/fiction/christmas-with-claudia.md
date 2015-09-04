@@ -1,6 +1,5 @@
 ---
 title: Chrismas With Claudia
-template: fullpage-title.jade
 ---
 
 I met Claudia in Rome. She was an attractive twenty-something girl browsing a book store on Christmas day. She recognized a few phrases of English and Italian, and I found my Church Latin being put to the test when I found it was the only thing she spoke that I could make out.

@@ -1,6 +1,6 @@
 ---
 title: Inept Sorcerer Classes
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

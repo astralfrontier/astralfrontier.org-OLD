@@ -1,6 +1,6 @@
 ---
 title: Time of Eve
-template: review.jade
+layout: review.jade
 collection: reviews
 synopsis: In the near future, two boys visit a cafe where it's forbidden to discriminate between humans and androids.
 links:

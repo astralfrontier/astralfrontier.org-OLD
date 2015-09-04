@@ -1,6 +1,5 @@
 ---
 title: Vessels (Notes)
-template: fullpage-title.jade
 ---
 
 I'm working on a roleplaying game, but not one with traditional task resolution. Instead, it's about a group of people with supernatural powers, tasked with resolving crises. The challenge of the game is meant to involve changing the emotional makeup of the community affected by the crisis. For example, maybe a community feels fear, and creating feelings of joy would lead to a resolution. Or there's strong feelings of contempt or anger, but instigating shame would encourage everyone to realize what they're doing is wrong (and at that point the original crisis could be handled).

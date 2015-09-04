@@ -1,6 +1,5 @@
 ---
 title: Uncertainty
-template: fullpage-title.jade
 ---
 
 Lucky's been directing movies for 30 years.

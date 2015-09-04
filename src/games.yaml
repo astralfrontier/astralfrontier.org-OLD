@@ -1,6 +1,6 @@
 ---
 title: Games
-template: yamlpage.jade
+layout: yamlpage.jade
 ---
 
 columns:

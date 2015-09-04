@@ -1,11 +1,8 @@
 ---
 title: Doctor Cross
-template: fullpage.jade
 collection: masque
 synopsis: A healing super.
 ---
-
-# Doctor Cross
 
 The girl is eight years old. Her arm and shoulder are tightly wrapped in antiseptic bandages, and one of her eyes is similarly covered. She looks up and sees a small man with a black hair and bushy beard. His skin is dark, but not black. He grins, showing her very white teeth. "Lily?" he asks. His voice is warm, and rich, like hot cocoa on a winter morning.
 

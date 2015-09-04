@@ -1,11 +1,8 @@
 ---
 title: Jerome Washington
-template: fullpage.jade
 collection: masque
 synopsis: Two people discussing superhuman implications.
 ---
-
-# Jerome Washington
 
 Tim is sitting at the table across from me, playing with his hair. It's been getting longer, and he's so proud of it. Finally he talks, and I sip my coffee.
 

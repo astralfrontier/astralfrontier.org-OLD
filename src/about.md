@@ -1,6 +1,5 @@
 ---
 title: About Astral Frontier
-template: fullpage-title.jade
 ---
 
 This site catalogs the fantastic products of its owner's imagination, and the tools and processes whereby he created them.

@@ -1,6 +1,5 @@
 ---
 title: The Atlantis Civil War
-template: fullpage-title.jade
 collection: songofeden
 synopsis: An article about the after-effects of the Venus-Atlantis conflict.
 ---

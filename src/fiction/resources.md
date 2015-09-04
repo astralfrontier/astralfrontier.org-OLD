@@ -1,6 +1,5 @@
 ---
 title: Professional Writing
-template: fullpage-title.jade
 ---
 
 <img src="/assets/art/quill.png" align="right" class="hidden-xs" />

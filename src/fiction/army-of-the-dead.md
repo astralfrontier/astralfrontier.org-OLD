@@ -1,6 +1,5 @@
 ---
 title: Army of the Dead
-template: fullpage-title.jade
 synopsis: When necromancy is used to build armies, one living officer's story of army life.
 ---
 

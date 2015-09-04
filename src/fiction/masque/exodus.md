@@ -1,11 +1,8 @@
 ---
 title: Exodus
-template: fullpage.jade
 collection: masque
 synopsis: An irresponsible but not villainous super.
 ---
-
-# Exodus
 
 With great power comes great amusement. Exodus entertains himself by throwing the core of his just-eaten apple as far as he can, then teleporting it back into his hands. It isn't easy, given the winds blowing at the top of the Statue of Liberty. But he has time to kill, and he wants the cops to finally make it up the stairs before his grand departure.
 

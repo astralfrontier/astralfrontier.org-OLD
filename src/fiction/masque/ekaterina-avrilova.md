@@ -1,11 +1,8 @@
 ---
 title: Ekaterina Avrilova
-template: fullpage.jade
 collection: masque
 synopsis: A briefing on the state of superhumans worldwide.
 ---
-
-# Ekaterina Avrilova
 
 Ekaterina squirms uncomfortably in the padded chair. The men and women packed into the conference room with her are expressing their discomfort in diverse ways. Drinks lie untouched on the organically curved, expensively engineered table before them. A few brought donuts or bagels from the table in the back, but these are similarly ignored.
 

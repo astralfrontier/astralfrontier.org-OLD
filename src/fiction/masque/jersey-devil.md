@@ -1,11 +1,8 @@
 ---
 title: The Jersey Devil
-template: fullpage.jade
 collection: masque
 synopsis: A Child of Lilith devolved into a monstrous mental state.
 ---
-
-# The Jersey Devil
 
 The mountains are good. The sky is good. The lake water is good.
 

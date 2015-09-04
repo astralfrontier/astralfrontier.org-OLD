@@ -1,6 +1,5 @@
 ---
 title: Outlast
-template: fullpage-title.jade
 synopsis: The fate of one man who thought himself saved.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Characters
-template: yamlpage.jade
+layout: yamlpage.jade
 ---
 
 columns:

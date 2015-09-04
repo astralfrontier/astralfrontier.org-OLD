@@ -1,6 +1,5 @@
 ---
 title: Karn of Ravenfall
-template: fullpage-title.jade
 synopsis: A half-orc gish cleric.
 ---
 

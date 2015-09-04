@@ -1,11 +1,8 @@
 ---
 title: Frank
-template: fullpage.jade
 collection: masque
 synopsis: A harmless Child of Lilith who feels isolated from the world.
 ---
-
-# Frank
 
 Frank has a very big back yard.
 

@@ -1,6 +1,5 @@
 ---
 title: Warehouse Dance
-template: fullpage-title.jade
 synopsis: One snowy night.
 ---
 

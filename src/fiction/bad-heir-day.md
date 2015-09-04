@@ -1,6 +1,5 @@
 ---
 title: Bad Heir Day
-template: fullpage-title.jade
 synopsis: Ezra Pyreborn tackles love and marriage.
 draft: true
 ---

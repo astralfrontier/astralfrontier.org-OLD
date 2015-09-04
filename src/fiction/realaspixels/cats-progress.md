@@ -1,6 +1,5 @@
 ---
 title: The Cat's Progress
-template: fullpage-title.jade
 synopsis: How is the cat doing?
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: War in Heaven
-template: fullpage-title.jade
 collection: songofeden
 synopsis: A space battle
 ---

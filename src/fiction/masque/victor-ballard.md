@@ -1,11 +1,8 @@
 ---
 title: Victor Ballard
-template: fullpage.jade
 collection: masque
 synopsis: The casual villainy of the setting.
 ---
-
-# Victor Ballard
 
 Victor Ballard had been destined for success. He was the golden boy in school, excelling at sports and maintaining a good GPA. He was a Stage Two superhuman until the car accident. When he crawled from the wreckage of his Honda, he had attained Stage Three. He got control over electricity and magnetism. He was also instantly sober, thanks to the shift in his metabolism purging the alcohol from his bloodstream.
 

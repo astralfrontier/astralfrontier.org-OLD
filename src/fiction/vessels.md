@@ -1,6 +1,6 @@
 ---
 title: Vessels
-template: vessels.jade
+layout: vessels.jade
 ---
 
 Vessels

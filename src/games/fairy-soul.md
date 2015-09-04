@@ -1,6 +1,5 @@
 ---
 title: Fairy Soul
-template: fullpage-title.jade
 synopsis: A Victorian urban fantasy.
 ---
 

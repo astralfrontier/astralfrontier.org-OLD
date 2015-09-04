@@ -1,6 +1,5 @@
 ---
 title: Dan Thursday
-template: fullpage-title.jade
 synopsis: A "mystic native", updated for the atomic age, for a 1950's pulp scifi game.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Inept Sorcerers
-template: fullpage-title.jade
 synopsis: A short, simple game about magic.
 ---
 

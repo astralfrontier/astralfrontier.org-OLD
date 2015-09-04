@@ -1,6 +1,5 @@
 ---
 title: Falken's Matrix
-template: fullpage-title.jade
 ---
 
 Original content is _italicized_. Canonical content will link to timelines where possible, or general pages otherwise.

@@ -1,11 +1,8 @@
 ---
 title: Harry Franklin
-template: fullpage.jade
 collection: masque
 synopsis: One of the hard moral choices of the setting.
 ---
-
-# Harry Franklin
 
 Harry works at the Research subdivision of a company nicknamed Big Blue. All Harry knows is Deep Black. Every morning at 5:30, Harry wakes up. He kisses his wife goodbye, hoping he doesn't wake her up, and drives half an hour to his work place. He goes home after dark, and he spends his days under dim lighting.
 

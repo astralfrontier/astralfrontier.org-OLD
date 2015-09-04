@@ -1,9 +1,6 @@
 ---
 title: Love Among the Dead
-template: fullpage.jade
 ---
-
-# Love Among the Dead
 
 <img src="/assets/art/68.jpg" alt="Love Among the Dead" title="Love Among the Dead" class="hide-from-small img-responsive pull-right" style="margin-left: 1em;" />
 

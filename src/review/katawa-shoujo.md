@@ -1,6 +1,6 @@
 ---
 title: Katawa Shoujo
-template: review.jade
+layout: review.jade
 collection: reviews
 synopsis: A visual novel about disability and emotion.
 images:

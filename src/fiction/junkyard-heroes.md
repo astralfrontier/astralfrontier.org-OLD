@@ -1,6 +1,5 @@
 ---
 title: Junkyard Heroes
-template: fullpage-title.jade
 ---
 
 This is a roleplaying game I ran in 2009. It centered around a group of friends in New York

@@ -1,11 +1,8 @@
 ---
 title: Apollo
-template: fullpage.jade
 collection: masque
 synopsis: The world's first public superhuman.
 ---
-
-# Apollo
 
 He thinks back to that day, the 27th of October, when the Russians were still the enemy. The sudden feeling of hot metal through his body, the sudden chill of the upper atmosphere and the coldness of everything. His body hungering for oxygen. The fragments of his bird coming apart around him. The missile tearing him and his plane into so much confetti to fall from the upper atmosphere.
 

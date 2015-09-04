@@ -1,11 +1,8 @@
 ---
 title: Ram Kumar
-template: fullpage.jade
 collection: masque
 synopsis: What life is like for a Persona agent.
 ---
-
-# Ram Kumar
 
 Ram's body sits in the pod underneath the Persona offices in Chicago. It floats in a liquid suspension, protected with breathing gear and restraining harnesses. Occasionally the muscles will twitch. But Ram isn't there. He's borrowing someone's body.
 

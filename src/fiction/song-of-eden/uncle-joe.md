@@ -1,6 +1,5 @@
 ---
 title: Uncle Joe
-template: fullpage-title.jade
 collection: songofeden
 synopsis: Some of the technology present in the living city of Hubris.
 ---

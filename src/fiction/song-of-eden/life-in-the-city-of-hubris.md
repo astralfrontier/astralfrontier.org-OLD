@@ -1,6 +1,5 @@
 ---
 title: Life in the City of Hubris
-template: fullpage-title.jade
 collection: songofeden
 synopsis: A self-sustaining "living city" in the Canadian jungle.
 ---

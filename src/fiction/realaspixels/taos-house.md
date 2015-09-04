@@ -1,6 +1,5 @@
 ---
 title: Tao's House
-template: fullpage-title.jade
 synopsis: The virtue of simplicity.
 ---
 

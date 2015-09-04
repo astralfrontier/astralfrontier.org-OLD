@@ -1,6 +1,6 @@
 ---
 title: It Was There, Honest!'s Exploration system
-template: blogpost.jade
+layout: blogpost.jade
 collection: blog
 ---
 

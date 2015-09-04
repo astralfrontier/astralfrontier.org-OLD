@@ -1,6 +1,5 @@
 ---
 title: Force Effect
-template: fullpage-title.jade
 ---
 
 An uncountably long time ago, the founding races of the Republic had independently discovered "Element Zero", or "eezo". Eezo is a unique form of matter capable of creating what was once called the "mass effect", which facilitated interstellar travel, antigravity, and other wonders. Living beings whose nervous systems had traces of eezo developed unusual capabilities.

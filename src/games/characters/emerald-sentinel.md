@@ -1,6 +1,5 @@
 ---
 title: Emerald Sentinel
-template: fullpage-title.jade
 synopsis: A primitive Green Lantern for a DC Comics-based game.
 ---
 

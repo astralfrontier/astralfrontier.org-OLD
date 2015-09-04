@@ -1,6 +1,5 @@
 ---
 title: Prognostication
-template: fullpage-title.jade
 synopsis: How to see the future.
 ---
 

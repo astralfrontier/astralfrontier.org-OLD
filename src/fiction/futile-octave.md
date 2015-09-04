@@ -1,6 +1,5 @@
 ---
 title: FUTILE OCTAVE
-template: fullpage-title.jade
 ---
 
 ### Octave-2009-11-04

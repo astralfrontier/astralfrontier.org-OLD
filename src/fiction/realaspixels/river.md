@@ -1,6 +1,5 @@
 ---
 title: The River
-template: fullpage-title.jade
 synopsis: On and on it flows.
 ---
 

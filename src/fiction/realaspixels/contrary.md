@@ -1,6 +1,5 @@
 ---
 title: The Contrary
-template: fullpage-title.jade
 synopsis: The barriers of communication.
 ---
 

@@ -6,6 +6,7 @@ collections     = require 'metalsmith-collections'
 dateInFilename  = require 'metalsmith-date-in-filename'
 drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
+layouts         = require 'metalsmith-layouts'
 less            = require 'metalsmith-less'
 link_checker    = require 'metalsmith-broken-link-checker'
 markdown        = require 'metalsmith-markdown'
@@ -110,9 +111,11 @@ metalsmith(__dirname)
   .use(more({
     alwaysAddKey: true
   }))
-  .use(templates({
+  .use(layouts({
     engine: 'jade'
-    directory: 'templates'
+    directory: 'layouts'
+    partials: 'partials'
+    default: 'fullpage-title.jade'
   }))
   .use(feed(collection: 'blog'))
   .use(cheerio_plugin())

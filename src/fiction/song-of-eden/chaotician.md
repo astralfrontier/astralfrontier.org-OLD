@@ -1,6 +1,5 @@
 ---
 title: The Chaotician
-template: fullpage-title.jade
 collection: songofeden
 synopsis: The plethora of new religious beliefs.
 ---

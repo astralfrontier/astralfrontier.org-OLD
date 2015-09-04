@@ -1,6 +1,5 @@
 ---
 title: The Magician Goes to Town
-template: fullpage-title.jade
 synopsis: Magic, its uses and misuses.
 ---
 

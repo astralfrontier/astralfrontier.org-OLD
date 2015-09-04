@@ -1,6 +1,5 @@
 ---
 title: The Captain's Wife
-template: fullpage-title.jade
 collection: songofeden
 synopsis: Sexual mores in the future.
 ---

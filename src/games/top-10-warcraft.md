@@ -1,6 +1,5 @@
 ---
 title: Top Ten Signs You're Watching Warcraft
-template: fullpage-title.jade
 ---
 
 With news that the Warcraft movie [will be released on December 18, 2015](https://twitter.com/Warcraft/status/385161242886696960), we thought you should know how familiar it'll feel to players of the MMO.

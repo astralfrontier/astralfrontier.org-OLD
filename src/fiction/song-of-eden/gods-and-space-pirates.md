@@ -1,6 +1,5 @@
 ---
 title: Gods and Space Pirates
-template: fullpage-title.jade
 collection: songofeden
 synopsis: Isaac Gregory's Excellent Adventure.
 draft: true

@@ -1,9 +1,6 @@
 ---
 title: Drosselmeyer's Daughter
-template: fullpage.jade
 ---
-
-# Drosselmeyer's Daughter
 
 Old Drosselmeyer straightens out his doll on the workbench.  He surveys her gears and clockwork with pride.  He attaches her skin carefully, mindful of the folds and creases.  It must look natural, after all, but still beautiful.  He winds her with pride.  The doll's voice creaks out from hidden speakers; the mouth moves.  "H.. he....l..l..o... f..a..t..h..e..r.."
 

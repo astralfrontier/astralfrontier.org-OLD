@@ -1,6 +1,5 @@
 ---
 title: The Cabal
-template: fullpage-title.jade
 collection: songofeden
 synopsis: A legendary secret society in the contemporary Solar system.
 ---

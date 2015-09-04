@@ -1,6 +1,6 @@
 ---
 title: Ground Control to Psychoelectric Girl
-template: review.jade
+layout: review.jade
 collection: reviews
 synopsis: A high school boy moves in with his aunt and meets his shut-in cousin, a girl convinced that she's an alien.
 links:

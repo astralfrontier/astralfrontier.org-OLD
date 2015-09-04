@@ -1,11 +1,8 @@
 ---
 title: Faduma
-template: fullpage.jade
 collection: masque
 synopsis: A superhuman who uses her abilities to protect her people as a leader.
 ---
-
-# Faduma
 
 Faduma opens her eyes. Was she daydreaming just now? The messengers are waiting nervously for a reply.
 

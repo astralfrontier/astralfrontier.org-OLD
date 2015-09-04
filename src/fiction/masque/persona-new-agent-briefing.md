@@ -1,11 +1,8 @@
 ---
 title: Persona New Agent Briefing
-template: fullpage.jade
 collection: masque
 synopsis: What new Persona agents are told.
 ---
-
-# Persona New Agent Briefing
 
 "Power Corrupts, ladies and gentlemen. These are the two most important words you will hear today. Remember them, because we're going to come back to it and explain it throughout the session today."
 

@@ -1,6 +1,6 @@
 ---
 title: Kimi ni Todoke
-template: review.jade
+layout: review.jade
 collection: reviews
 synopsis: A shy girl with an eerie aura falls in love with a popular boy with issues of his own.
 images:

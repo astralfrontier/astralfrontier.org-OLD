@@ -1,11 +1,8 @@
 ---
 title: The Manor
-template: fullpage.jade
 collection: vessels
 synopsis: A Vessel of the Manor encounters corruption in her estate.
 ---
-
-# The Manor
 
 The carriage's wheels were creating a hypnotic rhythm. Dame Thanda Lainsborough felt herself drifting out of awareness. That was dangerous, she reminded herself. Still, it was nostalgic. This was the same route she'd first taken after her marriage. That had been spring and this was fall, of course, but the trees were the same, the distant snow-capped mountains were the same, and even the approaching manor house was the same.
 

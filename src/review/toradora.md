@@ -1,6 +1,6 @@
 ---
 title: ToraDora!
-template: review.jade
+layout: review.jade
 collection: reviews
 synopsis: TODO
 links:
