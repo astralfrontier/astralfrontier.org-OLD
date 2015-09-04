@@ -17,6 +17,7 @@ pagination      = require 'metalsmith-pagination'
 path            = require 'metalsmith-path'
 serve           = require 'metalsmith-serve'
 tags            = require 'metalsmith-tags'
+typography      = require 'metalsmith-typography'
 yaml            = require 'metalsmith-yaml'
 
 fs = require 'fs'
@@ -105,6 +106,9 @@ metalsmith(__dirname)
   .use(inPlace({
     engine: 'handlebars'
     partials: 'partials'
+  }))
+  .use(typography({
+    lang: 'en'
   }))
 # .use(bower_plugin({}))
   .use(path())
