@@ -8,9 +8,9 @@ html(lang="en")
       block title
         = title || "Astral Frontier"
 
-    link(href="/css/bootstrap.min.css" rel="stylesheet")
-    link(href="/css/font-awesome.min.css" rel="stylesheet")
-    link(href="/css/astralfrontier.css" rel="stylesheet")
+    link(href="/assets/css/bootstrap.min.css" rel="stylesheet")
+    link(href="/assets/css/font-awesome.min.css" rel="stylesheet")
+    link(href="/assets/css/astralfrontier.css" rel="stylesheet")
     link(rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml")
   body
     block contents
@@ -19,6 +19,6 @@ html(lang="en")
     div.container
       div.col-md-12
         include ./disqus.jade
-    script(src="/js/jquery.min.js")
-    script(src="/js/bootstrap.min.js")
+    script(src="/assets/js/jquery.min.js")
+    script(src="/assets/js/bootstrap.min.js")
     include ./google-analytics.jade

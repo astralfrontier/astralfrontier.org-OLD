@@ -95,7 +95,6 @@ metalsmith(__dirname)
   .use(dateInFilename(true))
   .use(collections(collection_data))
   .use(pagination(pagination_data))
-  .use(less({}))
   .use(markdown({
     smartypants: true
     gfm: true
@@ -103,10 +102,6 @@ metalsmith(__dirname)
   }))
   .use(yaml({}))
 # .use(bower_plugin({}))
-  .use(assets({
-    source: './assets'
-    destination: './assets'
-  }))
   .use(path())
   .use(more({
     alwaysAddKey: true
@@ -122,6 +117,11 @@ metalsmith(__dirname)
   .use(beautify({
     html: { wrap_line_length: 80 }
   }))
+  .use(assets({
+    source: './assets'
+    destination: './assets'
+  }))
+  .use(less({}))
   .use(link_checker({warn: true}))
   .destination('./build')
 # .use(serve({
