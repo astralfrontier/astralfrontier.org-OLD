@@ -6,6 +6,7 @@ collections     = require 'metalsmith-collections'
 dateInFilename  = require 'metalsmith-date-in-filename'
 drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
+inPlace         = require 'metalsmith-in-place'
 layouts         = require 'metalsmith-layouts'
 less            = require 'metalsmith-less'
 link_checker    = require 'metalsmith-broken-link-checker'
@@ -100,6 +101,10 @@ metalsmith(__dirname)
     tables: true
   }))
   .use(yaml({}))
+  .use(inPlace({
+    engine: 'handlebars'
+    partials: 'partials'
+  }))
 # .use(bower_plugin({}))
   .use(path())
   .use(more({
