@@ -15,7 +15,6 @@ more            = require 'metalsmith-more'
 pagination      = require 'metalsmith-pagination'
 path            = require 'metalsmith-path'
 serve           = require 'metalsmith-serve'
-templates       = require 'metalsmith-templates'
 yaml            = require 'metalsmith-yaml'
 
 fs = require 'fs'
@@ -73,12 +72,12 @@ collection_data = {
 pagination_data = {
   'collections.blog':
     perPage: 5
-    template: 'blog.jade'
+    layout: 'blog.jade'
     first: 'blog.html'
     path: 'blog-:num.html'
   'collections.reviews':
     perPage: 12
-    template: 'collection.jade'
+    layout: 'collection.jade'
     first: 'reviews.html'
     path: 'reviews-:num.html'
     pageMetadata:
