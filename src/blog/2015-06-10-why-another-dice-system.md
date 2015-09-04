@@ -3,6 +3,7 @@ title: Why Another Dice System?
 layout: blogpost.jade
 collection: blog
 synopsis: What does the "baroque" dice mechanic do that other systems don't?
+tagged: baroque-dice
 ---
 
 I posted a [new dice mechanic](/blog/2015-06-08-baroque-dice-mechanic.html) recently. I explained the mechanics, and in doing so found a better version of the same idea. Thanks to [Lester Ward] for feedback confirming this conclusion. However, I didn't really articulate its intended purpose.

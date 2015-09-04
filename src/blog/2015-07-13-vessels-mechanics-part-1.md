@@ -2,6 +2,7 @@
 title: Vessels Mechanics (Part 1)
 layout: blogpost.jade
 collection: blog
+tagged: vessels
 ---
 
 The "Vessels" game I've been working on has been a struggle.

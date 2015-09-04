@@ -2,6 +2,7 @@
 title: Inept Sorcerers Playtest
 layout: blogpost.jade
 collection: blog
+tagged: inept-sorcerers, playtest
 ---
 
 My friends Phil, Sherry, and Justin helped me playtest [Inept Sorcerers]. Phil recorded the session, and you can listen to it.

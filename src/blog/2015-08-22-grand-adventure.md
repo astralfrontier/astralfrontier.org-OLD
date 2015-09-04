@@ -2,6 +2,7 @@
 title: Grand Adventure
 layout: blogpost.jade
 collection: blog
+tagged: grand-adventure
 ---
 
 On the heels of [Inept Sorcerers] and [It Was There, Honest!], I thought

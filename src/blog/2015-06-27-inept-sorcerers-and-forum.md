@@ -2,6 +2,7 @@
 title: Inept Sorcerers and Forums
 layout: blogpost.jade
 collection: blog
+tagged: inept-sorcerers
 ---
 
 A couple of groups have already playtested [Inept Sorcerers]

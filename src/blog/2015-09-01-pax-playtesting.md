@@ -2,6 +2,7 @@
 title: PAX Playtesting for Inept Sorcerers
 layout: blogpost.jade
 collection: blog
+tagged: inept-sorcerers, playtest
 ---
 
 I attended PAX Prime's [Games on Demand] over the weekend, and both ran

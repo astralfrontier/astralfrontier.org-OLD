@@ -2,6 +2,7 @@
 title: It Was There, Honest!
 layout: blogpost.jade
 collection: blog
+tagged: it-was-there-honest
 ---
 
 I've been looking for a way to play-test the

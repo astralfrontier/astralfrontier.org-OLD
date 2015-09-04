@@ -32,6 +32,7 @@
     "metalsmith-path": "^0.1.0",
     "metalsmith-permalinks": "^0.4.0",
     "metalsmith-serve": "0.0.3",
+    "metalsmith-tags": "^0.12.0",
     "metalsmith-templates": "~0.7.0",
     "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master"
   }

@@ -2,6 +2,7 @@
 title: Inept Sorcerer Classes
 layout: blogpost.jade
 collection: blog
+tagged: inept-sorcerers
 ---
 
 [Inept Sorcerers](/games/inept-sorcerers.html) doesn't say anything

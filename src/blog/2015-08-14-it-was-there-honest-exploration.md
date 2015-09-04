@@ -2,6 +2,7 @@
 title: It Was There, Honest!'s Exploration system
 layout: blogpost.jade
 collection: blog
+tagged: it-was-there-honest
 ---
 
 I decided to go with the five-rooms approach, to give the game some structure.

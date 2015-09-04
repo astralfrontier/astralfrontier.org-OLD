@@ -1,0 +1,15 @@
+extends ./fullpage.jade
+
+block title
+  = "Posts tagged '" + tag + "'"
+
+block main
+  h1= "Posts tagged '" + tag + "'"
+  div.container
+    div.row
+      div.col-md-12
+        for page in pagination.files
+          h4
+            a(href="/"+page.path)= page.title
+          != page.less
+    include ./pagination.jade

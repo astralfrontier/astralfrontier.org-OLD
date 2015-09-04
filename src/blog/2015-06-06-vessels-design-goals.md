@@ -3,6 +3,7 @@ title: Vessels - Design Goals
 layout: blogpost.jade
 collection: blog
 synopsis: My design goals for the "vessels" game
+tagged: vessels
 ---
 
 What do I want out of this game? While this isn't an AW/DW game, that design vocabulary is useful and I am using it here.

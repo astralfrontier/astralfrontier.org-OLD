@@ -3,6 +3,7 @@ title: A Baroque Dice Mechanic
 layout: blogpost.jade
 collection: blog
 synopsis: A way of rolling dice with escalating risk.
+tagged: baroque-dice
 ---
 
 I originally posted this on Ello in two parts ([Part 1], [Part 2]). This is a rewrite of some of that material, with extra thoughts.

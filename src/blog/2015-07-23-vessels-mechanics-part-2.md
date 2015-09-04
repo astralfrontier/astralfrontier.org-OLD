@@ -2,6 +2,7 @@
 title: Vessels Mechanics (Part 2)
 layout: blogpost.jade
 collection: blog
+tagged: vessels
 ---
 
 [In the last post](/blog/2015-07-13-vessels-mechanics-part-1.html),
