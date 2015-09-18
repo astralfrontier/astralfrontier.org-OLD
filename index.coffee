@@ -61,7 +61,7 @@ pagination_data = {
   'collections.blog':
     perPage: 5
     layout: 'blog.jade'
-    first: 'blog.html'
+    first: 'index.html'
     path: 'blog-:num.html'
   'collections.reviews':
     perPage: 12

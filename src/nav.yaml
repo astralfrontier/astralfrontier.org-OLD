@@ -1,10 +1,7 @@
 ---
-- label: Home
-  path: /
-  regex: ^index
 - label: Blog
-  path: /blog.html
-  regex: ^blog
+  path: /
+  regex: ^(index|blog)
 - label: Work
   path: /work.html
   regex: ^work

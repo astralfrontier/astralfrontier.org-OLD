@@ -1,10 +1,13 @@
 extends ./fullpage.jade
 
 block title
-  | Blog posts
+  if pagination.num == 1
+    | Astral Frontier
+  else
+    = "Blog Posts page " + pagination.num
 
 block main
-  h1 Blog
+  h1 Astral Frontier Blog
   div.container
     div.row
       div.col-md-12
