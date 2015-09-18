@@ -134,5 +134,5 @@ maybe the sword comes with a new action: "Crystalstrike... [AC 4, AP 5]".
 This is a special attack that does extra damage,
 and costs 5 AP to activate as well as having an Action Cost of 4.
 
-[Inept Sorcerers]: /assets/rpg/IneptSorcerers.pdf
+[Inept Sorcerers]: /games/inept-sorcerers.html
 [It Was There, Honest!]: /blog/2015-07-08-it-was-there-honest.html
