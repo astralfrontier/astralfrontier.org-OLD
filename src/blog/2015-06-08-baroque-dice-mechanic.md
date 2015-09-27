@@ -92,4 +92,4 @@ This version means you only have to keep one number in your head (the Action Cos
 
 [Part 1]: https://ello.co/astralfrontier/post/FLGSzocSOgLiFuVAZKiPVg
 [Part 2]: https://ello.co/astralfrontier/post/pKM0aIN1VSXr0I5X7U0NtQ
-[Inept Sorcerers]: https://docs.google.com/document/d/1CMvl1DNVAqsqGj9FWol_DW1SF8iItDgKrmTFMetZ330/edit?usp=sharing
+[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html

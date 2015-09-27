@@ -93,4 +93,4 @@ mean in this game and how to preserve the Bother-producing, fail-forward style o
 casting that I want to keep.
 
 [Games on Demand]: http://www.indiegamesondemand.org/2015/08/26/pax-prime-2015-games-on-demand/
-[Inept Sorcerers]: /games/inept-sorcerers.html
+[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html

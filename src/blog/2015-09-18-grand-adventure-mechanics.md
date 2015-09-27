@@ -147,4 +147,4 @@ to help the GM out, and each verb should have some pretty
 distinct rules. But I'll talk about those in another post.
 
 [Cues]: /blog/2015-07-06-cues.html
-[Inept Sorcerers]: /games/inept-sorcerers.html
+[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html

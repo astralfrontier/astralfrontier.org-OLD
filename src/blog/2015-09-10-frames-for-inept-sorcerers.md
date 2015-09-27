@@ -89,4 +89,4 @@ Inspirations:
 
 * Magic User's Club
 
-[Inept Sorcerers]: /games/inept-sorcerers.html
+[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html

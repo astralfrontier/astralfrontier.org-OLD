@@ -5,7 +5,7 @@ collection: blog
 tagged: inept-sorcerers
 ---
 
-[Inept Sorcerers](/games/inept-sorcerers.html) doesn't say anything
+[Inept Sorcerers](http://peppermile.com/inept-sorcerers.html) doesn't say anything
 about the sort of magic your character uses, or where they learned it,
 or anything really. But what if it did?
 

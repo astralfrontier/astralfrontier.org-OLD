@@ -7,7 +7,7 @@ tagged: it-was-there-honest
 
 I've been looking for a way to play-test the
 [cue system I described earlier](/blog/2015-07-06-cues.html).
-I could plug it into [Inept Sorcerers](/games/inept-sorcerers.html),
+I could plug it into [Inept Sorcerers](http://peppermile.com/inept-sorcerers.html),
 but I thought of another possibility: make a separate game.
 
 <!-- more -->

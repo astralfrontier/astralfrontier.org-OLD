@@ -68,7 +68,7 @@ columns:
     entries:
       - name: Inept Sorcerers
         desc: This is a small game I put together to test out a new dice mechanic.
-        url: /games/inept-sorcerers.html
+        url: http://peppermile.com/inept-sorcerers.html
       - name: Fairy Soul
         desc: A Simple World game about urban fantasy in the 1880s.
         url: /games/fairy-soul.html
