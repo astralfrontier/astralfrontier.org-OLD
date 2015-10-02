@@ -1,5 +1,5 @@
 ---
-title: Top Ten Super-Tropes (and their misuse)
+title: Top Ten Super-Tropes (that I hate)
 layout: blogpost.jade
 collection: blog
 ---
@@ -17,42 +17,48 @@ that really piss me off.
 
 #### Number 10: The Ages of Comics
 
-There was a "Golden Age", and a "Silver Age", and so forth, in mainstream
-American comics. I get it. **I get it**.
+[There was a "Golden Age", and a "Silver Age", and so forth](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAgesOfSuperheroComics),
+in mainstream American comics. I get it. **I get it**.
 You no longer need to pay homage to this concept. It's been done to death.
 
-Some of the time, I see this as a way for the writer to promote the
-age they're most comfortable with, or the age they prefer.
-Other times, it's used as a shorthand to indicate the prevailing
-moral climate, either in the "current day" or in some particular era
-of the fictional world history.
+The history of comics in America is closely tied to the emergence
+of real-world situations: the two World Wars of the 20th century,
+the [Comics Code](http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/TheComicsCode)
+(a result of a fabrication to begin with),
+and the ongoing rivalries between comic publishers.
+While the comics themselves mostly took a look at the passage of
+time, shrugged, and went back to punching villains,
+many modern supers games try to fit their fictional history around
+some or all of these pivotal moments.
 
-I'm giving Astro City a pass on this because they consolidated the entire
-reference into *one guy*, who legitimately managed to be a stand-up
-Captain America type and had his own interesting story.
-But other than that? Find a new angle, or give it a rest.
+As a result, a lot of games have heroes emerge in the 30's to 50's,
+the time when comics were really getting started as a medium in reality,
+and will typically follow some sort of Gold/Silver/Bronze/Iron Age progression.
+Sometimes there's some sort of reason for this,
+but often it's just how things are, because that's how comics work.
+More on this later on.
 
 #### Number 9: The Age of Comic Readers
 
-On my shelf is DC Showcase: Green Lantern, volumes 1 and 2.
-This hallowed work of art,
+On my shelf is DC Showcase: [Green Lantern](http://tvtropes.org/pmwiki/pmwiki.php/Franchise/GreenLantern),
+volumes 1 and 2. This hallowed work of art,
 from which years of ink have flowed,
 from which multiple feature films (animated or otherwise) have been made,
 has - I am not joking - a super-evolved tiger shark who can pass himself
 as a human being, and uses the initials "T. S." and reminds the reader
 that they stand for "tiger shark".
 
-No kidding!
+Really.
 
 I get that comics were pitched to ten-year-old boys.
 That's fine.
 Sometimes I like stuff for kids.
 But I'm not a fan of things that are *exclusively* for kids.
-This is why I'll watch "Steven Universe",
-or "My Little Pony: Friendship is Magic"
-but not "Blue's Clues".
+This is why I'll watch ["Steven Universe"](http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/StevenUniverse),
+or ["My Little Pony: Friendship is Magic"](http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic)
+but not ["Blue's Clues"](http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BluesClues).
 
-Give me more stuff like the DCAU's "Justice League".
+Give me more stuff like the DCAU's ["Justice League"](http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JusticeLeague).
 Yes, great, there's fights against diabolical bad guys.
 But then a woman comes to Batman, who's been to the future
 and met her offspring.
@@ -70,7 +76,7 @@ There's not a lot of teams out there who focus on rescue, or construction,
 or entertainment. I am not saying they don't exist, only that they're the exception.
 
 There are better lessons you can teach a child reading comics
-than "punching people in the face is a solution for your problem".
+than ["punching people in the face is a solution for your problem"](http://tvtropes.org/pmwiki/pmwiki.php/Main/ViolenceIsTheOnlyOption).
 And it's tragic, because supers is a genre bursting with possibilities
 for alternatives.
 
@@ -96,19 +102,19 @@ Don't pull solutions out of your ass, no matter how tempting it might be.
 #### Number 7: Realism Isn't Tragedy
 
 It's okay to make your stories realistic.
-The opposite of "goofy four-color" isn't "grimdark tragedy",
+The opposite of "goofy four-color" isn't ["grimdark tragedy"](http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier),
 despite what every issue of DC for the past few years tries to tell you.
 Nor is it necessarily a continuum, from grit to goof.
 
 I'm a big fan of Hayao Miyazaki and Studio Ghibli.
-I can watch a humanoid pig fly a biplane in mid-century Italy.
-I can watch a girl with a mysterious past encounter a floating city.
-I can see a pair of kids forming a bond of friendship with furry forest spirits.
+I can watch [a humanoid pig fly a biplane in mid-century Italy](http://tvtropes.org/pmwiki/pmwiki.php/Anime/PorcoRosso).
+I can watch [a girl with a mysterious past encounter a floating city](http://tvtropes.org/pmwiki/pmwiki.php/Anime/CastleInTheSky).
+I can see [a pair of kids forming a bond of friendship with furry forest spirits](http://tvtropes.org/pmwiki/pmwiki.php/Anime/MyNeighborTotoro).
 In all these cases, the motives of the participants are reasonable
 and understandable. I can see why they'd do what they do.
-But nobody's having limbs cut off, or loved ones stuffed into fridges.
+But nobody's having limbs cut off, or finding [loved ones stuffed into fridges](http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoTheFridge).
 
-Conversely, I can watch films from people like Ralph Bakshi,
+Conversely, I can watch films from people like [Ralph Bakshi](http://tvtropes.org/pmwiki/pmwiki.php/Creator/RalphBakshi),
 where nothing is played too seriously, but dark and twisted things are onscreen most of the time.
 Bleak slapstick is a thing. It's just not necessarily my thing.
 
@@ -134,8 +140,8 @@ Use the comic pantheon as a starting point, then forge ahead.
 
 #### Number 5: The Super Kitchen Sink
 
-It's tempting to throw everything into the pot when you are writing
-a supers setting. Gods, ghosts, ancient civilizations,
+It's tempting to [throw everything into the pot](http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasyKitchenSink)
+when you are writing a supers setting. Gods, ghosts, ancient civilizations,
 interstellar invaders, time travelers, whatever.
 
 But stop, and ask yourself, "can I make this all make some sort of coherent sense?"
@@ -145,7 +151,7 @@ There's a few potential responses to this question.
 "Yes, I can." Great - expect me to buy your book without reservation.
 
 "Much of this is optional, the GM can take or leave any part of it."
-probably okay, there's nothing wrong with presenting possibilities.
+This is okay, there's nothing wrong with presenting possibilities.
 
 "It doesn't have to make coherent sense." Yeah, you lost me here.
 I spent three months writing [Villains Victorious!] in an attempt
@@ -174,7 +180,7 @@ between arbitrary characters,
 write a story that convinces me to care about your angle,
 because right now I do not.
 
-I get that a lot of people like the Ultimate Showdown of Ultimate Destiny.
+I get that a lot of people like the [Ultimate Showdown of Ultimate Destiny](http://tvtropes.org/pmwiki/pmwiki.php/Main/UltimateShowdownOfUltimateDestiny).
 But the inevitable result is always "the good guys realize who the bad
 guys are and wander off to pound on them instead".
 
@@ -182,7 +188,7 @@ guys are and wander off to pound on them instead".
 
 DC has to keep selling Batman comics.
 That means they have to keep the reasons for those sales around.
-That means not killing the Joker.
+That means [not killing the Joker](http://tvtropes.org/pmwiki/pmwiki.php/Main/JokerImmunity).
 
 Fine, story takes a back seat to economic reality.
 I can live with that in comic books. But games are different.
@@ -196,51 +202,7 @@ You can do this with heroes, villains, and everyone in between.
 Use the strength of the medium you're actually in
 to tell good stories.
 
-#### Number 2: Comic-Book Time
-
-This is thankfully much less of a problem in gaming than in comics themselves,
-but I still want to mention it here because it influences how we think about
-comic characters.
-
-This is sort of the reverse of Joker Immunity.
-It's status quo, not for a villain, but for a hero, a set of heroes,
-or even the entire universe.
-
-The history of comics in America is closely tied to the emergence
-of real-world situations: the two World Wars of the 20th century,
-the Comics Code (a result of a fabrication to begin with),
-and the ongoing rivalries between comic publishers.
-While the comics themselves mostly took a look at the passage of
-time, shrugged, and went back to punching villains,
-many modern supers games try to fit their fictional history around
-some or all of these pivotal moments.
-
-As a result, most heroes emerge in the 30's to 50's, when comics were
-really getting started as a medium, and will typically follow some sort
-of Gold/Silver/Bronze/Iron Age progression (a trope which I cited earlier,
-as it's less about history and more about morality).
-
-What about cowboy supers? What about Victorian supers?
-It's okay to have your heroes emerge in different times or places.
-And yes, this *has* been done - and well - but again, it's not the default.
-Supers seem to be stuck as a 20th Century phenomenon in the fiction.
-
-This isn't necessarily a bad thing.
-If you take my advice elsewhere, you'll write realistic consequences
-for the emergence of supers, and the earlier that happens,
-the more off the rails your Earth will go as compared to the real one.
-So it's okay to have supers emerge late, maybe even just a few years
-prior to game time, for the sake of preserving some sort of
-world the players will be familiar with.
-
-It's interesting that "comic-book time" as it's understood from actual comics
-(heroes who rarely age or show signs of their published history being as long as it is)
-seems not to have taken root in gaming.
-Are we as gamers sufficiently aware that this is a ridiculous trope,
-and have we rejected at as too silly even for this medium?
-I hope so.
-
-#### Number 1: The Justice Gang
+#### Number 2: The Justice Gang
 
 Earlier I bemoaned stories that resolve by finding the right bad guy
 and punching him until he recants of his evil ways.
@@ -283,6 +245,48 @@ assumption about the alternative to Outlaw Cowboy).
 
 Give me supers who don't need to violate the letter of the law to uphold its spirits.
 Give me a world I can believe in.
+
+#### Number 1: That's The Way Comics Work
+
+This is the number one thing that pisses me off,
+and it's the one inexcusable trope that will turn me off of your game
+even if everything else sounds good.
+
+If my player character can't do something,
+or my NPC villain doesn't get to do something,
+and the sole reason why is "this would break the game",
+then that is bullshit, plain and simple.
+Let me illustrate what I'm talking about with telepathy.
+
+Imagine a villain who can read minds at a reasonable distance.
+Our villain can penetrate into memories, but not influence behavior.
+Further, this villain is motivated to take over the world,
+or at least some chunk of it.
+Not sure how he could do it?
+In any world with nuclear launch codes, or just the secret of how to
+build the Bomb, this guy is the ultimate terrorist.
+In any world where Swiss bank accounts require some secret knowledge
+to access, this guy is the richest man in the world.
+
+Tell me what stops this guy. No, really, I'm all ears.
+
+Tell me why [Reed Richards is useless](http://tvtropes.org/pmwiki/pmwiki.php/Main/ReedRichardsIsUseless).
+Give me a reason to believe that the Techno Guild's high-tech heroes haven't
+cured cancer, solved hunger, or done something else that radically
+upsets the status quo.
+Give me a reason that the Pax Arcana hasn't proven the truth of religious
+reality in the setting, putting an end to religious strife around the globe.
+
+If the best you have is "that's out of genre for comics", no shit,
+that's my point here, but tell me why *in-universe* it doesn't work.
+Tell me that there's a benevolent Telepaths' Cabal that stops this.
+Tell me that all officials and scientists of note have mind shield implants.
+Tell me something on which I can hang a story,
+but don't just tell me "no".
+
+If anything that recent gaming has taught me,
+it's that just telling the players "no" is no fun.
+And if that's your idea of a good game, count me out.
 
 ----
 
