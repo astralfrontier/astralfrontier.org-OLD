@@ -15,7 +15,7 @@ that really piss me off.
 
 <!-- more -->
 
-Number 10: The Ages of Comics
+#### Number 10: The Ages of Comics
 
 There was a "Golden Age", and a "Silver Age", and so forth, in mainstream
 American comics. I get it. **I get it**.
@@ -32,7 +32,7 @@ reference into *one guy*, who legitimately managed to be a stand-up
 Captain America type and had his own interesting story.
 But other than that? Find a new angle, or give it a rest.
 
-Number 9: The Age of Comic Readers
+#### Number 9: The Age of Comic Readers
 
 On my shelf is DC Showcase: Green Lantern, volumes 1 and 2.
 This hallowed work of art,
@@ -62,7 +62,7 @@ and won't get back together *even though it looks like it's fated*,
 because it wouldn't be fair to his current girlfriend?
 This I can understand.
 
-Number 8: Punching Villains in the Face
+#### Number 8: Punching Villains in the Face
 
 When we talk about well-known comic super-teams,
 generally we're talking about people who go out and beat other people up for a living.
@@ -93,7 +93,7 @@ The day is saved, thanks to some quick thinking from 'Mazing-Man.
 Give me an interesting solution to a tough problem.
 Don't pull solutions out of your ass, no matter how tempting it might be.
 
-Number 7: Realism Isn't Tragedy
+#### Number 7: Realism Isn't Tragedy
 
 It's okay to make your stories realistic.
 The opposite of "goofy four-color" isn't "grimdark tragedy",
@@ -117,7 +117,7 @@ the more we will care about them.
 Write characters who are recognizably human,
 or tell interesting stories about characters who aren't.
 
-Number 6: The X(erox)-Men
+#### Number 6: The X(erox)-Men
 
 What's that? Your supers setting has a fine upstanding team of do-gooders,
 led by a flying brick and his friends the brooding vigilante
@@ -132,7 +132,7 @@ characterization.
 Even so, don't do it. Write your own interesting characters.
 Use the comic pantheon as a starting point, then forge ahead.
 
-Number 5: The Super Kitchen Sink
+#### Number 5: The Super Kitchen Sink
 
 It's tempting to throw everything into the pot when you are writing
 a supers setting. Gods, ghosts, ancient civilizations,
@@ -153,7 +153,7 @@ to prove the opposite - that a coherent explanation for kitchen-sink
 elements was more interesting than simply hand-waving.
 And I firmly believe I succeeded.
 
-Number 4: Hero Arena
+#### Number 4: Hero Arena
 
 "Who would win in a fight, Goku or Superman"?
 
@@ -178,7 +178,7 @@ I get that a lot of people like the Ultimate Showdown of Ultimate Destiny.
 But the inevitable result is always "the good guys realize who the bad
 guys are and wander off to pound on them instead".
 
-Number 3: Joker Immunity
+#### Number 3: Joker Immunity
 
 DC has to keep selling Batman comics.
 That means they have to keep the reasons for those sales around.
@@ -196,7 +196,7 @@ You can do this with heroes, villains, and everyone in between.
 Use the strength of the medium you're actually in
 to tell good stories.
 
-Number 2: Comic-Book Time
+#### Number 2: Comic-Book Time
 
 This is thankfully much less of a problem in gaming than in comics themselves,
 but I still want to mention it here because it influences how we think about
@@ -240,7 +240,7 @@ Are we as gamers sufficiently aware that this is a ridiculous trope,
 and have we rejected at as too silly even for this medium?
 I hope so.
 
-Number 1: The Warriors
+#### Number 1: The Justice Gang
 
 Earlier I bemoaned stories that resolve by finding the right bad guy
 and punching him until he recants of his evil ways.
