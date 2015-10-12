@@ -111,7 +111,8 @@ we had introduced, I didn't feel like it contributed much past that
 function. Was there any rhyme or reason for the placement of things,
 or did the placement imply a connection? Not as far as I could tell.
 
-I'm going to save my comments on *Souls of Steel* for a separate post.
+I'm going to save my comments on *Souls of Steel* for a
+[separate post](/blog/2015-10-12-souls-of-steel.html).
 
 [Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html
 [GeekGirlCon]: http://geekgirlcon.com/
