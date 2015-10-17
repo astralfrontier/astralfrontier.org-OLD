@@ -62,7 +62,10 @@ you forget that you've essentially traveled in time."
 "The diorama is not _entirely_ motionless.
 Every intersection of waves, such as those that make up
 your body, and those that make up your mind,
-has an effect on the whole."
+has an effect on the whole.
+I said that you could run a hand across your spatio-temporal surface
+of the whole of your physical existence?
+What were to happen if you gave it a slight push?"
 
 The rest of the presentation went over my head.
 I'm an engineer, not a physicist.
@@ -72,6 +75,7 @@ Traveling backward in time, visiting the past, resonating with local matter,
 only to forget you'd done it?
 
 Did I go mad then,
-when I first sought out such insane outlets for my grief?
+when I first sought out such insane outlets for my grief,
+with their impossible promises of life after death?
 Or have I gone mad now,
-as I enter my house and find my wife working in the kitchen?
+as I enter my house and faint in shock at seeing my wife working in the kitchen?
