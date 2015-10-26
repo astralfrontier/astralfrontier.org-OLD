@@ -129,6 +129,9 @@ But now I can share the lessons I learned in doing this thing.
 1. Be authentic.
 2. Put your game's concept to the Twitter Test.
 3. Don't make a good game, breed it.
+4. Start somewhere familiar, then break new ground.
+
+What does "be authentic mean"?
 
 Plant a flag in the ground, stake out some territory on the map of fun,
 and make a stand there for what you believe will be entertaining.
@@ -139,6 +142,8 @@ Could I make a fun experience out of playing people who were inept?
 Could slapstick sorcerers and half-baked conjurers be entertaining PCs?
 I thought yes.
 
+What is "the Twitter Test"?
+
 Can you describe the concept you want to develop in a single tweet,
 of 140 characters or less?
 If not, either your game must be very complex,
@@ -147,6 +152,8 @@ In either case, go back and try to extract a clear concept from your thoughts,
 then try again.
 Inept Sorcerers has an easy premise:
 "Bumbling magic users cast spells, cause messes, then try to fix messes with magic. Repeat."
+
+How do you "breed" a game?
 
 I wrote a blog post called
 [Game Design Genetics](/blog/2015-09-29-game-design-genetics.html)
@@ -159,6 +166,33 @@ to create the game you really want.
 Inept Sorcerers finished largely the same as it started in the
 core areas, but it did mutate several times.
 Chaos Capacity became Arcana over a few mutations, for example.
+
+How do you start somewhere familiar, and where do you go?
+
+This is a subset of the game-genetics article, but I'll dive into it anyway.
+My ability to produce an interesting game depended on my familiarity
+with a lot of existing stuff. I name-dropped GURPS and the GURPS Magic
+supplement specifically.
+The iconic character for Inept Sorcerers was always Schmendrick the Magician,
+from _The Last Unicorn_, so I had a solid mental image of my protagonists
+and their typical adventures.
+
+The more fiction and gaming stuff you're aware of,
+the larger your creative vocabulary will be.
+Go browse [TV Tropes](http://tvtropes.org/) for a few hours.
+Read, or reread, your favorite genre books.
+Watch your favorite genre films.
+When people talk about a game system a lot,
+like Apocalypse World or Dungeon World or Fate Core,
+go look it up and learn it. People are talking about it for a reason.
+When you hear a given mechanic talked about often,
+like Lady Blackbird's Keys, or Fate's Aspects, go learn those things.
+Every such experience is grist for the mill of your own creative efforts.
+
+These sources all form your creative vocabulary,
+but it's on you to say something original with the "words" you've acquired.
+If you don't have that original spark of an idea,
+it's not time to create a game yet.
 
 ### Lessons Learned: Practical Considerations
 
