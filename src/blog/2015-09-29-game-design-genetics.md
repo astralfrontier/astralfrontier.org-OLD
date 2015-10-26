@@ -93,12 +93,12 @@ What does this mean for you?
 
 When you sit down to design a game, you will be working with *components*,
 whether or not you realize it at first.
-The genes of games long gone, like dice rolling, are still with you.
-Learn to recognize those components for what they are.
+Components are things like "character attributes", dice systems,
+the concepts of hit points or damage, and so forth.
+The genes of games long gone, like specific methods dice rolling, are components.
 
-Once you know that, learn to sift through your design for new components
-you've made. If you reach a point where you think your current design
-won't work, start reviewing the pieces.
+Once you know that, learn to sift through your design for new components you've made.
+If you reach a point where you think your current design won't work, start reviewing the pieces.
 Something in your design has value. Find it, then extract it.
 Put it in your toolkit of useful components.
 
