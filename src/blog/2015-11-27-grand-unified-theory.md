@@ -8,8 +8,8 @@ tagged: grand-adventure
 I was sick for a few weeks in November, and have been busy around
 the Thanksgiving holiday.
 Looking back, I saw fewer posts than I'd liked.
-So here's my attempt to tie together what I've been thinking about during
-that time, which is how Grand Adventure all ties together.
+So here's what I've been thinking about during that time,
+which is how Grand Adventure all ties together.
 
 <!-- more -->
 
