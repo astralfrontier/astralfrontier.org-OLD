@@ -1,5 +1,5 @@
 ---
-title: "Draw Maps, Leave Blanks" for Supers
+title: Draw Maps, Leave Blanks for Supers
 layout: blogpost.jade
 collection: blog
 tagged: sssc
@@ -44,7 +44,7 @@ I'll do one better - I'll pull the list from TV Tropes' page on the
 * Chi - discussed [here](http://villainsvictorious.blogspot.com/2014/08/chi-powers-and-super-martial-artist.html). Mr. Big concludes that "chi" as a unique force doesn't exist, but many powers attributed to chi are still possible for supers to accomplish.
 
 What do many of these things have in common?
-That *the setting hasn't committed to most of them*.
+That *the setting hasn't committed to them*.
 They're possible, but nothing in the game hinges on magic, religion,
 aliens, or time travel being real.
 
