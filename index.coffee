@@ -129,6 +129,10 @@ metalsmith(__dirname)
     destination: './assets'
   }))
   .use(less({}))
+  .use(assets({
+    source: './bower_components'
+    destination: './assets/bower'
+  }))
   .use(link_checker({warn: true}))
   .destination('./build')
 # .use(serve({
