@@ -2,6 +2,7 @@
 title: An Otome Game idea
 layout: blogpost.jade
 collection: blog
+tagged: silver-sheen, otome
 ---
 
 I watched a friend live-stream one of the
