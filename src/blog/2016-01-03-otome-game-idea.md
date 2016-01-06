@@ -5,9 +5,7 @@ collection: blog
 tagged: silver-sheen, otome
 ---
 
-I watched a friend live-stream one of the
-[Amnesia](https://en.wikipedia.org/wiki/Amnesia_(visual_novel))
-games the other night.
+I watched a friend live-stream one of the [Amnesia] games the other night.
 This same friend talked about robotic characters.
 Those two events came together to give me a suggestion for an
 [otome game](https://en.wikipedia.org/wiki/Otome_game).
@@ -80,3 +78,5 @@ like writing code, I've got that much covered.
 I have no particular artistic talent, but I'm a great software engineer.
 I like robot protagonists and I'd love to see more games and other
 media include a sympathetic robotic character.
+
+[Amnesia]: https://en.wikipedia.org/wiki/Amnesia_(visual_novel)
