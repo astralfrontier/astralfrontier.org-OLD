@@ -6,7 +6,10 @@ block contents
     div.row
       for column in yaml_contents.columns
         div.col-md-4
-          img.img-responsive.center-block(src=column.image style="max-height: 100px;")
+          if column.image
+            img.img-responsive.center-block(src=column.image style="max-height: 100px;")
+          else
+            h2= column.name
           for entry in column.entries
             h3= entry.name
             if entry.desc

@@ -5,7 +5,7 @@ layout: three-column-yaml.jade
 
 columns:
   - name: Fantasy
-    image: /assets/art/Castle-Neuschwanstein.svg
+    # image: /assets/art/Castle-Neuschwanstein.svg
     entries:
       - name: Life After Death
         desc: I wrote several stories after thinking about religion, the afterlife, and similar topics.
@@ -43,7 +43,7 @@ columns:
         desc: A fantasy RPG setting focused on power, ideas, and emotion.
         url: /fiction/vessels.html
   - name: Superhero
-    image: /assets/art/tiothy-City-Art-Deco.svg
+    # image: /assets/art/tiothy-City-Art-Deco.svg
     entries:
       - name: Junkyard Heroes
         desc: Blue-collar superheroes work with a kindly alien.
@@ -55,7 +55,7 @@ columns:
         desc: A post-a-day blog, now discontinued, on how to be an effective supervillain.
         url: http://villainsvictorious.blogspot.com/
   - name: Science Fiction
-    image: /assets/art/futurespacestation.svg
+    # image: /assets/art/futurespacestation.svg
     entries:
       - name: Empyrean City
         desc: Every so often I write some short transhumanist pieces.
