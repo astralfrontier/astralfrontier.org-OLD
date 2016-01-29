@@ -1,5 +1,5 @@
 ---
-title: Grand Adventure
+title: Grand Adventure Optional Rules
 layout: blogpost.jade
 collection: blog
 tagged: grand-adventure
@@ -17,7 +17,7 @@ But she'll be hobbling for awhile, which will make things more difficult…
 
 How do we model that?
 By creating Words that represent some kind of deleterious condition.
-The MC gives Tana a "With a Broken Leg" (*5) Word.
+The MC gives Tana a "With a Broken Leg" (☆5) Word.
 Every action she takes where the leg is a serious impediment must include that Word,
 and its action cost of 5.
 
