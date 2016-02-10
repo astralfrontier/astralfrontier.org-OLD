@@ -4,19 +4,21 @@ layout: blogpost.jade
 collection: blog
 ---
 
-Based on a thread on Google+,
-I decided to talk about the factors that I think can
-make or break a long-running roleplaying campaign.
-I also want to talk about suggestions for how to plant the seeds
-for such a game, and how to nurture it as it grows.
+I want to offer a metaphor for the challenges you'll encounter as GM
+of a long-running roleplaying campaign.
+That metaphor is this:
+
+*A long campaign is like a road trip you undertake with your friends.*
 
 <!-- more -->
 
-### Getting Started
+J. Michael Straczynski famously wrote his seminal television series "Babylon 5"
+in a way that long-running games can emulate.
+You can read more about it [here](http://io9.gizmodo.com/5985727/the-strange-secret-evolution-of-babylon-5).
+I'll refer to this a few times in the text that follows.
 
-You need two things:
-a ''long-term premise'' and ''player investment''.
-
+_Decide on where you want to go._
+Have a premise for your game.
 The premise isn't the superficial plot.
 It's not "elves vs. orcs" or "everyone plays demons".
 It's the seed that creates new stories
@@ -26,19 +28,66 @@ or "free will vs. determinism".
 Sometimes it's an approach to the game, like
 "roll dice, kill monsters, take their stuff, have fun".
 
-Player investment is how eager your players are to play any long-running game,
-as well as to play yours specifically.
+JMS had a solid set of criteria for Babylon 5, and a clear long-term premise:
+"do for sci-fi television what Hill Street Blues did for cop shows".
+No cute robots, no kids.
+Sticking to his guns let him spin out a story that felt consistent,
+because it was.
+It had internal logic, and rules, and it followed a pattern.
 
-Explain your premise, and then ask people,
-"so do you want to play a long-running game about X?"
-Don't settle for just "yes".
-People are agreeable. People go along with what they think the group wants.
-If you hear "yes", ask the followup: "what interests you about X?"
+_Show everyone some pictures of the destination._
+The players only know as much about your world as you tell them.
+If it's based on some existing franchise, like Star Trek,
+it's often enough to tell them that.
+But an original world, or one that's divergent enough from expectations,
+needs to be explained.
+
+_Make sure your friends are in for the long haul._
+When you start a campaign,
+you might think "I'll just ask them if they want this to run for awhile."
+Don't settle for just a "yes".
+People want to be agreeable.
+People go along with what they think the group wants.
+If you hear "yes", ask the followup: "what interests you about this game idea?"
 Get an answer that makes sense.
 The level of detail you got will tell you how invested they are in the idea.
 You'll also get ideas for how to proceed with the game.
 
-### Player Presence and Online vs. Face-to-Face
+_The most important thing is to keep your wheels turning._
+A campaign is made or broken by momentum.
+Whatever slows the campaign down,
+from player problems to confusion about the rules,
+is a bump in the road and friction on the tires.
+
+Small problems that recur often are worse than big problems.
+You need to find and eliminate anything that slows your game down.
+
+Respect your players' time and preferences,
+and they'll be willing to come back again and again.
+The time we spend in your game is a cost,
+so make it as cheap and rewarding as possible.
+
+Sources of friction can include:
+
+* An unfamiliar game system. This isn't always true - sometimes "let's try this new thing" is the whole pitch for your campaign. But if the newness of a game gets in the way of the story, it can slow the players down.
+* An unfamiliar or disliked tone. If you're running gritty military sci-fi and your players wanted Star Wars, they'll find ways to get out of the game, if they can't bend it in the direction they want.
+* Lack of commitment. If you schedule your game at the best possible time and stick to that schedule, setting expectations that it _will_ happen, the players will usually cooperate in that effort. But if you seem wishy-washy or reluctant to run, the players will pick up on that. Lead with your expectations, and your group will follow.
+
+_Let other people take turns driving. You'll cover more ground._
+It's much less effort for your players to care about your world
+if it's their world too.
+When people are personally invested in something,
+they'll work to see it continue.
+
+Allowing players to add to your fictional setting
+takes some of the creative debt off your shoulders.
+You don't have to let people take turns GMing - although you can -
+but you can give players a say in areas of the game they find interesting.
+
+_Not everyone drives in fourth gear. Not everyone's comfortable in the fast lane._
+Players have their own schedules and their own lives.
+Taking up their time unnecessarily introduces friction -
+if your campaign is more annoying than fun, they won't want to play.
 
 There's four general modes of play:
 
@@ -47,55 +96,48 @@ There's four general modes of play:
 3. Real-time text-based gaming.
 4. Play-by-post.
 
-None of them automatically makes your campaign more or less likely
-to last a long time. Instead, your players' schedules dictate which one is best.
+I'm in a live game, running every other week.
+It lasts three to four hours, but it takes three hours to drive up there.
+That's three hours of my day I won't get back.
+On the other hand, I get immediate feedback via body language
+from everyone at the table.
+I instantly know if an idea is well received or crap.
 
-For example, I'm in a face-to-face game in real life.
-It lasts 3-4 hours every two weeks, but it's three more hours just
-to get there and back.
-That's three hours of my day I don't get back,
-which means I'm less likely to want this to continue for years.
-On the other hand, I can look around the table and immediately
-gauge body language, "condensing fact from the vapor of nuance",
-to get a feeling for what people are doing next, how they feel about
-what I am doing, and so forth.
+I'm in a Hangouts game.
+There's no travel time, I just sit down and play.
+But it's harder to get a read on the other players.
+I have to look at them one at a time, and make a guess.
 
-I'm in a Hangouts game expected to run for a few Saturdays.
-There's no travel time, but it's hard to really get a read on my
-fellow players. I can see their faces when they talk,
-but there's a feeling of separation at times.
-
-I'm running a real-time text game for a small group, as practice with
-the Fate system.
-It's very difficult to get an idea of what people are thinking if they don't say it,
-and a few times I've had to clear up a misunderstanding.
-But I can do other things while that game is going on,
-like thumbing through the Atomic Robo comic for inspiration.
+In a real-time text-based game, nobody can see anyone else.
+Different communication styles lead to misunderstanding.
+On the other hand, I can paste large blocks of text into the game,
+leaf through rules while the other players make plans,
+or do things that would be disruptive at a live table.
+Furthermore, it's super easy to scroll back through history
+to find out for sure if something was said earlier.
 
 Finally, I'm running a play-by-post supers game.
-It can drag on at times.
-One of my players posts maybe once or twice a week at times,
-more often saying "sorry guys work is very busy"
-rather than just allowing the plot to move forward,
-and things have been arranged in such a way that his character
-is central to a few scenes.
-It's been going for a year, and only recently did the group finish
-their first real day on this new alien planet.
+The enemy of that game is delay in posting:
+people have gone for a week or more between posts,
+and I've often seen more apologies for lateness than actual posts.
 But there's plenty of time between posts to talk about approaches,
-hammer out new plot ideas, and ask questions that don't disturb the rest of the group.
+hammer out new plot ideas,
+and ask questions that don't disturb the rest of the group.
 
-The choice of venue depends largely on your players and their schedules.
-Busy parents or professionals appreciate not having their time wasted,
-which often means a video chat rather than a face-to-face game.
-Thoughtful or introverted players can get more value out of a text game.
+Each of these approaches has strengths and weaknesses.
+Searchable history in text is a big benefit.
+The speed of voice communication is a different benefit.
+Ability to read body language is balanced by travel time and scheduling.
+You should figure out what the biggest pain point will be
+for the campaign you want to run, and choose the right venue
+to ease that pain.
 
-### The First Story
-
+_Stopping at a motel for the night is the end of A journey, not THE journey._
 Long campaigns are made up of shorter stories.
 Good stories have payoffs.
-When your first story reaches one, it will be tempting for your players
-to feel that closure and interpret it as the end of the game.
-Interest might start to flag.
+When your first story reaches its end, it will be tempting for your players
+to feel closure and interpret it as the end of the game.
+Interest might start to wane.
 
 Before your first story reaches its climactic ending,
 try to have planted seeds for the next one.
@@ -111,47 +153,42 @@ Your campaign can't run at fourth gear all the time.
 The game needs breaks, slow times, and breather moments.
 But always give the group something to look forward to.
 
-### Keeping Track of Details
-
-The more details matter to your game, the more likely you are to want a
-tool to keep track of them.
+_You'll get lost without a good road map._
+The more important details are to your game,
+the more likely you are to want a tool to keep track of them.
 Shared documents courtesy of Google Docs, DropBox, Evernote, or Wikia
 can all help players keep track of important things.
 
-Wherever possible, there should be a space where every player
-can post something or edit what's already present.
+There should always be a space where each player can post something new,
+or edit what's already been posted.
 The players will naturally keep track of the things that are important to them.
-Letting players write original material pushes some of the weight of
-world-building off of your shoulders, which is good.
 
-You should strive for consistency in the things that matter,
-and be willing to retcon old events for the sake of keeping the game going.
-If something is important to you later,
-write it down.
+If the players don't care about a detail, and you don't either,
+it's okay to fudge it.
+If they care and you don't, encourage them to keep records.
+If you care and they don't, that's a problem for your story, not
+record keeping.
+The story elements you introduce are meant to grab their attention, after all.
 
-Similarly, not every idea will be good immediately.
-Write down your ideas for the future in your document storage system.
-Leaf through them every so often,
-or share some of them with the players to see what sounds interesting.
+Not every idea will be good immediately.
+Write it down anyway. It will be useful in the future.
 
-### Role Models for Long Campaigns
+_Everyone needs landmarks._
+A good long-running campaign won't ignore its own history.
+Prop up some "tent poles" in the campaign, things that the players can rely on
+for the most part.
+Long-lasting support NPCs, consistent and predictable technology or magic,
+a base of operations, and so on can contribute to a sense of continuity.
 
-J. Michael Straczynski famously wrote his seminal television series "Babylon 5"
-in a way that long-running games can emulate.
-You can read more about it [here](http://io9.gizmodo.com/5985727/the-strange-secret-evolution-of-babylon-5).
-
-First, he had a solid set of criteria, and a clear long-term premise:
-"do for sci-fi television what Hill Street Blues did for cop shows".
-No cute robots, no kids.
-
-Second, each of his story elements were written with some internal tension.
-Individual characters had rivals, superiors, problems, and plans.
+_Your route will send you on detours. This is okay._
+Each of the characters that JMS wrote came with some internal tension.
+People had rivals, superiors, problems, and plans.
 A single external menace, such as the Shadows in later seasons,
 could represent different things to different characters.
 They were a military or social conflict for Sheridan,
 but essentially a moral conflict for characters like Londo Mollari.
 
-Third, JMS structured his stories in ways
+JMS structured his stories in ways
 that would survive changes in production,
 such as an actor leaving the show.
 Many of these "trap doors" came from the internal tensions
@@ -165,23 +202,17 @@ Characters that are crucial to the plot wander off or do something else.
 Don't pin too much weight on a single player.
 Have contingencies ready if the players surprise you.
 
-### Final Thoughts
+Your game may end with a different set of players,
+and a different direction, than you started with. This is okay.
+The most vital quality of a long-running game is _adaptability_.
+A game that gracefully survives change will last longer than one that can't, or won't.
 
-Small costs add up over the long term.
+_When you get to your destination, stop driving._
+Sometimes your game will reach a point where it logically feels like it should end.
+Maybe it hasn't run long enough for your tastes.
+Rather than stringing it out, try to accept a conclusion to the story.
+Remember, though, that you can always do something else with the material you've
+all worked hard to create.
 
-Respect your players' time and preferences,
-and they'll be willing to come back again and again.
-The time we spend in your game is a cost, so make it cheap for us.
-
-Give them an idea worth following,
-and permission to build on the back of it,
-and they will feel personally invested in making your game continue.
-The effort to care about your world is much less
-if it's our world too, so make it open to us.
-
-Finally,
-your game may end with a different set of players,
-and a different direction,
-than you started with.
-This is okay.
-Surviving big changes is the real hallmark of a long-running game.
+The same characters can start a new story, or perhaps their descendants or inheritors can.
+Elements of an old campaign can make it into a new one.
