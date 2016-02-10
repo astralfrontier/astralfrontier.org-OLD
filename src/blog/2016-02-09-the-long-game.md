@@ -17,7 +17,7 @@ in a way that long-running games can emulate.
 You can read more about it [here](http://io9.gizmodo.com/5985727/the-strange-secret-evolution-of-babylon-5).
 I'll refer to this a few times in the text that follows.
 
-_Decide on where you want to go._
+**Decide on where you want to go.**
 Have a premise for your game.
 The premise isn't the superficial plot.
 It's not "elves vs. orcs" or "everyone plays demons".
@@ -35,14 +35,14 @@ Sticking to his guns let him spin out a story that felt consistent,
 because it was.
 It had internal logic, and rules, and it followed a pattern.
 
-_Show everyone some pictures of the destination._
+**Show everyone some pictures of the destination.**
 The players only know as much about your world as you tell them.
 If it's based on some existing franchise, like Star Trek,
 it's often enough to tell them that.
 But an original world, or one that's divergent enough from expectations,
 needs to be explained.
 
-_Make sure your friends are in for the long haul._
+**Make sure your friends are in for the long haul.**
 When you start a campaign,
 you might think "I'll just ask them if they want this to run for awhile."
 Don't settle for just a "yes".
@@ -53,7 +53,7 @@ Get an answer that makes sense.
 The level of detail you got will tell you how invested they are in the idea.
 You'll also get ideas for how to proceed with the game.
 
-_The most important thing is to keep your wheels turning._
+**The most important thing is to keep your wheels turning.**
 A campaign is made or broken by momentum.
 Whatever slows the campaign down,
 from player problems to confusion about the rules,
@@ -73,7 +73,7 @@ Sources of friction can include:
 * An unfamiliar or disliked tone. If you're running gritty military sci-fi and your players wanted Star Wars, they'll find ways to get out of the game, if they can't bend it in the direction they want.
 * Lack of commitment. If you schedule your game at the best possible time and stick to that schedule, setting expectations that it _will_ happen, the players will usually cooperate in that effort. But if you seem wishy-washy or reluctant to run, the players will pick up on that. Lead with your expectations, and your group will follow.
 
-_Let other people take turns driving. You'll cover more ground._
+**Let other people take turns driving. You'll cover more ground.**
 It's much less effort for your players to care about your world
 if it's their world too.
 When people are personally invested in something,
@@ -84,12 +84,13 @@ takes some of the creative debt off your shoulders.
 You don't have to let people take turns GMing - although you can -
 but you can give players a say in areas of the game they find interesting.
 
-_Not everyone drives in fourth gear. Not everyone's comfortable in the fast lane._
+**Not everyone drives in fourth gear.
+Not everyone's comfortable in the fast lane.**
 Players have their own schedules and their own lives.
 Taking up their time unnecessarily introduces friction -
 if your campaign is more annoying than fun, they won't want to play.
 
-There's four general modes of play:
+There's four general venues for play:
 
 1. Face-to-face gaming at regular intervals, e.g. 3 hours every 2 weeks.
 2. Real-time gaming via Google Hangouts, Skype, video chat, etc.
@@ -132,7 +133,7 @@ You should figure out what the biggest pain point will be
 for the campaign you want to run, and choose the right venue
 to ease that pain.
 
-_Stopping at a motel for the night is the end of A journey, not THE journey._
+**Stopping at a motel for the night is the end of A journey, not THE journey.**
 Long campaigns are made up of shorter stories.
 Good stories have payoffs.
 When your first story reaches its end, it will be tempting for your players
@@ -153,7 +154,7 @@ Your campaign can't run at fourth gear all the time.
 The game needs breaks, slow times, and breather moments.
 But always give the group something to look forward to.
 
-_You'll get lost without a good road map._
+**You'll get lost without a good road map.**
 The more important details are to your game,
 the more likely you are to want a tool to keep track of them.
 Shared documents courtesy of Google Docs, DropBox, Evernote, or Wikia
@@ -173,14 +174,14 @@ The story elements you introduce are meant to grab their attention, after all.
 Not every idea will be good immediately.
 Write it down anyway. It will be useful in the future.
 
-_Everyone needs landmarks._
+**Everyone needs landmarks, sign posts, and mile markers.**
 A good long-running campaign won't ignore its own history.
 Prop up some "tent poles" in the campaign, things that the players can rely on
 for the most part.
 Long-lasting support NPCs, consistent and predictable technology or magic,
 a base of operations, and so on can contribute to a sense of continuity.
 
-_Your route will send you on detours. This is okay._
+**Your route will send you on detours. This is okay.**
 Each of the characters that JMS wrote came with some internal tension.
 People had rivals, superiors, problems, and plans.
 A single external menace, such as the Shadows in later seasons,
@@ -207,7 +208,7 @@ and a different direction, than you started with. This is okay.
 The most vital quality of a long-running game is _adaptability_.
 A game that gracefully survives change will last longer than one that can't, or won't.
 
-_When you get to your destination, stop driving._
+**When you get to your destination, stop driving.**
 Sometimes your game will reach a point where it logically feels like it should end.
 Maybe it hasn't run long enough for your tastes.
 Rather than stringing it out, try to accept a conclusion to the story.
@@ -216,3 +217,6 @@ all worked hard to create.
 
 The same characters can start a new story, or perhaps their descendants or inheritors can.
 Elements of an old campaign can make it into a new one.
+
+Thanks for reading! Please share your opinion,
+or contribute ideas on how to create and sustain a long-runner.
