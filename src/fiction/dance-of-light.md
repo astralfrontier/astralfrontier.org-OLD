@@ -31,7 +31,9 @@ I asked my master why.
 "What if they are wrong and the attack is on its way?" he asked.
 This much I could understand.
 
-When I practiced with the masters, I felt good.
+Jedi are guided by their feelings.
+That was the lesson I learned.
+And when I practiced with the masters, I felt good.
 I could sense their praise, their criticism, before they said it.
 I learned faster listening to my own feelings as our blades clashed,
 than I ever would from spoken instruction.
@@ -87,3 +89,24 @@ Why was my heart in tatters?
 At the temple, I explained my feelings to my master.
 He only nodded.
 There was to be more training, but now I fully understood its necessity.
+
+Why then must the Jedi resist attachments?
+
+It is the nature of the Force to bind things together.
+Planets. People. Feelings.
+From the greatest to the least.
+But the Force is like gravity.
+The lesser will be drawn to the greater, always.
+
+When we are confronted with hate, we must respond with a greater love.
+When we meet with fear, we must show greater courage.
+We must achieve greatness in ourselves.
+We must devote ourselves to the highest ideals.
+Duty. Honor. Justice.
+Only in this way can we resist becoming what we fight.
+
+We must give up our own emotions to achieve peace.
+We must reject our own ignorance to gain knowledge.
+We must accept our passion to find serenity.
+We must rise above chaos to build harmony.
+When we no longer fear loss - of life, of self, of our emotions, of our attachments - only then can we master the Force.
