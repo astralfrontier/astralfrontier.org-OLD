@@ -1,20 +1,32 @@
-div.site-nav-masthead
-  div.container
-    nav.site-nav
-      for item in nav
-        if new RegExp(item.regex).test(path)
-          a.site-nav-item.active(href=item.path)= item.label
-        else
-          a.site-nav-item(href=item.path)= item.label
-      a.site-nav-item.pull-right(href="/rss.xml")
-        i.fa.fa-rss
-      div.dropdown.pull-right
-        a.dropdown-toggle.site-nav-item#socialmedia(data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#")
-          i.fa.fa-share-alt
-        ul.dropdown-menu(aria-labelledby="socialmedia")
-          for site in social_media
+nav.navbar.navbar-default
+  div.container-fluid
+    div.navbar-header
+      button.navbar-toggle.collapsed(type="button" data-toggle="collapse" data-target="#site-navbar-collapse" aria-expanded="false")
+        span.sr-only Toggle navigation
+        span.icon-bar
+        span.icon-bar
+        span.icon-bar
+      a.navbar-brand(href="/") Astral Frontier
+    div.collapse.navbar-collapse#site-navbar-collapse
+      ul.nav.navbar-nav
+        for item in nav
+          if new RegExp(item.regex).test(path)
+            li.active
+              a(href=item.path)= item.label
+          else
             li
-              a(href=site.url)
-                i.fa(class="fa-#{site.icon}")
-                | &nbsp;
-                = site.name
+              a(href=item.path)= item.label
+      ul.nav.navbar-nav.navbar-right
+        li
+          a(href="/rss.xml")
+            i.fa.fa-rss
+        li.dropdown
+          a.dropdown-toggle(href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false")
+            i.fa.fa-share-alt
+          ul.dropdown-menu
+            for site in social_media
+              li
+                a(href=site.url)
+                  i.fa(class="fa-#{site.icon}")
+                  | &nbsp;
+                  = site.name
