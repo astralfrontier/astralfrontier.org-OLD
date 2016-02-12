@@ -11,15 +11,13 @@ block contents
           else
             h2= column.name
           for entry in column.entries
-            h3= entry.name
+            if entry.url
+              a(href=entry.url)
+                h3= entry.name
+            else
+              h3= entry.name
             if entry.desc
               p!= entry.desc
-            if entry.url
-              a.btn.btn-default(role="button" href=entry.url)
-                if entry.pdf
-                  i.fa.fa-file-pdf-o
-                  | &nbsp;
-                | Read more &raquo;
             if entry.bullets
               ul
                 for bullet in entry.bullets

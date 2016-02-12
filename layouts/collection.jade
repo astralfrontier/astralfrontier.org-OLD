@@ -6,8 +6,7 @@ block main
     div.row
       for review in pagination.files
         div.col-md-4
-          h2= review.title
+          a(href="/"+review.path)
+            h2= review.title
           p= review.synopsis
-          p
-            a.btn.btn-default(role="button" href="/"+review.path) Read more &raquo;
     include ./pagination.jade
