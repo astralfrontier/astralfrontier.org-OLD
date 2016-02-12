@@ -80,6 +80,9 @@ columns:
           - name: Libraria
             desc: Swashbuckling adventure in a world of books come to life.
             url: /fiction/libraria.html
+      - name: Dance of Light
+        desc: What does a lightsaber duel feel like?
+        url: /fiction/dance-of-light.html
       - name: FUTILE OCTAVE
         desc: A CthulhuTech campaign about an archaeological expedition.
         url: /fiction/futile-octave.html
