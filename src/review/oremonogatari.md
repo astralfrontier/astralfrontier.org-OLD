@@ -3,6 +3,7 @@ title: Oremonogatari
 layout: review.jade
 collection: reviews
 synopsis: The enormous gonk Gouda Takeo falls in love with Yamato Rinko, a petite girl who loves to cook.
+thumbnail: /assets/thumbnail-gouda-takeo.png
 images:
   - /assets/gouda-takeo.png
   - /assets/yamato-rinko.jpg
