@@ -11,7 +11,7 @@ block main
               div.media-left
                 if review.thumbnail
                   a(href="/"+review.path)
-                    img.media-object(src=review.thumbnail)
+                    img.media-object.review-thumbnail(src=review.thumbnail)
               div.media-body
                 h4.media-heading
                   a(href="/"+review.path)= review.title
