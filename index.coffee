@@ -65,7 +65,7 @@ pagination_data = {
     path: 'blog-:num.html'
   'collections.reviews':
     perPage: 12
-    layout: 'collection.jade'
+    layout: 'reviewlist.jade'
     first: 'reviews.html'
     path: 'reviews-:num.html'
     pageMetadata:
