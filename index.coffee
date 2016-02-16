@@ -122,7 +122,10 @@ metalsmith(__dirname)
   ))
   .use(feed(collection: 'blog'))
   .use(beautify({
+    indent_size: 4
+    indent_char: ' '
     html: { wrap_line_length: 80 }
+    js: { indent_size: 2 }
   }))
   .use(assets({
     source: './assets'
