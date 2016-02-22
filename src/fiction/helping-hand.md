@@ -217,7 +217,23 @@ he takes his battle to the warlord in his compound.
 Ultimately what wins the day isn't martial skill, but mercy.
 The warlord's daughter has cancer, and Baldur convinces
 the man to surrender to the UN in exchange for healing her.
-He spends his remainin time curing diseases in the region.
+He spends his remaining time curing diseases in the region.
+
+Together the team discovers the truth:
+a Bio-Master was behind each of their individual cases.
+The polluter was introducing Bio-Master mutagens
+into the environment to create new Splice candidates.
+The fire was set to cover up government collusion and bribes.
+The terrorists were taking a whistleblower hostage,
+and the airliner carried a prominent scientist on his way
+to talk to her.
+The warlord was one of the potential buyers for new Splices,
+and the Bio-Master had promised a cancer cure as incentive.
+Getting their captives to talk allows the Helping Hand
+to track down the Bio-Master, fight through a group of new Splices,
+and defeat the alien.
+They hand their captive off to a representative of Life Force,
+then heal the Splices and return them to their homes.
 
 Credit for the bioship is partially due to this post:
 [https://worldbuilding.stackexchange.com/questions/8962/is-a-jet-dragon-possible](https://worldbuilding.stackexchange.com/questions/8962/is-a-jet-dragon-possible)
