@@ -45,6 +45,9 @@ columns:
   - name: Superhero
     # image: /assets/art/tiothy-City-Art-Deco.svg
     entries:
+      - name: Helping Hand
+        desc: A superhero team concept built around life manipulation.
+        url: /fiction/helping-hand.html
       - name: Junkyard Heroes
         desc: Blue-collar superheroes work with a kindly alien.
         url: /fiction/junkyard-heroes.html
