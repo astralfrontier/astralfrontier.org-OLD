@@ -111,11 +111,22 @@ The following Splices are built to operate on Earth,
 and are mostly one-off experimental projects rather than mass-produced weapons.
 
 Most of the Splices have three modes:
-a mundane disguise (often a vehicle), a humanoid fighting form,
+a technological form (often a vehicle), a humanoid fighting form,
 and a monstrous animal form.
 They are constructed by enlarging and modifying a typical Earth animal,
 then combining it cybernetically with vehicle parts.
 This process is typical of Splices made for use on other planets in the galaxy.
+
+It is rare for a Splice to fully pass for an Earthly animal or vehicle,
+but units built for infiltration do exist.
+
+**Bat**
+
+When it's not emulating a giant vampire bat, this Splice becomes a stealth aircraft or a humanoid fighter whose webbed wings allow it to glide and form protective shields. In all modes, it has a capable sonic attack.
+
+**Bear**
+
+This powerful black bear Splice is designed to be a heavy weapons platform. Its technological form is a stationary turret with its limbs bracing it, mounting a powerful cannon. Its humanoid form can use the same cannon when carefully braced. In animal form, the cannon is slung over the back and unusable, but its powerful claws and bite make up for this.
 
 **Dragonfly**
 
@@ -124,3 +135,11 @@ Disguised as an Earth helicopter with four rotor blades, Dragonfly can become an
 **Scorpion**
 
 Scorpion can operate as a main battle tank, or unfold its tracks to become a huge scorpion with its main gun as the tail. In humanoid form, the front pincer claws become armored forearms, and the tail-gun is slung over the shoulder.
+
+**Shark**
+
+Shark disguises itself as a sleek mini-submarine, when it's not appearing as a toothy and vicious underwater predator. Its humanoid combat form uses its fins and tails as shields, and adapts the multi-layered rows of teeth into a fast-spinning chainsaw sword.
+
+**Spider**
+
+This Splice prefers stealth, guile, and manipulation to overt combat, spinning monofilament webs that can slice and cut. Its torso separates and attaches to the limbs to form a muscular motorcycle. In humanoid form, it uses its webbing to create whips, grappling aids, and swing lines.
