@@ -13,7 +13,9 @@ Those who pass are given an offer:
 join Life Force, or return to their normal existence.
 To its credit, 99% of those candidates selected have accepted the offer.
 
-Life Force battles an interstellar band of mad scientists
+Life Force fights to help life in all its forms,
+wherever it is threatened.
+But its most tenacious enemy are an interstellar band of mad scientists
 called **Bio-Masters**, who perform horrible experiments on living things,
 turning them into twisted cyborg weapons called **Splices**.
 Members of Life Force must protect their planets from Splices,
@@ -117,8 +119,11 @@ They are constructed by enlarging and modifying a typical Earth animal,
 then combining it cybernetically with vehicle parts.
 This process is typical of Splices made for use on other planets in the galaxy.
 
-It is rare for a Splice to fully pass for an Earthly animal or vehicle,
-but units built for infiltration do exist.
+The Helping Hand's members aren't trying to kill Splices.
+They were created from an innocent living thing.
+Instead, their goal is to weaken the creature sufficiently
+that they can concentrate on purging the cybernetics
+and war programming from its system without being attacked.
 
 **Bat**
 
@@ -143,3 +148,76 @@ Shark disguises itself as a sleek mini-submarine, when it's not appearing as a t
 **Spider**
 
 This Splice prefers stealth, guile, and manipulation to overt combat, spinning monofilament webs that can slice and cut. Its torso separates and attaches to the limbs to form a muscular motorcycle. In humanoid form, it uses its webbing to create whips, grappling aids, and swing lines.
+
+### Other Threats
+
+Helping Hand has to deal with any number of threats to life, some mundane, some not:
+
+* Oil spills, out-of-control forest fires, and other ecological disasters
+* Catastrophic dangers to the environment, such as nuclear reactor breakdowns
+* Natural dangers to human life such as burning buildings, floods, or earthquakes
+* Large-scale accidents such as train collisions, airplane crashes
+* Hostile actions such as terrorism, hostage-takers, or attacks on civilians during wartime
+
+The Helping Hand team has broad, discretionary powers to choose what to do
+and how to do it, within their mandate from Life Force.
+A truth of the universe is that not all life can be saved, and not everyone will make it.
+Members are encouraged to do the best they can,
+and save whoever they can.
+
+### Example Interventions
+
+A gang of terrorists has taken an office building hostage downtown.
+Sotiera infiltrates the office building by moving through the vents
+in a flexible and compact shape.
+Individual terrorists are isolated and knocked unconscious
+using natural toxins found in jellyfish stings.
+Sotiera uses the Hand's power to create a natural camouflage, hiding from patrols.
+Eventually ne might disguise nemself as one of them and infiltrate the group.
+Knocking the lights out, Sotiera can adapt with night vision and defeat
+the terrorists that are left.
+
+A fire has broken out in a high-rise building downtown.
+Oni enters the building and uses her great strength and durability
+to lift fallen supports, escort people out of the building,
+and even leap directly out if a ladder can't reach high enough
+and lower floors are cut off.
+She can adapt her tissues to hold oxygen like a whale or dolphin,
+avoiding smoke inhalation while she works.
+Everyone is saved, and Oni stays behind to help rebuild the
+high-rise in record time.
+
+A jet airliner has lost some of its engines and may be crashing soon.
+Vikala has bred a "bioship" that ingests minerals and generates methane.
+A complex network of internal bacteria generate enzymes to convert this
+into a form of jet fuel.
+The creature has specialized ceramic-like interior structures
+based on diatoms that allow it to ignite and direct this fuel
+for thrust.
+With this, she is able to reach the jet in time.
+She carries a supply of highly engineered spider silk and
+plant leaves which she uses to patch the body of the jet.
+Thus reinforced, the airliner glides safely to ground.
+
+A major polluter is getting away with killing a delicate ecosystem.
+Using his animal companions, Horus infiltrates the man's offices
+and rifles through his files, or spies on his phone conversations.
+When the polluter's mercenary bodyguards come after him, Horus and
+his animals fight them off in a vicious rooftop battle.
+Armed with the evidence, Horus delivers the polluter to the authorities.
+
+In a war-torn part of the world, Baldur paradrops into a village
+where local warlords have sent thugs to extort the villagers for food
+and medicine. Instead, Baldur fights them off with martial arts,
+avoiding every attack and seemingly supernaturally unkillable.
+He successfully intimidates the leader of the mercs into leaving,
+and arms the villagers with the weapons they leave behind.
+Knowing retribution is coming if he does nothing else,
+he takes his battle to the warlord in his compound.
+Ultimately what wins the day isn't martial skill, but mercy.
+The warlord's daughter has cancer, and Baldur convinces
+the man to surrender to the UN in exchange for healing her.
+He spends his remainin time curing diseases in the region.
+
+Credit for the bioship is partially due to this post:
+[https://worldbuilding.stackexchange.com/questions/8962/is-a-jet-dragon-possible](https://worldbuilding.stackexchange.com/questions/8962/is-a-jet-dragon-possible)
