@@ -33,14 +33,16 @@ columns:
   - width: 4
     entries:
       - name: Active RPGs
-        desc: I'm running one game and playing in two more, hosted on Tavern Keeper.
+        desc: I'm running one game and playing in others.
         bullets:
+          - name: Fate of the Diaspora
+            desc: A crew of psychohistorians intervene on planets to create utopia.
+          - name: "Star Wars: Rebel Ops"
+            desc: A rag-tag band of misfits fight the Empire.
+            url: https://app.roll20.net/campaigns/details/1256429/star-wars-rebel-ops
           - name: Super-Sheriffs of Sagan City
+            desc: Superheroes protect Earth's first off-world colony.
             url: https://www.tavern-keeper.com/campaign/764/latest
-          - name: Heroes Accelerated
-            url: https://www.tavern-keeper.com/campaign/751/latest
-          - name: TianXia - Iron, Blood, and Shadow
-            url: https://www.tavern-keeper.com/campaign/653/latest
       - name: Fate Core/FAE
         bullets:
           - name: Create Advantage as Combo Builder
