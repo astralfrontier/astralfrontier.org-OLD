@@ -16,11 +16,12 @@ module.exports = (grunt) ->
           {expand: true, cwd: 'build/', src: ['**'], dest: '/', stream: true},
         ]
     exec:
+      bower: "node_modules/bower/bin/bower install"
       build: "node --harmony node_modules/coffee-script/bin/coffee index.coffee"
   )
 
   grunt.loadNpmTasks 'grunt-exec'
   grunt.loadNpmTasks 'grunt-aws-s3'
 
-  grunt.registerTask 'default', ['exec:build']
-  grunt.registerTask 'deploy', ['exec:build', 'aws_s3:production']
+  grunt.registerTask 'default', ['exec:bower', 'exec:build']
+  grunt.registerTask 'deploy', ['exec:bower', 'exec:build', 'aws_s3:production']
