@@ -5,6 +5,7 @@ collections     = require 'metalsmith-collections'
 dateInFilename  = require 'metalsmith-date-in-filename'
 drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
+ignore          = require 'metalsmith-ignore'
 inPlace         = require 'metalsmith-in-place'
 jquery          = require 'metalsmith-jquery'
 layouts         = require 'metalsmith-layouts'
@@ -131,11 +132,15 @@ metalsmith(__dirname)
     source: './assets'
     destination: './assets'
   }))
-  .use(less({}))
   .use(assets({
     source: './bower_components'
     destination: './assets/bower'
   }))
+  .use(less({
+    pattern: 'assets/css/astralfrontier.less',
+    render: { paths: ['./assets/css'] }
+  }))
+  .use(ignore(['**/*.less']))
   .use(link_checker({warn: true}))
   .destination('./build')
 # .use(serve({

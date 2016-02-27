@@ -23,6 +23,7 @@
     "metalsmith-date-in-filename": "0.0.14",
     "metalsmith-drafts": "0.0.1",
     "metalsmith-feed": "0.2.0",
+    "metalsmith-ignore": "^0.1.2",
     "metalsmith-in-place": "^1.4.3",
     "metalsmith-jquery": "0.1.2",
     "metalsmith-layouts": "^1.5.4",
