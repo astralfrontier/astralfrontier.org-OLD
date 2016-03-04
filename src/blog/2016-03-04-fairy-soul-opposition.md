@@ -15,7 +15,7 @@ and giving it specific mechanics.
 First, let's put something on the table: a sample opponent for PCs
 in a typical Fairy Soul game.
 
-<div class="panel panel-default">
+----
 **Folklore Monsters**
 
 These are half-awake fairies who have possessed their human jails and now dominate them.
@@ -31,8 +31,7 @@ Violent, Aggressive, Seductive, Cunning, Enigmatic, Hideous, Weird
 * Wear the mantle of a creature of legend
 * Spin bloodstained fairy tales from the threads of human lives
 * Struggle for control against my human host
-
-</div>
+----
 
 What have I learned about PbtA by writing something like this?
 
