@@ -34,9 +34,8 @@
     "metalsmith-paginate": "^0.3.0",
     "metalsmith-pagination": "^1.4.0",
     "metalsmith-path": "^0.1.0",
-    "metalsmith-permalinks": "^0.4.1",
     "metalsmith-serve": "0.0.7",
-    "metalsmith-tags": "^1.2.0",
+    "metalsmith-tags": "^1.2.1",
     "metalsmith-typography": "^0.1.1",
     "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master"
   }
