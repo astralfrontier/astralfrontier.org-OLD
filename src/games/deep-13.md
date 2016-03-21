@@ -9,7 +9,7 @@ using the [Masks] PbtA game rules.
 
 #### PCs
 
-**Alternity** aka Jess. "Doomed". Conjures extradimensional matter into constructs.
+**Alternity** aka Jess Richards. "Doomed". Conjures extradimensional matter into constructs.
 
 **Bheema** aka Suresh. "Bull". Forcibly conscripted for the war effort by Control.
 
@@ -19,11 +19,13 @@ using the [Masks] PbtA game rules.
 
 **Uncle Ajay**. Suresh's uncle. Sympathetic to the boy's cause. Has been contacted by Control.
 
-**Unnamed Scientist**. Jess's father. Discovered the other dimension that Jess's powers tap into.
+**Dr. Victor Richards**. Jess's father. Discovered the other dimension that Jess's powers tap into.
 
-**Unnamed Scientist**. Jess's mother. Lost in the other dimension.
+**Dr. Carol Richards**. Jess's mother. Lost in the other dimension.
 
 **Vicky**. Bheema's love interest. Lab technician who works in the defense agency.
+
+**Dr. Xander Hong**. Parabiologist. Working with Control. A senior member of the "Dark Angel" project that captured and experimented on Bheema.
 
 #### Places and Groups
 
@@ -42,5 +44,6 @@ using the [Masks] PbtA game rules.
 ### Sessions
 
 1. [Tank](/games/deep-13/2016-03-06-tank.html)
+2. [Kidnap](/games/deep-13/2016-03-20-kidnap.html)
 
 [Masks]: http://www.magpiegames.com/masks/
