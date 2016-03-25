@@ -61,7 +61,7 @@ This is often a younger girl, and often the daughter of a notable public figure.
 She is attractive, conventionally or otherwise.
 She is notable for her spunk, spirit, or defiance in the face of danger.
 
-She will have met the protagonist as part of his normal job.
+She will have met the protagonist as part of his regular job.
 If there isn't already a relationship in progress,
 the two will develop a mutual attraction after significant hardships
 in space or away from Earth, and their confession of these feelings
@@ -116,11 +116,11 @@ The central action of the story will involve one or more of the following:
 * One or more human characters from Earth are embarking on some voyage.
 * The launch of a spaceship or starship. This is either a prototype (LENS, SKY, GP) or a passenger ship (TP, IPC).
 * An attack on the ship from superior but initially unidentified enemies (LENS, TP, IPC).
-* A rescue effort in space, directly involving the protagonist and his love interest. In most cases (LENS, SKY, TP, IPC), he is rescuing her. Sometimes it goes the other way too (LENS).
+* A rescue effort in space, directly involving the protagonist and his love interest. In most cases (LENS, SKY, TP, IPC), he is rescuing her. Sometimes it goes the other way (LENS).
 * An engineering effort in which the protagonist builds, fixes, or creates something new to solve a problem (SKY, TP, IPC, GP, MOS).
 * A significant advance in the technology level, in preparation for a space battle against a hostile alien force who are initially superior.
 * The reverse engineering or deduction of someone else's technology from seeing it in action.
-* A single type of activity (escape, infiltration, etc.) performed repeatedly by the protagonist at different scales.
+* A single type of activity (escape, infiltration, etc.) performed repeatedly by the protagonist at different scales or involving different antagonists.
 * The creation of an interstellar defense agency or society, with the protagonist and his supporting cast as the head figures. Often, this new institution will be done without consulting existing authorities to which the protagonist is theoretically beholden.
 * A decisive and disastrous outcome for the antagonist's base of operations, resulting in their surrender or destruction.
 
@@ -136,8 +136,8 @@ of newer and better power (science, technology, psionics).
 Whether human or alien, individuals or an entire species,
 antagonist characters come in two major flavors:
 
-* The highly scientific but immoral conqueror
-* The obstructive, short-sighted, and potentially violent authority figure
+* The highly scientific but amoral conqueror
+* The obstructive, short-sighted authority figure
 
 Many antagonists will have access to most of the technology available to the protagonist.
 However, the protagonist may have exclusive access to some notable technology,
