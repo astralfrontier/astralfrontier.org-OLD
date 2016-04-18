@@ -9,6 +9,7 @@ using the [Masks] PbtA game rules.
 
 1. [Tank](/games/deep-13/2016-03-06-tank.html)
 2. [Kidnap](/games/deep-13/2016-03-20-kidnap.html)
+3. [Truth](/games/deep-13/2016-04-17-truth.html)
 
 ### Characters and Groups
 
