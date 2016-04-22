@@ -97,7 +97,12 @@ metalsmith(__dirname)
     $('a[href^="http://"]').attr("target", "_blank")
     $('a[href^="https://"]').attr("target", "_blank")
   ))
-  .use(feed(collection: 'blog'))
+  .use(feed({
+    collection: 'blog'
+    postCustomElements: (file) ->
+      if file.tagged?
+        ['category': file.tagged]
+  }))
   .use(beautify({
     indent_size: 4
     indent_char: ' '
