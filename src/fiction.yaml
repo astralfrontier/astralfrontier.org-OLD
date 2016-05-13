@@ -74,6 +74,9 @@ columns:
       - name: Fictional Worlds
         desc: Settings without specific stories.
         bullets:
+          - name: Attack from the Stars
+            desc: A fusion of alien-invasion stories.
+            url: /assets/rpg/AttackfromtheStars.pdf
           - name: Falken's Matrix
             desc: A unified history of the human-AI war.
             url: /fiction/falkens-matrix.html
