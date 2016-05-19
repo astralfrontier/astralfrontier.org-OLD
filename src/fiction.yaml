@@ -92,6 +92,9 @@ columns:
       - name: FUTILE OCTAVE
         desc: A CthulhuTech campaign about an archaeological expedition.
         url: /fiction/futile-octave.html
+      - name: The Party
+        desc: Time travel, regret, and growing old together.
+        url: /fiction/the-party.html
       - name: Song of Eden
         desc: A science fiction setting.
         url: /fiction/song-of-eden.html
