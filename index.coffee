@@ -67,7 +67,7 @@ metalsmith(__dirname)
   }))
   .use(yaml({}))
   .use(inPlace({
-    engine: 'handlebars'
+    engine: 'toffee'
     partials: 'partials'
   }))
   .use(typography({
