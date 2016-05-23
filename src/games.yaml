@@ -1,82 +1,76 @@
 ---
 title: Games
-layout: yamlpage.jade
+layout: masonry.jade
 ---
 
-columns:
-  - width: 4
-    entries:
-      - name: Final Fantasy XIV
-        desc: This is my preferred MMO.
-        bullets:
-          - name: FFXIV Guild
-            desc: Leveling guides for all classes and jobs
-            url: http://www.ffxivguild.com/
-          - name: Atma farming theory
-            desc: How to quickly acquire Atma tokens for your relic weapon.
-            url: https://www.reddit.com/r/ffxiv/comments/22p1w8/japanese_atma_farming_theory
-          - name: Gearing up at level 60
-            desc: A blog post explaining how to reach raid-ready gear levels in Heavensward.
-            url: http://na.finalfantasyxiv.com/lodestone/character/3938468/blog/2342792/
-      - name: World of Warcraft
-        bullets:
-          - name: Healing is the Hardest Role
-            desc: The problems healers face in progression raid content.
-            url: /games/healing-is-the-hardest-role.html
-          - name: Top 10 Signs You're Watching the Warcraft Movie
-            desc: How will viewers be able to tell whether the movie lives up to expectations?
-            url: /games/top-10-warcraft.html
-      - name: RPG Design Patterns
-        desc: An invaluable document - not mine - that decomposes RPGs into their component pieces.
-        url: http://legendaryquest.netfirms.com/books/RPG_Design_Patterns_9_13_09.pdf
-        pdf: true
-  - width: 4
-    entries:
-      - name: Active RPGs
-        desc: I'm running one game and playing in others.
-        bullets:
-          - name: Deep 13
-            desc: A utopia/dystopia supers game using Masks.
-            url: /games/deep-13.html
-          - name: Fate of the Diaspora
-            desc: A crew of psychohistorians intervene on planets to create utopia.
-          - name: "Star Wars: Rebel Ops"
-            desc: A rag-tag band of misfits fight the Empire.
-            url: https://app.roll20.net/campaigns/details/1256429/star-wars-rebel-ops
-          - name: Super-Sheriffs of Sagan City
-            desc: Superheroes protect Earth's first off-world colony.
-            url: https://www.tavern-keeper.com/campaign/764/latest
-      - name: Fate Core/FAE
-        bullets:
-          - name: Create Advantage as Combo Builder
-            desc: One way to think of Create Advantage in conflicts.
-            url: /games/create-advantage-as-combo-builder.html
-          - name: Creating Challenging Opponents
-            desc: Ways to effectively stage a conflict.
-            url: http://station53.blogspot.com/2015/01/the-tao-of-fate-creating-challenging.html
-      - name: Avengers Accelerated
-        desc: A set of posts describing the Battle of New York from "The Avengers" as a Fate Accelerated Edition conflict.
-        bullets:
-          - name: Part 1
-            url: http://station53.blogspot.com/2014/07/avengers-accelerated-invasion-begins.html
-          - name: Part 2
-            url: http://station53.blogspot.com/2014/07/avengers-accelerated-war-part-25.html
-          - name: Part 3
-            url: http://station53.blogspot.com/2014/07/avengers-accelerated-avengers-assembled.html
-          - name: Part 4
-            url: http://station53.blogspot.com/2014/07/avengers-accelerated-hope-is-lost-part.html
-          - name: Part 5
-            url: http://station53.blogspot.com/2014/08/avengers-accelerated-sacrifice-play.html
-          - name: PC Character Sheets
-            url: https://docs.google.com/document/d/1jdLwE_ayNgjAZuVD0XllUvSJ_r5yJPXBrzMz9YgUGEw/edit
-  - width: 4
-    entries:
-      - name: Inept Sorcerers
-        desc: This is a small game I put together to test out a new dice mechanic.
-        url: http://peppermile.com/inept-sorcerers.html
-      - name: Fairy Soul
-        desc: A Simple World game about urban fantasy in the 1880s.
-        url: /games/fairy-soul.html
-      - name: Procedural Culture Generation
-        desc: I'm writing on Ello about how to generate plausible fictional cultures using Perlin noise and other tools.
-        url: https://ello.co/search?terms=%23ProceduralCultures
+entries:
+  - name: Final Fantasy XIV
+    desc: This is my preferred MMO.
+    bullets:
+      - name: FFXIV Guild
+        desc: Leveling guides for all classes and jobs
+        url: http://www.ffxivguild.com/
+      - name: Atma farming theory
+        desc: How to quickly acquire Atma tokens for your relic weapon.
+        url: https://www.reddit.com/r/ffxiv/comments/22p1w8/japanese_atma_farming_theory
+      - name: Gearing up at level 60
+        desc: A blog post explaining how to reach raid-ready gear levels in Heavensward.
+        url: http://na.finalfantasyxiv.com/lodestone/character/3938468/blog/2342792/
+  - name: World of Warcraft
+    bullets:
+      - name: Healing is the Hardest Role
+        desc: The problems healers face in progression raid content.
+        url: /games/healing-is-the-hardest-role.html
+      - name: Top 10 Signs You're Watching the Warcraft Movie
+        desc: How will viewers be able to tell whether the movie lives up to expectations?
+        url: /games/top-10-warcraft.html
+  - name: Active RPGs
+    desc: I'm running one game and playing in others.
+    bullets:
+      - name: Deep 13
+        desc: A utopia/dystopia supers game using Masks.
+        url: /games/deep-13.html
+      - name: Fate of the Diaspora
+        desc: A crew of psychohistorians intervene on planets to create utopia.
+      - name: "Star Wars: Rebel Ops"
+        desc: A rag-tag band of misfits fight the Empire.
+        url: https://app.roll20.net/campaigns/details/1256429/star-wars-rebel-ops
+      - name: Super-Sheriffs of Sagan City
+        desc: Superheroes protect Earth's first off-world colony.
+        url: https://www.tavern-keeper.com/campaign/764/latest
+  - name: Fate Core/FAE
+    bullets:
+      - name: Create Advantage as Combo Builder
+        desc: One way to think of Create Advantage in conflicts.
+        url: /games/create-advantage-as-combo-builder.html
+      - name: Creating Challenging Opponents
+        desc: Ways to effectively stage a conflict.
+        url: http://station53.blogspot.com/2015/01/the-tao-of-fate-creating-challenging.html
+  - name: Avengers Accelerated
+    desc: A set of posts describing the Battle of New York from "The Avengers" as a Fate Accelerated Edition conflict.
+    bullets:
+      - name: Part 1
+        url: http://station53.blogspot.com/2014/07/avengers-accelerated-invasion-begins.html
+      - name: Part 2
+        url: http://station53.blogspot.com/2014/07/avengers-accelerated-war-part-25.html
+      - name: Part 3
+        url: http://station53.blogspot.com/2014/07/avengers-accelerated-avengers-assembled.html
+      - name: Part 4
+        url: http://station53.blogspot.com/2014/07/avengers-accelerated-hope-is-lost-part.html
+      - name: Part 5
+        url: http://station53.blogspot.com/2014/08/avengers-accelerated-sacrifice-play.html
+      - name: PC Character Sheets
+        url: https://docs.google.com/document/d/1jdLwE_ayNgjAZuVD0XllUvSJ_r5yJPXBrzMz9YgUGEw/edit
+  - name: Inept Sorcerers
+    desc: This is a small game I put together to test out a new dice mechanic.
+    url: http://peppermile.com/inept-sorcerers.html
+  - name: Fairy Soul
+    desc: A Simple World game about urban fantasy in the 1880s.
+    url: /games/fairy-soul.html
+  - name: Procedural Culture Generation
+    desc: I'm writing on Ello about how to generate plausible fictional cultures using Perlin noise and other tools.
+    url: https://ello.co/search?terms=%23ProceduralCultures
+  - name: RPG Design Patterns
+    desc: An invaluable document - not mine - that decomposes RPGs into their component pieces.
+    url: http://legendaryquest.netfirms.com/books/RPG_Design_Patterns_9_13_09.pdf
+    pdf: true

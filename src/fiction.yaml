@@ -1,53 +1,27 @@
 ---
 title: Fiction
-layout: three-column-yaml.jade
+layout: masonry.jade
 ---
 
-columns:
-  - name: Fantasy
-    # image: /assets/art/Castle-Neuschwanstein.svg
-    entries:
-      - name: Life After Death
-        desc: I wrote several stories after thinking about religion, the afterlife, and similar topics.
-        bullets:
-          - name: Army of the Dead
-            desc: A military man writes to his brother about his peculiar new posting.
-            url: /fiction/army-of-the-dead.html
-          - name: Eternal Slumber
-            desc: My attempt at a "classic horror fiction" piece.
-            url: /fiction/eternal-slumber.html
-          - name: Outlast
-            desc: Speculation on the afterlife.
-            url: /fiction/outlast.html
-          - name: The Party
-            desc: Time travel, regret, and growing old together.
-            url: /fiction/the-party.html
-          - name: Pray
-            desc: Justice delayed is justice denied.
-            url: /fiction/pray.html
-          - name: Psychopomp
-            desc: What if God isn't all-knowing?
-            url: /fiction/psychopomp.html
-          - name: Uncertainty
-            desc: The price of quantum immortality is free will.
-            url: /fiction/uncertainty.html
-      - name: Real as Pixels
-        desc: Fables and fairy tales inspired by the music of Jon Jenkins and others.
-        bullets:
-          - name: The Beast
-            url: /fiction/realaspixels/beast.html
-          - name: The Goatherd and the Princess
-            url: /fiction/realaspixels/goatherd-and-princess.html
-          - name: The Gamin and the Goatherd
-            url: /fiction/realaspixels/gamin-and-goatherd.html
-          - name: The Magician Goes to Town
-            url: /fiction/realaspixels/magician-goes-to-town.html
-      - name: Vessels
-        desc: A fantasy RPG setting focused on power, ideas, and emotion.
-        url: /fiction/vessels.html
-  - name: Superhero
-    # image: /assets/art/tiothy-City-Art-Deco.svg
-    entries:
+entries:
+  - name: Fictional Worlds
+    desc: Settings without specific stories.
+    bullets:
+      - name: Attack from the Stars
+        desc: A fusion of alien-invasion stories.
+        url: /assets/rpg/AttackfromtheStars.pdf
+      - name: Falken's Matrix
+        desc: A unified history of the human-AI war.
+        url: /fiction/falkens-matrix.html
+      - name: Force Effect
+        desc: A fusion of Battlestar Galactica, Gundam, Mass Effect, and Star Wars.
+        url: /fiction/force-effect.html
+      - name: Libraria
+        desc: Swashbuckling adventure in a world of books come to life.
+        url: /fiction/libraria.html
+  - name: Superheroes
+    desc: Stories and settings beyond the mundane.
+    bullets:
       - name: Helping Hand
         desc: A superhero team concept built around life manipulation.
         url: /fiction/helping-hand.html
@@ -60,41 +34,61 @@ columns:
       - name: Villains Victorious!
         desc: A post-a-day blog, now discontinued, on how to be an effective supervillain.
         url: http://villainsvictorious.blogspot.com/
-  - name: Science Fiction
-    # image: /assets/art/futurespacestation.svg
-    entries:
-      - name: Empyrean City
-        desc: Every so often I write some short transhumanist pieces.
-        bullets:
-          - name: Drossemeyer's Daughter
-            desc: Something I want to revisit, having seen "Ex Machina" and "Time of Eve".
-            url: /fiction/empyrean-city/drosselmeyers-daughter.html
-          - name: Love Among the Dead
-            desc: Inspired by <i>Orfeo ed Euridice</i>.
-            url: /fiction/empyrean-city/love-among-the-dead.html
-          - name: The Spire of Man
-            url: /fiction/empyrean-city/the-spire-of-man.html
-      - name: Fictional Worlds
-        desc: Settings without specific stories.
-        bullets:
-          - name: Attack from the Stars
-            desc: A fusion of alien-invasion stories.
-            url: /assets/rpg/AttackfromtheStars.pdf
-          - name: Falken's Matrix
-            desc: A unified history of the human-AI war.
-            url: /fiction/falkens-matrix.html
-          - name: Force Effect
-            desc: A fusion of Battlestar Galactica, Gundam, Mass Effect, and Star Wars.
-            url: /fiction/force-effect.html
-          - name: Libraria
-            desc: Swashbuckling adventure in a world of books come to life.
-            url: /fiction/libraria.html
-      - name: Dance of Light
-        desc: What does a lightsaber duel feel like?
-        url: /fiction/dance-of-light.html
-      - name: FUTILE OCTAVE
-        desc: A CthulhuTech campaign about an archaeological expedition.
-        url: /fiction/futile-octave.html
-      - name: Song of Eden
-        desc: A science fiction setting.
-        url: /fiction/song-of-eden.html
+  - name: Life After Death
+    desc: I wrote several stories after thinking about religion, the afterlife, and similar topics.
+    bullets:
+      - name: Army of the Dead
+        desc: A military man writes to his brother about his peculiar new posting.
+        url: /fiction/army-of-the-dead.html
+      - name: Eternal Slumber
+        desc: My attempt at a "classic horror fiction" piece.
+        url: /fiction/eternal-slumber.html
+      - name: Outlast
+        desc: Speculation on the afterlife.
+        url: /fiction/outlast.html
+      - name: The Party
+        desc: Time travel, regret, and growing old together.
+        url: /fiction/the-party.html
+      - name: Pray
+        desc: Justice delayed is justice denied.
+        url: /fiction/pray.html
+      - name: Psychopomp
+        desc: What if God isn't all-knowing?
+        url: /fiction/psychopomp.html
+      - name: Uncertainty
+        desc: The price of quantum immortality is free will.
+        url: /fiction/uncertainty.html
+  - name: Real as Pixels
+    desc: Fables and fairy tales inspired by the music of Jon Jenkins and others.
+    bullets:
+      - name: The Beast
+        url: /fiction/realaspixels/beast.html
+      - name: The Goatherd and the Princess
+        url: /fiction/realaspixels/goatherd-and-princess.html
+      - name: The Gamin and the Goatherd
+        url: /fiction/realaspixels/gamin-and-goatherd.html
+      - name: The Magician Goes to Town
+        url: /fiction/realaspixels/magician-goes-to-town.html
+  - name: Empyrean City
+    desc: Every so often I write some short transhumanist pieces.
+    bullets:
+      - name: Drossemeyer's Daughter
+        desc: Something I want to revisit, having seen "Ex Machina" and "Time of Eve".
+        url: /fiction/empyrean-city/drosselmeyers-daughter.html
+      - name: Love Among the Dead
+        desc: Inspired by <i>Orfeo ed Euridice</i>.
+        url: /fiction/empyrean-city/love-among-the-dead.html
+      - name: The Spire of Man
+        url: /fiction/empyrean-city/the-spire-of-man.html
+  - name: Dance of Light
+    desc: What does a lightsaber duel feel like?
+    url: /fiction/dance-of-light.html
+  - name: FUTILE OCTAVE
+    desc: A CthulhuTech campaign about an archaeological expedition.
+    url: /fiction/futile-octave.html
+  - name: Song of Eden
+    desc: A science fiction setting.
+    url: /fiction/song-of-eden.html
+  - name: Vessels
+    desc: A fantasy RPG setting focused on power, ideas, and emotion.
+    url: /fiction/vessels.html
