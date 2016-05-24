@@ -14,4 +14,3 @@ With news that the Warcraft movie [will be released on December 18, 2015](https:
 3. The movie will be balanced for viewer-vs.-viewer Internet forum arguments, rather than people who just go to enjoy the movie itself.
 2. Special guest star: Chuck Norris.
 1. There will be a shitty tie-in video game.
-{: reversed="reversed"}
