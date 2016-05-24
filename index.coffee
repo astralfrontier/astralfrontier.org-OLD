@@ -65,11 +65,9 @@ metalsmith(__dirname)
   }))
   .use(yaml({}))
   .use(inPlace({
-    engine: 'toffee'
+    engine: 'ejs'
     partials: 'partials'
-  }))
-  .use(typography({
-    lang: 'en'
+    filename: 'temp.ejs'
   }))
   .use(path())
   .use(more({
@@ -100,6 +98,9 @@ metalsmith(__dirname)
     postCustomElements: (file) ->
       if file.tagged?
         ['category': file.tagged]
+  }))
+  .use(typography({
+    lang: 'en'
   }))
   .use(beautify({
     indent_size: 4
