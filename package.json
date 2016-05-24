@@ -12,7 +12,6 @@
     "grunt": "^1.0.1",
     "grunt-aws-s3": "^0.14.4",
     "grunt-exec": "^0.4.6",
-    "handlebars": "^4.0.5",
     "jade": "^1.11.0",
     "main-bower-files": "^2.11.1",
     "metalsmith": "^2.1.0",
@@ -38,6 +37,7 @@
     "metalsmith-serve": "0.0.7",
     "metalsmith-tags": "^1.2.1",
     "metalsmith-typography": "^0.1.1",
-    "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master"
+    "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master",
+    "toffee": "^0.1.12"
   }
 }
