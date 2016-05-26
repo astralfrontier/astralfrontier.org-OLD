@@ -82,6 +82,9 @@ metalsmith(__dirname)
     pathPage: 'tag/:tag-:num.html'
     perPage: 12
   }))
+  .use(typography({
+    lang: 'en'
+  }))
   .use(layouts({
     engine: 'jade'
     directory: 'layouts'
@@ -98,9 +101,6 @@ metalsmith(__dirname)
     postCustomElements: (file) ->
       if file.tagged?
         ['category': file.tagged]
-  }))
-  .use(typography({
-    lang: 'en'
   }))
   .use(beautify({
     indent_size: 4
