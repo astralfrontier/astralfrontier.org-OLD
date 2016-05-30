@@ -117,8 +117,9 @@ metalsmith(__dirname)
     destination: './assets/bower'
   }))
   .use(less({
-    pattern: 'assets/css/astralfrontier.less'
-    render: { paths: ['./assets/css'] }
+    pattern: 'assets/css/*.less'
+    render:
+      paths: [ './assets/css', './assets/css/cerulean', './assets/css/bootstrap-less' ]
   }))
   .use(ignore(['**/*.less']))
   .use(link_checker({warn: true}))
