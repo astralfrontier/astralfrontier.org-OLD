@@ -1,0 +1,77 @@
+---
+title: Masque
+layout: yamlpage.jade
+---
+
+hero:
+  name: Masque
+  desc: This is a superhero setting intended to be a realistic reconstruction of Silver Age comic book tropes.
+  url: http://villainsvictorious.blogspot.com/
+columns:
+  - width: 3
+    entries:
+      - name: Superheroes
+        bullets:
+          - name: Apollo
+            desc: The world's first public superhuman.
+            url: /fiction/masque/apollo.html
+          - name: Doctor Cross
+            desc: A healing super.
+            url: /fiction/masque/doctor-cross.html
+          - name: Mack Atlas
+            desc: The life of a blue-collar superhuman.
+            url: /fiction/masque/mack-atlas.html
+          - name: Nice Work If You Can Get It
+            desc: A villain's Heel Face Turn.
+            url: /fiction/masque/nice-work-if-you-can-get-it.html
+  - width: 3
+    entries:
+      - name: Supervillains
+        bullets:
+          - name: Exodus
+            desc: An irresponsible but not villainous super.
+            url: /fiction/masque/exodus.html
+          - name: Faduma
+            desc: A superhuman who uses her abilities to protect her people as a leader.
+            url: /fiction/masque/faduma.html
+          - name: The Jersey Devil
+            desc: A Child of Lilith devolved into a monstrous mental state.
+            url: /fiction/masque/jersey-devil.html
+          - name: Victor Ballard
+            desc: The casual villainy of the setting.
+            url: /fiction/masque/victor-ballard.html
+  - width: 3
+    entries:
+      - name: Persona
+        bullets:
+          - name: Cathy's Story
+            desc: The success, and ouster, of a Persona executive.
+            url: /fiction/masque/cathys-story.html
+          - name: Cloud
+            desc: A typical Persona insertion.
+            url: /fiction/masque/cloud.html
+          - name: Ekaterina Avrilova
+            desc: A briefing on the state of superhumans worldwide.
+            url: /fiction/masque/ekaterina-avrilova.html
+          - name: Persona New Agent Briefing
+            desc: What new Persona agents are told.
+            url: /fiction/masque/persona-new-agent-briefing.html
+          - name: Ram Kumar
+            desc: What life is like for a Persona agent.
+            url: /fiction/masque/ram-kumar.html
+  - width: 3
+    entries:
+      - name: Other
+        bullets:
+          - name: Frank
+            desc: A harmless Child of Lilith who feels isolated from the world.
+            url: /fiction/masque/frank.html
+          - name: Harry Franklin
+            desc: One of the hard moral choices of the setting.
+            url: /fiction/masque/harry-franklin.html
+          - name: Jerome Washington
+            desc: Two people discussing superhuman implications.
+            url: /fiction/masque/jerome-washington.html
+          - name: Notes
+            desc: Notes on the various stories.
+            url: /fiction/masque/notes.html
