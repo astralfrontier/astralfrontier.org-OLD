@@ -61,6 +61,10 @@ entries:
         url: http://station53.blogspot.com/2014/08/avengers-accelerated-sacrifice-play.html
       - name: PC Character Sheets
         url: https://docs.google.com/document/d/1jdLwE_ayNgjAZuVD0XllUvSJ_r5yJPXBrzMz9YgUGEw/edit
+  - name: Avert the Apocalypse
+    desc: A PbtA science fiction game about memetic engineering.
+    url: /assets/rpg/AvertTheApocalypse.pdf
+    pdf: true
   - name: Inept Sorcerers
     desc: This is a small game I put together to test out a new dice mechanic.
     url: http://peppermile.com/inept-sorcerers.html
