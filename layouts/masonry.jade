@@ -18,7 +18,10 @@ block contents
               ul
                 for bullet in entry.bullets
                   li
-                    a(href=bullet.url)= bullet.name
+                    if bullet.url
+                      a(href=bullet.url)= bullet.name
+                    else
+                      strong= bullet.name
                     if bullet.desc
                       br/
                       small!= bullet.desc
