@@ -7,21 +7,4 @@ block contents
       div.grid(data-masonry='{ "itemSelector": ".col-md-4" }')
         for entry in yaml_contents.entries
           div.col-md-4
-            if entry.url
-              a(href=entry.url)
-                h3= entry.name
-            else
-              h3= entry.name
-            if entry.desc
-              p!= entry.desc
-            if entry.bullets
-              ul
-                for bullet in entry.bullets
-                  li
-                    if bullet.url
-                      a(href=bullet.url)= bullet.name
-                    else
-                      strong= bullet.name
-                    if bullet.desc
-                      br/
-                      small!= bullet.desc
+            include ./entry.jade
