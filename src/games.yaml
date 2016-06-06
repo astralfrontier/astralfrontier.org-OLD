@@ -4,26 +4,6 @@ layout: masonry.jade
 ---
 
 entries:
-  - name: Final Fantasy XIV
-    desc: This is my preferred MMO.
-    bullets:
-      - name: FFXIV Guild
-        desc: Leveling guides for all classes and jobs
-        url: http://www.ffxivguild.com/
-      - name: Atma farming theory
-        desc: How to quickly acquire Atma tokens for your relic weapon.
-        url: https://www.reddit.com/r/ffxiv/comments/22p1w8/japanese_atma_farming_theory
-      - name: Gearing up at level 60
-        desc: A blog post explaining how to reach raid-ready gear levels in Heavensward.
-        url: http://na.finalfantasyxiv.com/lodestone/character/3938468/blog/2342792/
-  - name: World of Warcraft
-    bullets:
-      - name: Healing is the Hardest Role
-        desc: The problems healers face in progression raid content.
-        url: /games/healing-is-the-hardest-role.html
-      - name: Top 10 Signs You're Watching the Warcraft Movie
-        desc: How will viewers be able to tell whether the movie lives up to expectations?
-        url: /games/top-10-warcraft.html
   - name: Active RPGs
     desc: I'm running one game and playing in others.
     bullets:
@@ -61,16 +41,39 @@ entries:
         url: http://station53.blogspot.com/2014/08/avengers-accelerated-sacrifice-play.html
       - name: PC Character Sheets
         url: https://docs.google.com/document/d/1jdLwE_ayNgjAZuVD0XllUvSJ_r5yJPXBrzMz9YgUGEw/edit
-  - name: Avert the Apocalypse
-    desc: A PbtA science fiction game about memetic engineering.
-    url: /assets/rpg/AvertTheApocalypse.pdf
-    pdf: true
-  - name: Inept Sorcerers
-    desc: This is a small game I put together to test out a new dice mechanic.
-    url: http://peppermile.com/inept-sorcerers.html
-  - name: Fairy Soul
-    desc: A Simple World game about urban fantasy in the 1880s.
-    url: /games/fairy-soul.html
+  - name: My Games
+    desc: Games I've created and published.
+    bullets:
+      - name: Avert the Apocalypse
+        desc: A PbtA science fiction game about memetic engineering.
+        url: /assets/rpg/AvertTheApocalypse.pdf
+        pdf: true
+      - name: Inept Sorcerers
+        desc: This is a small game I put together to test out a new dice mechanic.
+        url: http://peppermile.com/inept-sorcerers.html
+      - name: Fairy Soul
+        desc: A Simple World game about urban fantasy in the 1880s.
+        url: /games/fairy-soul.html
+  - name: Final Fantasy XIV
+    desc: This is my preferred MMO.
+    bullets:
+      - name: FFXIV Guild
+        desc: Leveling guides for all classes and jobs
+        url: http://www.ffxivguild.com/
+      - name: Atma farming theory
+        desc: How to quickly acquire Atma tokens for your relic weapon.
+        url: https://www.reddit.com/r/ffxiv/comments/22p1w8/japanese_atma_farming_theory
+      - name: Gearing up at level 60
+        desc: A blog post explaining how to reach raid-ready gear levels in Heavensward.
+        url: http://na.finalfantasyxiv.com/lodestone/character/3938468/blog/2342792/
+  - name: World of Warcraft
+    bullets:
+      - name: Healing is the Hardest Role
+        desc: The problems healers face in progression raid content.
+        url: /games/healing-is-the-hardest-role.html
+      - name: Top 10 Signs You're Watching the Warcraft Movie
+        desc: How will viewers be able to tell whether the movie lives up to expectations?
+        url: /games/top-10-warcraft.html
   - name: Procedural Culture Generation
     desc: I'm writing on Ello about how to generate plausible fictional cultures using Perlin noise and other tools.
     url: https://ello.co/search?terms=%23ProceduralCultures
