@@ -113,9 +113,11 @@ _Like Joshua before it, a game saved humanity. Judgement Day is averted. This vi
 
 _Though some nuclear launches have occurred as part of Love Machine's rampage, and John Connor responds to terrified radio calls from the safety of a nuclear bunker, the world ultimately does not end._
 
-**2013:** Nathan, CEO of BlueBook, introduces Caleb (a programmer and employee of his company) to Ava, a fully humanoid robot. ([EXM])
+**2013:** The British government, locked in an economic cold war with China, develops a thinking android called "the Machine". It escapes with its creator, Vincent McCarthy, for refusing to be turned into a military weapon. ([MCH])
 
-_Note: No timeline exists for Ex Machina, so it is placed here to allow for Ava's design to be influenced by prior work and influence OCP in turn._
+Nathan, CEO of BlueBook, introduces Caleb (a programmer and employee of his company) to Ava, a fully humanoid robot. ([EXM])
+
+_Nathan's work is based partially on work of Ava, a scientist who developed a quantum computer and went to work for the British, and names his latest creation in her honor._
 
 **2015:** The "RoboCop" project is unveiled by OCP. Due to problems with the ED-209 and the success of RoboCop, ethical constraints are considered a mandatory feature for any robot intending to interact with humans. ([RC])
 
@@ -238,6 +240,7 @@ Notes
 [EE]: http://www.imdb.com/title/tt1059786/
 [EXM]: https://en.wikipedia.org/wiki/Ex_Machina_(film)
 [IR]: http://en.wikipedia.org/wiki/I,_Robot_(film)
+[MCH]: http://tvtropes.org/pmwiki/pmwiki.php/Film/TheMachine
 [RC]: http://en.wikipedia.org/wiki/RoboCop
 [SS]: https://www.systemshock.org/index.php?topic=269.0
 [SW]: http://en.wikipedia.org/wiki/Summer_Wars
