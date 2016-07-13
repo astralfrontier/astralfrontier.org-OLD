@@ -60,6 +60,9 @@ entries:
       - name: FFXIV Guild
         desc: Leveling guides for all classes and jobs
         url: http://www.ffxivguild.com/
+      - name: Bootstrapping Crafting in 3.3
+        desc: How to get up to the top tier from start
+        url: /games/ffxiv-bootstrapping-crafting-3.3.html
       - name: Atma farming theory
         desc: How to quickly acquire Atma tokens for your relic weapon.
         url: https://www.reddit.com/r/ffxiv/comments/22p1w8/japanese_atma_farming_theory
