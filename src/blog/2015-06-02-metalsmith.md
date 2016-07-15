@@ -1,7 +1,5 @@
 ---
 title: Metalsmith
-layout: blogpost.jade
-collection: blog
 ---
 
 I've rewritten the astralfrontier.org site from using [Nesta] to [Metalsmith], a Node-based static site creator. There's a few reasons for the transition.

@@ -1,7 +1,6 @@
 ---
 title: Effects-Based Superhero Games
-layout: blogpost.jade
-collection: blog
+tagged: supers
 ---
 
 We often talk about "effects-based" superhero RPG rules.

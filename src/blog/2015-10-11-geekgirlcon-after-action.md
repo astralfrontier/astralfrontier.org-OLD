@@ -1,7 +1,5 @@
 ---
 title: GeekGirlCon After-Action Report
-layout: blogpost.jade
-collection: blog
 tagged: inept-sorcerers, convention
 ---
 

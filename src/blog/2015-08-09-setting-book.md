@@ -1,7 +1,6 @@
 ---
 title: What setting books would I love to put out?
-layout: blogpost.jade
-collection: blog
+tagged: supers, compleat-villain
 ---
 
 I've occasionally thought about resurrecting [Villains Victorious!]

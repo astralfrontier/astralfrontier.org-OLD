@@ -1,8 +1,5 @@
 ---
 title: A Baroque Dice Mechanic
-layout: blogpost.jade
-collection: blog
-synopsis: A way of rolling dice with escalating risk.
 tagged: baroque-dice
 ---
 

@@ -1,8 +1,5 @@
 ---
 title: Deconstructing Doc Smith
-layout: blogpost.jade
-collection: blog
-synopsis: How do you write a ripping space opera?
 ---
 
 [Film Crit Hulk] writes about "breaking a story".

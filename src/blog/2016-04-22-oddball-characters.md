@@ -1,7 +1,5 @@
 ---
 title: Oddball Characters
-layout: blogpost.jade
-collection: blog
 tagged: characters
 ---
 

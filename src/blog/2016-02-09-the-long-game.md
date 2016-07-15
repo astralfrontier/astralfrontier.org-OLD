@@ -1,7 +1,5 @@
 ---
 title: The Long Game
-layout: blogpost.jade
-collection: blog
 ---
 
 I want to offer a metaphor for the challenges you'll encounter as GM

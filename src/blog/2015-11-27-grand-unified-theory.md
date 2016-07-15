@@ -1,7 +1,5 @@
 ---
 title: A Grand Unified Theory
-layout: blogpost.jade
-collection: blog
 tagged: grand-adventure
 ---
 

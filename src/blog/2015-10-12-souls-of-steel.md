@@ -1,8 +1,6 @@
 ---
 title: Souls of Steel play report
-layout: blogpost.jade
-collection: blog
-tagged: convention
+tagged: convention, mecha
 ---
 
 On Sunday at [GeekGirlCon], I got to play a

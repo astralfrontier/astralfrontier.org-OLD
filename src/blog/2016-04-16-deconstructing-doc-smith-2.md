@@ -1,8 +1,5 @@
 ---
 title: Deconstructing Doc Smith, Part 2
-layout: blogpost.jade
-collection: blog
-synopsis: How do you write a ripping space opera?
 ---
 
 This is a continuation of part 1,

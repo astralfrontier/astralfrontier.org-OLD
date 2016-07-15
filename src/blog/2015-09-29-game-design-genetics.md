@@ -1,7 +1,5 @@
 ---
 title: Game Design Genetics
-layout: blogpost.jade
-collection: blog
 ---
 
 I've had this conversation with a few people, and it seemed helpful to them.

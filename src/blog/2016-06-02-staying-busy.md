@@ -1,7 +1,5 @@
 ---
 title: Staying Busy
-layout: blogpost.jade
-collection: blog
 ---
 
 The last several weeks have been pretty busy.

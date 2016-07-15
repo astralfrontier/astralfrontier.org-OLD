@@ -1,7 +1,5 @@
 ---
 title: Vessels Mechanics (Part 2)
-layout: blogpost.jade
-collection: blog
 tagged: vessels
 ---
 

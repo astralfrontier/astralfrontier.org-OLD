@@ -1,8 +1,6 @@
 ---
 title: The Compleat Villain
-layout: blogpost.jade
-collection: blog
-tagged: compleat-villain
+tagged: compleat-villain, supers
 ---
 
 I'm finally getting off my ass and putting together "The Compleat Villain".

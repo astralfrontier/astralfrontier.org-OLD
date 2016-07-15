@@ -1,7 +1,5 @@
 ---
 title: Exploration Mechanics for It Was There, Honest!
-layout: blogpost.jade
-collection: blog
 tagged: it-was-there-honest
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Top Ten Super-Tropes (that I hate)
-layout: blogpost.jade
-collection: blog
+tagged: supers
 ---
 
 I recently backed the [Masks] Kickstarter, and I think it will be well worth it.

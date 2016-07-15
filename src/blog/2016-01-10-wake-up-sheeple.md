@@ -1,7 +1,5 @@
 ---
 title: Wake Up Sheeple
-layout: blogpost.jade
-collection: blog
 tagged: storygames
 ---
 

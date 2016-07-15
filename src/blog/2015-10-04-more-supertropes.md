@@ -1,7 +1,6 @@
 ---
 title: More Top Ten Super-Tropes (that I absolutely love)
-layout: blogpost.jade
-collection: blog
+tagged: supers
 ---
 
 After writing about the

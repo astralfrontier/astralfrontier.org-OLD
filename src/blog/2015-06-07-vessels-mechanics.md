@@ -1,8 +1,5 @@
 ---
 title: Vessels - Mechanics
-layout: blogpost.jade
-collection: blog
-synopsis: What do the mechanics look like for the game?
 tagged: vessels
 ---
 

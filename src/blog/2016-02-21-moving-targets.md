@@ -1,7 +1,5 @@
 ---
 title: Moving Targets
-layout: blogpost.jade
-collection: blog
 tagged: grand-adventure
 ---
 

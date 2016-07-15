@@ -1,7 +1,5 @@
 ---
 title: Frames for Inept Sorcerers
-layout: blogpost.jade
-collection: blog
 tagged: inept-sorcerers
 ---
 

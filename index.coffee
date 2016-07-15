@@ -3,6 +3,7 @@ assets          = require 'metalsmith-assets'
 beautify        = require 'metalsmith-beautify'
 collections     = require 'metalsmith-collections'
 dateInFilename  = require 'metalsmith-date-in-filename'
+default_values  = require 'metalsmith-default-values'
 drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
 ignore          = require 'metalsmith-ignore'
@@ -56,6 +57,12 @@ metalsmith(__dirname)
     'site': 'site.yaml'
     'social_media': 'social_media.yaml'
   }))
+  .use(default_values([
+    pattern: 'blog/*.md'
+    defaults:
+      layout: 'blogpost.jade'
+      collection: 'blog'
+  ]))
   .use(drafts())
   .use(dateInFilename(true))
   .use(collections(collection_data))

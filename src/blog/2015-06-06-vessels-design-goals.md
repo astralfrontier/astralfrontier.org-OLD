@@ -1,8 +1,5 @@
 ---
 title: Vessels - Design Goals
-layout: blogpost.jade
-collection: blog
-synopsis: My design goals for the "vessels" game
 tagged: vessels
 ---
 

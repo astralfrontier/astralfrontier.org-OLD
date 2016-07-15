@@ -1,7 +1,5 @@
 ---
 title: Playtesting Avert the Apocalypse
-layout: blogpost.jade
-collection: blog
 ---
 
 I was sick yesterday so couldn't run, but two Sundays before that,

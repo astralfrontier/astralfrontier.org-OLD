@@ -1,7 +1,5 @@
 ---
 title: Batman v. Superman
-layout: blogpost.jade
-collection: blog
 tagged: comics
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: Super-Sheriffs of Sagan City
-layout: blogpost.jade
-collection: blog
-tagged: sssc
+tagged: sssc, supers
 ---
 
 I've been running a play-by-post game with an overly long name.

@@ -1,7 +1,5 @@
 ---
 title: Inept Sorcerers Playtest
-layout: blogpost.jade
-collection: blog
 tagged: inept-sorcerers, playtest
 ---
 

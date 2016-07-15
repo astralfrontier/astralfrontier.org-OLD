@@ -1,8 +1,6 @@
 ---
 title: Draw Maps, Leave Blanks for Supers
-layout: blogpost.jade
-collection: blog
-tagged: sssc
+tagged: sssc, supers
 ---
 
 This is more discussion about the Super-Sheriffs of Sagan City game,

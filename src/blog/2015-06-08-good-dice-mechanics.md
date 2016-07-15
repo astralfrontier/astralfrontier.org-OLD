@@ -1,7 +1,5 @@
 ---
 title: Good Dice Mechanics
-layout: blogpost.jade
-collection: blog
 synopsis: What makes a dice rolling mechanic for RPGs fun, good, and fast?
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: Writing a Sagan City sourcebook
-layout: blogpost.jade
-collection: blog
-tagged: sssc
+tagged: sssc, supers
 ---
 
 I'm running a play-by post game, called
@@ -93,7 +91,7 @@ which he should be good at.
 
 ### Conclusion
 
-Ultimately I have to hope that the pitch of the setting is 
+Ultimately I have to hope that the pitch of the setting is
 strong enough to draw people in.
 Most supers worlds I'm aware of like to stick to the big populated
 cities, with heroes slugging it out with supervillains.

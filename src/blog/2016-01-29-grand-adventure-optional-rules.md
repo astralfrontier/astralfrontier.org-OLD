@@ -1,7 +1,5 @@
 ---
 title: Grand Adventure Optional Rules
-layout: blogpost.jade
-collection: blog
 tagged: grand-adventure
 ---
 

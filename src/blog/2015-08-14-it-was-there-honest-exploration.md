@@ -1,7 +1,5 @@
 ---
 title: It Was There, Honest!'s Exploration system
-layout: blogpost.jade
-collection: blog
 tagged: it-was-there-honest
 ---
 

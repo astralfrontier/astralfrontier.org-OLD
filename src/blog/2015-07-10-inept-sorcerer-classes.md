@@ -1,7 +1,5 @@
 ---
 title: Inept Sorcerer Classes
-layout: blogpost.jade
-collection: blog
 tagged: inept-sorcerers
 ---
 

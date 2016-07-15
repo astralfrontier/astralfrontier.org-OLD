@@ -1,7 +1,5 @@
 ---
 title: Inept Sorcerers and Forums
-layout: blogpost.jade
-collection: blog
 tagged: inept-sorcerers
 ---
 

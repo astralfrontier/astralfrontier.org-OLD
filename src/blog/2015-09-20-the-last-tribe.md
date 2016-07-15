@@ -1,7 +1,5 @@
 ---
 title: The Last Tribe
-layout: blogpost.jade
-collection: blog
 tagged: the-last-tribe
 ---
 

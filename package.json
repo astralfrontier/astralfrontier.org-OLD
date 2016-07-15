@@ -22,6 +22,7 @@
     "metalsmith-broken-link-checker": "^0.1.10",
     "metalsmith-collections": "^0.7.0",
     "metalsmith-date-in-filename": "0.0.14",
+    "metalsmith-default-values": "0.0.2",
     "metalsmith-drafts": "0.0.1",
     "metalsmith-feed": "0.2.0",
     "metalsmith-ignore": "^0.1.2",

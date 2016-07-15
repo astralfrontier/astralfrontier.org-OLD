@@ -1,7 +1,5 @@
 ---
 title: "I'm at That Age"
-layout: blogpost.jade
-collection: blog
 ---
 
 I'm not in my 20's any more. But I'm not old, or even middle age. I'm at That Age.

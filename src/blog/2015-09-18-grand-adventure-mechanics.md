@@ -1,7 +1,5 @@
 ---
 title: Grand Adventure Mechanics
-layout: blogpost.jade
-collection: blog
 tagged: grand-adventure
 ---
 

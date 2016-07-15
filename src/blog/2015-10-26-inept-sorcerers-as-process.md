@@ -1,7 +1,5 @@
 ---
 title: Inept Sorcerers as a Process
-layout: blogpost.jade
-collection: blog
 tagged: inept-sorcerers
 ---
 

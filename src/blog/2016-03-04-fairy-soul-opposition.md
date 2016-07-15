@@ -1,7 +1,5 @@
 ---
 title: Fairy Soul Opposition
-layout: blogpost.jade
-collection: blog
 tagged: fairy-soul
 ---
 

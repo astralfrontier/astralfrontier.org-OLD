@@ -1,8 +1,6 @@
 ---
 title: Gundam Gaiden
-layout: blogpost.jade
-collection: blog
-tagged: convention
+tagged: convention, mecha
 ---
 
 Thinking more about the
