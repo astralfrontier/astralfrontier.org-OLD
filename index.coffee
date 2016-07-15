@@ -58,10 +58,15 @@ metalsmith(__dirname)
     'social_media': 'social_media.yaml'
   }))
   .use(default_values([
-    pattern: 'blog/*.md'
-    defaults:
-      layout: 'blogpost.jade'
-      collection: 'blog'
+      pattern: 'blog/*.md'
+      defaults:
+        layout: 'blogpost.jade'
+        collection: 'blog'
+    ,
+      pattern: 'review/*.md'
+      defaults:
+        layout: 'review.jade'
+        collection: 'reviews'
   ]))
   .use(drafts())
   .use(dateInFilename(true))

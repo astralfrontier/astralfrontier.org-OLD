@@ -1,7 +1,5 @@
 ---
 title: Toradora!
-layout: review.jade
-collection: reviews
 synopsis: A light romantic comedy about a scary guy and a tiny girl.
 thumbnail: /assets/thumbnail-taiga-aisaka.jpg
 images:

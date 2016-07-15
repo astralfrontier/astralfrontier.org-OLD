@@ -1,7 +1,5 @@
 ---
 title: Katawa Shoujo
-layout: review.jade
-collection: reviews
 synopsis: A visual novel about disability and emotion.
 thumbnail: /assets/thumbnail-hanako.png
 links:
