@@ -35,6 +35,14 @@ Blacksmith, Leatherworking, and Weaving produce the eventual
 tools and equipment, but they depend on materials produced by Alchemy
 and other crafts.
 
+I recommend starting with Alchemy, Leatherworking, and Weaving.
+These will allow you to produce most of the Ironworks precursor materials,
+such as [Luminous Fiber](http://xivdb.com/item/15645/Luminous+Fiber).
+The recipes that follow will require large amounts of fiber,
+relative to the other ingredients.
+
+You can spend red scrip to change your specialization later.
+
 ### First Tier: Chimerical Felt and Serpentskin
 
 You should end your level 60 quests with some or all of the following pieces.
@@ -104,7 +112,24 @@ every six hours.
 
 Once you are at 870 and 835, you can manufacture the Ironworks set:
 
-* Ironworks Cap, Apron, Sleeves, Belt, Breeches, and Boots.
-* Ironworks Earrings and Rings.
+* [Ironworks Cap of Crafting](http://xivdb.com/item/15515/Ironworks+Cap+of+Crafting)
+* [Ironworks Apron of Crafting](http://xivdb.com/item/15516/Ironworks+Apron+of+Crafting)
+* [Ironworks Sleeves of Crafting](http://xivdb.com/item/15517/Ironworks+Sleeves+of+Crafting)
+* [Ironworks Belt of Crafting](http://xivdb.com/item/15534/Ironworks+Belt+of+Crafting)
+* [Ironworks Breeches of Crafting](http://xivdb.com/item/15518/Ironworks+Breeches+of+Crafting)
+* [Ironworks Boots of Crafting](http://xivdb.com/item/15519/Ironworks+Boots+of+Crafting)
+* [Ironworks Necklace of Crafting](http://xivdb.com/item/15530/Ironworks+Necklace+of+Crafting)
+* [Ironworks Earrings of Crafting](http://xivdb.com/item/15531/Ironworks+Earrings+of+Crafting)
+* [Ironworks Armillae of Crafting](http://xivdb.com/item/15532/Ironworks+Armillae+of+Crafting)
+* [Ironworks Ring of Crafting](http://xivdb.com/item/15533/Ironworks+Ring+of+Crafting)
 
-I'm not here yet, so details are coming soon.
+The Cap, Apron, Sleeves, and Breeches are Weaver specialist recipes.
+The Belt and Boots are Leatherworker.
+The Neck and Wrist slots are Carpenter.
+The Earrings and Ring are Goldsmith.
+
+I recommend making the Weaver pieces and Leatherworker pieces if you
+specced into those, then making enough ingredients for the rest
+and switching to Carpenter and Goldsmith.
+
+BiS, including recommended melds, can be found [here](http://www.ffxivguild.com/ff14-arr-doh-crafting-gear-guide-endgame-l50-maximum-materia-melds/).
