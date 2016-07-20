@@ -10,6 +10,15 @@ block main
         a(href="/tag/" + tag + ".html")= tag
         = " "
   != contents
+  if next || previous
+    div
+      hr
+      if next
+        div.pull-left
+          a.btn.btn-primary(href="/"+next.path) &laquo; #{next.title}
+      if previous
+        div.pull-right
+          a.btn.btn-primary(href="/"+previous.path) #{previous.title} &raquo;
 
 block sidebar
   h2 Recent posts
