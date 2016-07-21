@@ -1,6 +1,6 @@
 ---
 title: PAX Playtesting for Inept Sorcerers
-tagged: inept-sorcerers, playtest
+tagged: convention, inept-sorcerers, playtest
 ---
 
 I attended PAX Prime's [Games on Demand] over the weekend, and both ran

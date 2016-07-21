@@ -1,6 +1,6 @@
 ---
 title: Fairy Soul Opposition
-tagged: fairy-soul
+tagged: fairy-soul, pbta
 ---
 
 I'm taking a break from Grand Adventure to work on some other game design,

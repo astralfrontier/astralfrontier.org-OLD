@@ -28,3 +28,8 @@ block sidebar
         a(href="/"+post.path)= post.title
         br/
         small Posted on #{post.date.toDateString()}
+  h2 All tags
+  div(style="text-align: justify;")
+    for tag in Object.keys(tags).sort()
+      a(href="/tag/" + tags[tag].urlSafe + ".html")= tag
+      | &nbsp;

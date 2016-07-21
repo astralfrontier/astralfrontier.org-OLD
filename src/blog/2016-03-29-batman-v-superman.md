@@ -1,6 +1,6 @@
 ---
 title: Batman v. Superman
-tagged: comics
+tagged: comics, supers
 ---
 
 I haven't seen "Batman v. Superman" and I probably won't see it in theaters.

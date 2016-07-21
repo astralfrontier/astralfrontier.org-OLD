@@ -1,6 +1,6 @@
 ---
 title: Oddball Characters
-tagged: characters
+tagged: characters, supers
 ---
 
 I'm a fan of odd or unusual player characters.

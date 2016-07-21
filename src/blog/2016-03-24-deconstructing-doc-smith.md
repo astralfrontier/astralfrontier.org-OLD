@@ -1,5 +1,6 @@
 ---
 title: Deconstructing Doc Smith
+tagged: scifi
 ---
 
 [Film Crit Hulk] writes about "breaking a story".

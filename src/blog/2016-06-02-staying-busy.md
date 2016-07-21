@@ -1,5 +1,6 @@
 ---
 title: Staying Busy
+tagged: avert-the-apocalypse, fae, ffxiv, fusion-au, helping-hand, pbta
 ---
 
 The last several weeks have been pretty busy.

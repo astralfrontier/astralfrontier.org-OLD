@@ -1,5 +1,6 @@
 ---
 title: Playtesting Avert the Apocalypse
+tagged: avert-the-apocalypse, pbta, scifi
 ---
 
 I was sick yesterday so couldn't run, but two Sundays before that,

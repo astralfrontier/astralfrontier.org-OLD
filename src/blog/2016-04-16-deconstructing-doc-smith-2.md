@@ -1,5 +1,6 @@
 ---
 title: Deconstructing Doc Smith, Part 2
+tagged: scifi
 ---
 
 This is a continuation of part 1,

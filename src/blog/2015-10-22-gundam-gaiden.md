@@ -1,6 +1,6 @@
 ---
 title: Gundam Gaiden
-tagged: convention, mecha
+tagged: convention, mecha, scifi
 ---
 
 Thinking more about the
