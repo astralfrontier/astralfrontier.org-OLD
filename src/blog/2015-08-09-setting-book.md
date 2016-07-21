@@ -1,6 +1,6 @@
 ---
 title: What setting books would I love to put out?
-tagged: supers, compleat-villain
+tagged: compleat-villain, fairy-soul, song-of-eden, supers
 ---
 
 I've occasionally thought about resurrecting [Villains Victorious!]
