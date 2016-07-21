@@ -484,3 +484,10 @@ acting in concert to create a wholly mad, alien hybrid.
 * Corrupt the powerful
 * Seduce the oppressed
 * Revel in an orgy of madness and freedom
+
+### Further Reading
+
+* Victorian Spiritualism: [http://www.victorianweb.org/religion/spirit.html](http://www.victorianweb.org/religion/spirit.html)
+* Victorian Heroism in Reality and Fantasy: The Everyday Heroics of Endurance: [http://www.victorianweb.org/authors/trollope/pjs1.html](http://www.victorianweb.org/authors/trollope/pjs1.html)
+* The Edwardian Era: [http://www.edwardianpromenade.com/the-edwardian-era/](http://www.edwardianpromenade.com/the-edwardian-era/)
+* Class and Taste in Edwardian England: [http://www.tchevalier.com/fallingangels/bckgrnd/class/](http://www.tchevalier.com/fallingangels/bckgrnd/class/)
