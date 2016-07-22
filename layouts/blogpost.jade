@@ -11,14 +11,17 @@ block main
         = " "
   != contents
   if next || previous
-    div
-      hr
+    ul.pager
       if next
-        div.pull-left
-          a.btn.btn-primary(href="/"+next.path) &laquo; #{next.title}
+        li.previous
+          a(href="/"+next.path)
+            span(aria-hidden="true") &larr;
+            | #{next.title}
       if previous
-        div.pull-right
-          a.btn.btn-primary(href="/"+previous.path) #{previous.title} &raquo;
+        li.next
+          a(href="/"+previous.path)
+            | #{previous.title}
+            span(aria-hidden="true") &rarr;
 
 block sidebar
   h2 Recent posts
