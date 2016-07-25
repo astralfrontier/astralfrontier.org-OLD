@@ -43,6 +43,40 @@ relative to the other ingredients.
 
 You can spend red scrip to change your specialization later.
 
+### Crystal Farming
+
+You'll be doing a lot of farming for crystals and clusters.
+FFXIV includes a new tool to help you acquire these very quickly:
+[Aetherial Reduction](http://ffxiv.consolegameswiki.com/wiki/Aetherial_Reduction).
+
+You must be level 56 or higher, and complete a quest, to unlock this.
+See the link for details.
+
+Once you've done this, load up [FFXIV Clock](http://www.ffxivclock.com/#/)
+and add Ephemeral Nodes to the list of nodes you are watching.
+The node you want - location and Eorzea time - depends on the type
+of crystal you want to acquire.
+
+See this link for the complete list: [Ephemeral Nodes](http://ffxiv.consolegameswiki.com/wiki/Ephemeral_Nodes).
+For example, you might go to Coerthas West at 12am Eorzea time
+for Wind Crystals.
+While there, you will see an "Ephemeral" node on your map.
+Make sure Collector's Glove is active, then harvest from the node.
+
+Once the node is exhausted, you can force it to respawn,
+by tapping two nearby nodes.
+In Heavensward, gathering nodes come clustered together.
+So for example, you could fly to the cluster north of the ephemeral node,
+then the cluster to the west, then back.
+You don't have to fully harvest the regular nodes, just hit them once.
+Ephemeral Nodes last for four hours Eorzea time.
+
+There is an easy rotation to maximize your Ephemeral Node
+yield, found here: [https://i.imgur.com/r20AcgT.png](https://i.imgur.com/r20AcgT.png).
+
+Once you have harvested collectible items like Furymint or Fire Moraine,
+right-click on them in your bag and select "Aetherial Reduction".
+
 ### First Tier: Chimerical Felt and Serpentskin
 
 You should end your level 60 quests with some or all of the following pieces.
