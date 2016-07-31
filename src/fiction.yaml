@@ -22,6 +22,9 @@ entries:
   - name: Superheroes
     desc: Stories and settings beyond the mundane.
     bullets:
+      - name: Actually Pretty Funny
+        desc: An ex-cop recounts his most memorable experience on the job.
+        url: /fiction/actually-pretty-funny.html
       - name: Helping Hand
         desc: A superhero team concept built around life manipulation.
         url: /fiction/helping-hand.html
