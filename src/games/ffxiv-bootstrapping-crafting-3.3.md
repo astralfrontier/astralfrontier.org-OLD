@@ -22,6 +22,20 @@ You can unlock their daily quests using the steps outlined
 I strongly encourage you to keep your Mining and Botany up to date as well.
 If not, you will be buying a lot of materials you could farm for yourself.
 
+### Moogle Beast Tribe Quests
+
+The number one common ingredient for Ironworks-level gear is
+[Luminous Fiber](http://xivdb.com/item/15645/Luminous+Fiber).
+The main ingredient for these is Glass Fiber.
+You need 3 Glass Fiber to make one Luminous Fiber.
+You pay 7 daily tokens to get 1 Glass Fiber.
+You can do 3 beast tribe quests a day.
+Most recipes require 3 Luminous Fibers.
+So basically, (3 fibers * 3 glass fibers * 7 tokens) / (3 quests a day)
+means that each Ironworks recipe can be done in about 3 weeks...
+
+Get started on the Moogle beast tribe quests as soon as you can.
+
 ### Specialization
 
 You can use the [Specialist System](http://ffxiv.consolegameswiki.com/wiki/Specialist_System)
