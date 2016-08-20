@@ -11,7 +11,7 @@ I know you are new to our Order.
 I saw you ride with the other travelers through our gates one snowy night,
 two weeks ago.
 I studied you from the shadows.
-I watched your eyes, drinking in every detail of our forbidding fortress.0
+I watched your eyes, drinking in every detail of our forbidding fortress.
 You were innocent, fresh, eager to see everything and do your duty.
 
 When men took up the sword against demons, centuries ago,
@@ -62,14 +62,8 @@ Well.
 You can imagine the rest.
 The other exists to strike their partner down.
 You see, a demon caged by one forgiven and blameless is drawn to Heaven when their host dies.
-There is no escape for the soldiers of hell in the enemy's camp,
+There is no escape for the soldiers of hell in their enemy's camp,
 and no such demon has ever returned to plague us.
-
-One mortal life in exchange for a powerful demonic essence
-seems a low enough cost to pay, if you are the Mountain King or his high priest.
-And so this system continues.
-One is fated to die.
-The other is fated to keep living.
 
 There is a risk, of course.
 If the possessed member of the Duo hides a secret sin,
@@ -77,8 +71,14 @@ or allows regret or hate or fear to cloud their pure intent,
 they are drawn downwards, to Hell.
 Their demonic passenger will go too,
 but it will return in due course, and seek out to mockingly corrupt the killer.
-More than a few of the warriors have fallen in such a way,
-forsaking their divine duty and rebelling against king and church.
+We, the warriors, must ceaselessly guard our own feelings for this reason.
+
+One mortal life in exchange for a powerful demonic essence
+seems a low enough cost to pay, if you are the Mountain King or his high priest.
+And so it continues.
+The Duo is sent out.
+One is cursed to die.
+The other is cursed to live.
 
 I have killed many of my fellows.
 The most recent one, Johan, fell only three weeks ago.
