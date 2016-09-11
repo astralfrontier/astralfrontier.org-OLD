@@ -40,44 +40,44 @@ I divided them by major themes:
 Cloning, Bio-freaks, Mutant Powers, The Conspiracy, The Virus, and The Apocalypse.
 
 * [The 6th Day](http://tvtropes.org/pmwiki/pmwiki.php/Film/The6thDay)
-* [The Adromeda Strain](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheAndromedaStrain
-* [Anna to the Infinite Power](https://en.wikipedia.org/wiki/Anna_to_the_Infinite_Power
-* [The Beast From 20,000 Fathoms](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBeastFromTwentyThousandFathoms
-* [Beggars in Spain](https://en.wikipedia.org/wiki/Beggars_in_Spain
-* [BioShock](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BioShock
-* [Brave New World](http://tvtropes.org/pmwiki/pmwiki.php/Literature/BraveNewWorld
-* [The Brood](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBrood
-* [The Crazies](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheCrazies
-* [Dark Angel](http://tvtropes.org/pmwiki/pmwiki.php/Series/DarkAngel
-* [Deep Blue Sea](http://tvtropes.org/pmwiki/pmwiki.php/Film/DeepBlueSea
-* [Dollhouse](http://tvtropes.org/pmwiki/pmwiki.php/Series/Dollhouse
-* [Doomsday](http://tvtropes.org/pmwiki/pmwiki.php/Film/Doomsday
-* [Firestarter](http://tvtropes.org/pmwiki/pmwiki.php/Literature/Firestarter
-* [Frankenstein](http://tvtropes.org/pmwiki/pmwiki.php/Literature/Frankenstein
-* [Gattaca](http://tvtropes.org/pmwiki/pmwiki.php/Film/Gattaca
-* [Guilty Crown](http://tvtropes.org/pmwiki/pmwiki.php/Anime/GuiltyCrown
-* [Helix](http://tvtropes.org/pmwiki/pmwiki.php/Series/Helix
-* [The Island](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheIsland
-* [The Island of Doctor Moreau](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheIslandOfDoctorMoreau
-* [Jurassic Park](http://tvtropes.org/pmwiki/pmwiki.php/Film/JurassicPark
-* [Metal Gear Solid](https://en.wikipedia.org/wiki/Metal_Gear_Solid
-* [Mobile Suit Gundam SEED](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_SEED
-* [The Moreau Series](http://tvtropes.org/pmwiki/pmwiki.php/Literature/MoreauSeries
-* [Nausicaa of the Valley of the Wind](http://tvtropes.org/pmwiki/pmwiki.php/Manga/NausicaaOfTheValleyOfTheWind
-* [Orphan Black](http://tvtropes.org/pmwiki/pmwiki.php/Series/OrphanBlack
-* [Outbreak](http://tvtropes.org/pmwiki/pmwiki.php/Film/Outbreak
-* [Painkiller Jane](http://tvtropes.org/pmwiki/pmwiki.php/Series/PainkillerJane
-* [Parts: the Clonus Horror](http://tvtropes.org/pmwiki/pmwiki.php/Film/Clonus
-* [Prototype](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Prototype
-* [Quarantine](http://tvtropes.org/pmwiki/pmwiki.php/Film/Quarantine
-* [Repo! the Genetic Opera](http://tvtropes.org/pmwiki/pmwiki.php/Film/RepoTheGeneticOpera
-* [Resident Evil](http://tvtropes.org/pmwiki/pmwiki.php/Franchise/ResidentEvil
-* [Rise of the Planet of the Apes](http://tvtropes.org/pmwiki/pmwiki.php/Film/RiseOfThePlanetOfTheApes
-* [Rossum's Universal Robots](http://tvtropes.org/pmwiki/pmwiki.php/Theatre/RossumsUniversalRobots
-* [Scanners](http://tvtropes.org/pmwiki/pmwiki.php/Film/Scanners
-* [Splice](http://tvtropes.org/pmwiki/pmwiki.php/Film/Splice
-* [Threshold](http://tvtropes.org/pmwiki/pmwiki.php/Series/Threshold
-* [World War Z](http://tvtropes.org/pmwiki/pmwiki.php/Literature/WorldWarZ
+* [The Adromeda Strain](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheAndromedaStrain)
+* [Anna to the Infinite Power](https://en.wikipedia.org/wiki/Anna_to_the_Infinite_Power)
+* [The Beast From 20,000 Fathoms](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBeastFromTwentyThousandFathoms)
+* [Beggars in Spain](https://en.wikipedia.org/wiki/Beggars_in_Spain)
+* [BioShock](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BioShock)
+* [Brave New World](http://tvtropes.org/pmwiki/pmwiki.php/Literature/BraveNewWorld)
+* [The Brood](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBrood)
+* [The Crazies](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheCrazies)
+* [Dark Angel](http://tvtropes.org/pmwiki/pmwiki.php/Series/DarkAngel)
+* [Deep Blue Sea](http://tvtropes.org/pmwiki/pmwiki.php/Film/DeepBlueSea)
+* [Dollhouse](http://tvtropes.org/pmwiki/pmwiki.php/Series/Dollhouse)
+* [Doomsday](http://tvtropes.org/pmwiki/pmwiki.php/Film/Doomsday)
+* [Firestarter](http://tvtropes.org/pmwiki/pmwiki.php/Literature/Firestarter)
+* [Frankenstein](http://tvtropes.org/pmwiki/pmwiki.php/Literature/Frankenstein)
+* [Gattaca](http://tvtropes.org/pmwiki/pmwiki.php/Film/Gattaca)
+* [Guilty Crown](http://tvtropes.org/pmwiki/pmwiki.php/Anime/GuiltyCrown)
+* [Helix](http://tvtropes.org/pmwiki/pmwiki.php/Series/Helix)
+* [The Island](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheIsland)
+* [The Island of Doctor Moreau](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheIslandOfDoctorMoreau)
+* [Jurassic Park](http://tvtropes.org/pmwiki/pmwiki.php/Film/JurassicPark)
+* [Metal Gear Solid](https://en.wikipedia.org/wiki/Metal_Gear_Solid)
+* [Mobile Suit Gundam SEED](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_SEED)
+* [The Moreau Series](http://tvtropes.org/pmwiki/pmwiki.php/Literature/MoreauSeries)
+* [Nausicaa of the Valley of the Wind](http://tvtropes.org/pmwiki/pmwiki.php/Manga/NausicaaOfTheValleyOfTheWind)
+* [Orphan Black](http://tvtropes.org/pmwiki/pmwiki.php/Series/OrphanBlack)
+* [Outbreak](http://tvtropes.org/pmwiki/pmwiki.php/Film/Outbreak)
+* [Painkiller Jane](http://tvtropes.org/pmwiki/pmwiki.php/Series/PainkillerJane)
+* [Parts: the Clonus Horror](http://tvtropes.org/pmwiki/pmwiki.php/Film/Clonus)
+* [Prototype](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Prototype)
+* [Quarantine](http://tvtropes.org/pmwiki/pmwiki.php/Film/Quarantine)
+* [Repo! the Genetic Opera](http://tvtropes.org/pmwiki/pmwiki.php/Film/RepoTheGeneticOpera)
+* [Resident Evil](http://tvtropes.org/pmwiki/pmwiki.php/Franchise/ResidentEvil)
+* [Rise of the Planet of the Apes](http://tvtropes.org/pmwiki/pmwiki.php/Film/RiseOfThePlanetOfTheApes)
+* [Rossum's Universal Robots](http://tvtropes.org/pmwiki/pmwiki.php/Theatre/RossumsUniversalRobots)
+* [Scanners](http://tvtropes.org/pmwiki/pmwiki.php/Film/Scanners)
+* [Splice](http://tvtropes.org/pmwiki/pmwiki.php/Film/Splice)
+* [Threshold](http://tvtropes.org/pmwiki/pmwiki.php/Series/Threshold)
+* [World War Z](http://tvtropes.org/pmwiki/pmwiki.php/Literature/WorldWarZ)
 
 There's other candidates, such as "Tomorrow People" or "X-Men",
 that might be difficult to incorporate or feel out of sync.
