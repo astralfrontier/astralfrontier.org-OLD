@@ -9,6 +9,8 @@ Especially if you are playing
 This is an early version of an add-on rule for that game,
 allowing players to create wishes that _must_ come true, regardless of cost.
 
+<!-- more -->
+
 Before the game, create a **Power Pyramid**.
 This consists of 15 **Wyrds**, or short descriptions of a fate
 which can befall a person, their companions, or their setting.
