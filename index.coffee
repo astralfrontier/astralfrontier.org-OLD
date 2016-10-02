@@ -15,6 +15,7 @@ link_checker    = require 'metalsmith-broken-link-checker'
 markdownit      = require 'metalsmith-markdownit'
 metadata        = require 'metalsmith-metadata'
 more            = require 'metalsmith-more'
+open_graph      = require 'metalsmith-open-graph'
 pagination      = require 'metalsmith-pagination'
 path            = require 'metalsmith-path'
 serve           = require 'metalsmith-serve'
@@ -102,6 +103,13 @@ metalsmith(__dirname)
     directory: 'layouts'
     partials: 'partials'
     default: 'fullpage-title.jade'
+  }))
+  .use(open_graph({
+    pattern: '**/*.html'
+    sitename: 'Astral Frontier'
+    siteurl: 'http://astralfrontier.org/'
+    image: '.og-image'
+    description: 'synopsis'
   }))
   .use(jquery(($) ->
     # All external links should open in new windows

@@ -16,8 +16,8 @@ module.exports = (grunt) ->
           {expand: true, cwd: 'build/', src: ['**'], dest: '/', stream: true},
         ]
     exec:
-      bower: "node_modules/bower/bin/bower install"
-      build: "node --harmony node_modules/coffee-script/bin/coffee index.coffee"
+      bower: "node_modules/.bin/bower install"
+      build: "node_modules/.bin/coffee index.coffee"
   )
 
   grunt.loadNpmTasks 'grunt-exec'
