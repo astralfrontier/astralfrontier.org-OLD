@@ -67,7 +67,7 @@ Okay, how?
 ### Pixar's 22 Rules of Storytelling
 
 I go back to this a lot, so it's worth linking here:
-https://io9.gizmodo.com/5916970/the-22-rules-of-storytelling-according-to-pixar
+[https://io9.gizmodo.com/5916970/the-22-rules-of-storytelling-according-to-pixar](https://io9.gizmodo.com/5916970/the-22-rules-of-storytelling-according-to-pixar)
 
 I want to focus on three of these rules:
 
