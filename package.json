@@ -4,7 +4,7 @@
   "repository": "https://github.com/astralfrontier/astralfrontier.org",
   "scripts": {
     "start": "node -r coffee-script/register index.coffee",
-    "test": "echo OK"
+    "test": "node -r coffee-script/register index.coffee"
   },
   "dependencies": {
     "bower": "^1.7.9",
