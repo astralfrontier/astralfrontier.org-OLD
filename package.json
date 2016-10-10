@@ -4,12 +4,13 @@
   "repository": "https://github.com/astralfrontier/astralfrontier.org",
   "scripts": {
     "start": "node -r dotenv/config -e \"require('grunt').tasks(['default']);\"",
-    "test": "node -r dotenv/config -e \"require('grunt').tasks(['default']);\""
+    "test": "node -r dotenv/config -e \"require('grunt').tasks(['default']);\"",
+    "test": "node -r dotenv/config -e \"require('grunt').tasks(['deploy']);\""
   },
   "dependencies": {
     "bower": "^1.7.9",
     "bower-files": "^3.13.3",
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "coffee-script": "^1.10.0",
     "dotenv": "^2.0.0",
     "ejs": "^2.4.2",
@@ -24,7 +25,7 @@
     "metalsmith-broken-link-checker": "^0.1.10",
     "metalsmith-collections": "^0.7.0",
     "metalsmith-date-in-filename": "0.0.14",
-    "metalsmith-default-values": "0.0.2",
+    "metalsmith-default-values": "1.0.1",
     "metalsmith-drafts": "0.0.1",
     "metalsmith-feed": "0.2.0",
     "metalsmith-ignore": "^0.1.2",
@@ -36,12 +37,12 @@
     "metalsmith-markdownit": "^0.4.0",
     "metalsmith-metadata": "0.0.4",
     "metalsmith-more": "^0.2.0",
-    "metalsmith-open-graph": "0.0.2",
+    "metalsmith-open-graph": "0.0.3",
     "metalsmith-paginate": "^0.3.0",
     "metalsmith-pagination": "^1.4.0",
     "metalsmith-path": "^0.2.0",
     "metalsmith-serve": "0.0.7",
-    "metalsmith-tags": "^1.2.1",
+    "metalsmith-tags": "^2.0.0",
     "metalsmith-typography": "^0.1.1",
     "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master"
   }
