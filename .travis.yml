@@ -10,3 +10,7 @@ deploy:
   local-dir: build
   on:
     repo: astralfrontier/astralfrontier.org
+notifications:
+  slack:
+    rooms:
+      secure: KiP/TW95yHTg8QKvV3IQd7/lA2ppwaWgGvbd1VKZNo0PDQ73QeomJhsBv2GLVON9iUAWNoG54QfSnn4MhNKHdmorLMevumWg9P7i88R6sDjCJIAuLETvJqPLKLJu/txxuC8XopQ2ThKzDm27NKY+ySYpQdLyTyXqbAEojrdFETM=
