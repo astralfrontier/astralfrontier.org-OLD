@@ -17,7 +17,7 @@ module.exports = (grunt) ->
         ]
     exec:
       bower: "node_modules/.bin/bower install"
-      build: "node_modules/.bin/coffee index.coffee"
+      build: "node -r coffee-script/register index.coffee"
   )
 
   grunt.loadNpmTasks 'grunt-exec'

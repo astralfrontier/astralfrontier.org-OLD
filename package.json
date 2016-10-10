@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "repository": "https://github.com/astralfrontier/astralfrontier.org",
   "scripts": {
-    "start": "node node_modules/coffee-script/bin/coffee index.coffee"
+    "start": "node -r coffee-script/register index.coffee"
   },
   "dependencies": {
     "bower": "^1.7.9",
