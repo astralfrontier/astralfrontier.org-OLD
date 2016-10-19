@@ -7,7 +7,7 @@ block main
     if tagged
       = " -- "
       for tag in (tagged || [])
-        a(href="/tag/" + tag + ".html")= tag
+        a(href="/tag/" + tag.slug + ".html")= tag.name
         = " "
   != contents
   if next || previous
