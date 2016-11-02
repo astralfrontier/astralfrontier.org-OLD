@@ -74,8 +74,8 @@ metalsmith(__dirname)
   .use(collections(collection_data))
   .use(pagination(pagination_data))
   .use(markdownit({
-    html: true
-  }))
+      html: true
+    }).use(require('markdown-it-toc')).use(require('markdown-it-attrs')))
   .use(yaml({}))
   .use(inPlace({
     engine: 'ejs'

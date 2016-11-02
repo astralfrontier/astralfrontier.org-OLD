@@ -2,6 +2,8 @@
 title: FUTILE OCTAVE
 ---
 
+@[toc](Sessions)
+
 ### Octave-2009-11-04
 
 *DeGroot is interviewed in his jail cell.*

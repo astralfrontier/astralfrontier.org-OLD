@@ -6,6 +6,8 @@ This is a roleplaying game I ran in 2009. It centered around a group of friends 
 who played host to a crash-landed alien visitor named Aura, and how they saved the world from
 an alien invasion.
 
+@[toc](Sessions)
+
 ### Scrapper and Aura
 
 May 9, 1995. The Oklahoma City bombing happened only a few weeks ago; it's still in the news. What got less attention was a fiery dart that seemed to fly straight down from the sky, embedding itself violently (but not explosively) not far from I-280, just outside of New York City. The projectile was large, and hot, and glowing. It landed squarely on the property of Tobacek Lazureiwicz, known less clumsily to the Americans in his area as Toby Lazarus.
