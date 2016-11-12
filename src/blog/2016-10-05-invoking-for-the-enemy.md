@@ -1,6 +1,7 @@
 ---
 title: Invoking For the Enemy
 tagged: fate
+icon: flask
 ---
 
 Recently my Tuesday Star Wars GM wrote an

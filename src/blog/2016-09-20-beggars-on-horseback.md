@@ -1,6 +1,7 @@
 ---
 title: Beggars on Horseback
 tagged: inept-sorcerers
+icon: magic
 ---
 
 Wishes have power.
@@ -61,4 +62,3 @@ though they can ruin any hope of it being fulfilled in a certain way.
 The good news is that there is never Excess Power as a result of using Wyrds.
 No new Bothers are created, only surprising, difficult,
 or potentially tragic consequences.
-

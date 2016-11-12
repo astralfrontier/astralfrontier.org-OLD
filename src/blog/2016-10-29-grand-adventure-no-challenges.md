@@ -1,6 +1,7 @@
 ---
 title: Grand Adventure Without Challenges
 tagged: grand-adventure
+icon: flask
 ---
 
 Grand Adventure offers a structured storytelling experience through Challenges.

@@ -1,6 +1,7 @@
 ---
 title: Talispire
 tagged: grand-adventure
+icon: globe
 ---
 
 I wrote up a sample world for [Grand Adventure] called Talispire.

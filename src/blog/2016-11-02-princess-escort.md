@@ -1,5 +1,6 @@
 ---
 title: The Princess Escort
+icon: book
 ---
 
 I had this random idea for a short story, about a grizzled mercenary
