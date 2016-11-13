@@ -13,8 +13,9 @@ block main
       div.col-md-12
         for post in pagination.files
           h4
-            i.fa(class="fa-#{post.icon || 'file-text-o'}") &nbsp;
+            i.hidden-xs.fa(class="fa-#{post.icon || 'file-text-o'}") &nbsp;
+            i.visible-xs-inline-block.pull-right.fa(class="fa-#{post.icon || 'file-text-o'}") &nbsp;
             a(href="/"+post.path)= post.title
-            small &nbsp;- #{post.date.toDateString()}
+            small.hidden-xs &nbsp;- #{post.date.toDateString()}
           div.blog-post-summary!= post.less
     include ./pagination.jade
