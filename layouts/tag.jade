@@ -8,8 +8,10 @@ block main
   div.container
     div.row
       div.col-md-12
-        for page in pagination.files
+        for post in pagination.files
           h4
-            a(href="/"+page.path)= page.title
-          != page.less
+            i.hidden-xs.fa(class="fa-#{post.icon || 'file-text-o'}") &nbsp;
+            i.visible-xs-inline-block.pull-right.fa(class="fa-#{post.icon || 'file-text-o'}") &nbsp;
+            a(href="/"+post.path)= post.title
+          div.blog-post-summary!= post.less
     include ./pagination.jade
