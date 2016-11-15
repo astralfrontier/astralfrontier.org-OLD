@@ -13,11 +13,3 @@ columns:
       - name: Github
         desc: My open-source projects, including this website.
         url: https://github.com/astralfrontier
-  - width: 6
-    entries:
-      - name: Fate Folio
-        desc: A searchable index of Fate-related gaming material.
-        url: http://fatefolio.com/
-      - name: Riff
-        desc: A comedy forum site where anyone can post as any avatar.
-        url: http://riff.astralfrontier.org/
