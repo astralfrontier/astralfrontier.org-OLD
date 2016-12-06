@@ -110,8 +110,58 @@ Thus, if that condition happens, the player has bought into it.
 Making this work is contingent on both player and MC agreeing on a given Twist's condition.
 However, that's the same sort of negotiation that happens all the time in any RPG.
 
-So in short, if Twists work as intended,
-the economic exchange will be a mechanical benefit for now,
+### Going back to Indy
+
+So let's go back to Indiana Jones, and see if this works for him.
+We'll create him as a Clever Determined Adventurer,
+giving him starter Words: Resist, Avoid (two stars), and Outwit.
+
+There's a golden idol in the cave, and Indy wants it.
+The first part of the cave is filled with spiders, snakes, traps,
+and all manner of ickiness, but the main thrust of it is that it's creepy.
+Indy Resists the Challenge as his first Action, spending two dice
+and getting 2 and 2 - enough to pay for "Resist".
+"One of my competitors was in here," Indy says.
+"What if there's more shenanigans waiting?"
+That sounds interesting to the MC, and this Twist's dice pay for the Challenge itself.
+Indy gets 1 die back for his one-star rating on Resist.
+
+There's more traps, and the idol itself is on a pedestal
+that will trigger poison darts.
+This time, Indy Outwits it, using a bag of sand.
+Indy's only got one die to roll of his own, and he'll need a minimum of two.
+"You set off another trap, but you can keep hold of the idol," the MC says.
+Indy rolls a 4, paying for Outwit, and this Twist gives him enough dice
+to pay off the Challenge too.
+He gets one die back, leaving him still at one.
+
+The MC announces that the final trap is a giant stone ball!
+Indy can't effectively Resist it anyway, and he's already Outwitted the Challenge.
+Nothing left to do but run! "Avoid Trapped Cave" is Indy's last Action,
+and he rolls his one die.
+"You'll get out of the cave, but you lose something valuable in the process,"
+the MC says.
+Some negotiation leads to a betrayal by Indy's NPC, Sapito,
+who is then killed by the earlier traps.
+Outside, the player has another suggestion.
+"Hey, I set up a rival earlier. What if there's another one?
+If I have to lose the idol, I want it to be to a guy that I could get it back from later."
+The MC agrees, and Belloq is the result.
+
+Indy gets two dice back, because Avoid has two stars,
+so he's now at full Resolve again.
+But he lost what he came to get, and the cave was a series of near misses.
+He's battered but functional;
+he definitely wasn't invulnerable;
+and he never once spammed his best skill or highest stat.
+Every moment of the Challenge was different.
+
+I don't know about you, but I feel pretty good about this turn of events.
+
+### Conclusion
+
+In short, if Twists work as intended,
+the economic exchange will be a mechanical benefit at the moment it's made,
 in trade for a narrative penalty (or benefit) later.
 The voluntary nature of Twists should ensure the player feels good about them.
 
