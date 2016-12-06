@@ -64,6 +64,8 @@ fulfilling the problem of Scale.
 In Grand Adventure, Scale is provided by difficulty rating and endurance.
 Higher difficulty costs more dice,
 while more endurance costs more Actions or more dice.
+Because your Pool dice are limited, you'll automatically need to dip into
+Twists more often to progress through a tougher Challenge.
 
 ### Good or bad, now or later
 
