@@ -5,6 +5,8 @@ tagged: helping-hand
 
 It was the summer I turned 17 when Shannon got taken by the UFO.
 
+<!-- more -->
+
 We were out doing our usual bits of nothing in the fields.
 Corn stretched as far as the eye could see.
 I had my new car, for racing.
