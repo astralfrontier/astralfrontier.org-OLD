@@ -27,9 +27,9 @@ In desperation I fished out the "Guardian" dream drop and swallowed it dry, feel
 
 Dad looked at me with love in his eyes, and compassion, and steady assurance. He was telling me that things were going to be okay. I'm not going to let you down, son. We'll do this together. I knew the words without hearing them.
 
-Dad strode purposefully, decisively, toward the biggest group of abstracts, arms out in a grappling position. They lunged, and he caught one in a headlock and threw it back at the others. They fell, but the others closed ranks. The creatures were indeed a motley bunch. Unfinished, incoherent, the product of dreams brought to life by the Wake. The Guardian drop might not be enough. I drew my sword and went to work, fighting grimly and proudly beside Dad. He would grab, and I would stab.
+Dad strode purposefully, decisively, toward the biggest group of abstracts, arms out in a grappling position. They lunged, and he caught one in a headlock and threw it back at the others. They fell, but the others closed ranks. The creatures were indeed a motley bunch. Unfinished, incoherent, the product of dreams brought to life by the Wake. The Guardian drop might not be enough. I readied my spear and went to work, fighting grimly and proudly beside Dad. He would grab, and I would stab.
 
-I returned to Oden Eminence after dark. My sword was broken, and my arrows were exhausted. Both crystal knives had found their marks. Dad had long since faded back into a memory. He had admirably acquitted himself. I had great respect for whoever had dreamed up such a potent guardian. I was alone, and limping, but victorious. I thought. I crossed the gate and made it as far as the well before collapsing from exhaustion.
+I returned to Oden Eminence after dark. My spear was broken, and my arrows were exhausted. Both crystal knives had found their marks. Dad had long since faded back into a memory. He had admirably acquitted himself. I had great respect for whoever had dreamed up such a potent guardian. I was alone, and limping, but victorious. I thought. I crossed the gate and made it as far as the well before collapsing from exhaustion.
 
 A few surviving abstracts had tailed me back to the village. As they came loping through the gate, claws and fangs bared, I froze. I felt fear, and horror, and shame that I'd led these things back here. I could do nothing.
 
@@ -39,7 +39,7 @@ One of the kids hurled the stick at me. I remember looking down at my hand, seei
 
 I pounded down the hill, screaming a battle cry to get their attention. Plus, their fellows' blood was still on me, maybe they could see or scent it. Whatever it was, it worked. They charged at me.
 
-I nimbly slid under one roughly muscled arm and plunged the stick at the creature's skin. Ordinary wood, if sharpened to enough of a point, might go through ordinary skin. This leathery hide had been enough to deflect my arrows and break my sword. I had nothing but my skill at arms and faith in a pair of children and their toy.
+I nimbly slid under one roughly muscled arm and plunged the stick at the creature's skin. Ordinary wood, if sharpened to enough of a point, might go through ordinary skin. This leathery hide had been enough to deflect my arrows and break my spear. I had nothing but my skill at arms and faith in a pair of children and their toy.
 
 The branch went a foot and a half deep. I could feel the Wake surging, swirling, responding. What I pulled out wasn't wood, but a jewel-encrusted steel blade, shining with its own inner light. The Legendary Sword lived up to its name.
 
