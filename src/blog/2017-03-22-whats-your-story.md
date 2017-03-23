@@ -25,7 +25,7 @@ I set out to the spot the Odenites had shown me on their maps. I was armed with 
 
 In desperation I fished out the "Guardian" dream drop and swallowed it dry, feeling for its power. The familiar bolt of white light lanced down from the sky to strike me, then arced away a dozen feet to strike the earth. Where it hit, a man rose out of the ground. He looked like a veteran soldier, with graying hair and a warm smile. I knew him, though he wasn't any living or dead person I'd ever met. It was Dad, the Father, the dream-conjured archetype of one's protective and loving parent.
 
-Dad looked at me with love in his eyes, and compassion, and steady assurance. He was telling me that things were going to be okay. I'm not going to let you down, son. We'll do this together. I knew the words without hearing them.
+Dad looked at me with love in his eyes, and compassion, and steady assurance. He was telling me that things were going to be okay. I'm not going to let you down, my child. We'll do this together. I knew the words without hearing them.
 
 Dad strode purposefully, decisively, toward the biggest group of abstracts, arms out in a grappling position. They lunged, and he caught one in a headlock and threw it back at the others. They fell, but the others closed ranks. The creatures were indeed a motley bunch. Unfinished, incoherent, the product of dreams brought to life by the Wake. The Guardian drop might not be enough. I readied my spear and went to work, fighting grimly and proudly beside Dad. He would grab, and I would stab.
 
