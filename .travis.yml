@@ -1,13 +1,13 @@
 language: node_js
 node_js:
-- '6'
+- '8'
 deploy:
   provider: s3
   access_key_id: AKIAJRUAFJDMBFPNZRNQ
   secret_access_key:
     secure: RJF7/myIVf9rGk62cckN23NOl9MsjGDd8PdWT0LYKygQXwE//OLE5RaOxtBkGiHjJA2Qj43KHUchnQCwpWH2Q84EmkclRzgg72mISkKC2KdZiRyQ/hKX2FrWlMwHncPIcYkhrTSkhVN8YRptdWoKSUY4ypIzfatyuzQhcgh46S0=
   bucket: astralfrontier.org
-  local-dir: build
+  local-dir: public
   on:
     repo: astralfrontier/astralfrontier.org
 notifications:
