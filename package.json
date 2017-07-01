@@ -10,7 +10,8 @@
     "start": "hexo generate",
     "test": "hexo generate",
     "clean": "hexo clean",
-    "serve": "hexo serve"
+    "serve": "hexo serve",
+    "deploy": "aws s3 sync public/ s3://astralfrontier.org"
   },
   "dependencies": {
     "hexo": "^3.2.0",
