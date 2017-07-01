@@ -1,0 +1,9 @@
+<div class="ui inverted vertical footer segment">
+    <div class="ui center aligned container">
+        <div class="ui horizontal inverted small divided link list">
+            <% site.data.footer.forEach(function(link) { %>
+            <a class="item" title="<%- link.name %>" href="<%- link.url %>"><i class="<%- link.icon %> link large icon"></i></a>
+            <% }); %>
+        </div>
+    </div>
+</div>

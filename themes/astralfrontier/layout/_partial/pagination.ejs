@@ -1,0 +1,12 @@
+<div class="ui equal width grid">
+    <% if (page.prev) { %>
+    <div class="column">
+        <a href="<%- config.root %><%- page.prev_link %>">Newer</a>
+    </div>
+    <% } %>
+    <% if (page.next) { %>
+    <div class="right aligned column">
+        <a href="<%- config.root %><%- page.next_link %>">Older</a>
+    </div>
+    <% } %>
+</div>

@@ -1,0 +1,11 @@
+<% if (categories && categories.length) { %>
+<%
+    c = [];
+    categories.forEach(function(category) {
+        c.push('<a class="detail" href="' + config.root + category.path + '">' + category.name + '</a>');
+    })
+%>
+<span class="ui teal ribbon label">
+    <%- c.join(' &dash; ') %>
+</span>
+<% } %>

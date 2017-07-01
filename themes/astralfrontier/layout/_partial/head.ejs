@@ -1,0 +1,28 @@
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <%
+        title = page.title || 'Astral Frontier';
+        if (is_archive()) {
+            title = 'Archive';
+            if (is_month()){
+                title += ': ' + page.year + '/' + page.month;
+            } else if (is_year()){
+                title += ': ' + page.year;
+            }
+        } else if (is_category()) {
+            title = `Category: ${page.category}`
+        } else if (is_tag()) {
+            title = `Tag: ${page.tag}`
+        }
+    %>
+    <title><%- title %></title>
+    <%- css('css/semantic.min.css') %>
+    <%- css('css/layout.css') %>
+    <%- js('js/jquery-3.2.1.min.js') %>
+    <%- js('js/semantic.min.js') %>
+    <%- js('js/layout.js') %>
+    <!-- TODO: favicon -->
+    <!-- TODO: open graph -->
+</head>

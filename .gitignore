@@ -1,4 +1,7 @@
-/build/
-/bower_components/
-/node_modules/
-.env
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/

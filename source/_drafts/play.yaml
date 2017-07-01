@@ -1,0 +1,96 @@
+columns:
+  - width: 4
+    entries:
+      - name: Books Online
+        bullets:
+          - name: Bartleby
+            url: http://bartleby.com/
+          - name: Project Gutenberg
+            url: http://www.gutenberg.org/
+          - name: What Should I Read Next?
+            url: http://www.whatshouldireadnext.com/
+      - name: Music
+        bullets:
+          - name: Digitally Imported
+            desc: addictive electronic music.
+            url: http://www.di.fm/
+          - name: Pandora
+            desc: mix your own stations and listen to algorithmically selected songs.
+            url: http://www.pandora.com/
+          - name: Pearson Towers
+            desc: sharing mix tapes electronically.
+            url: http://www.pearsontowers.com/
+          - name: Puddlegum
+            desc: an indie music zine.
+            url: http://puddlegum.net/
+          - name: Soma.fm Secret Agent
+            desc: the soma.fm Secret Agent mix, good programming music.
+            url: http://somafm.com/play/secretagent
+          - name: Tofu Hut
+            desc: a link to a large number of music sources. Browse away.
+            url: http://tofuhut.blogspot.com/2005/05/even-when-you-dont-find-music-here-you.html
+  - width: 4
+    entries:
+      - name: Movies Online
+        bullets:
+          - name: Crunchyroll
+            desc: anime and Asian drama streaming.
+            url: http://www.crunchyroll.com/
+          - name: Facets
+            desc: connecting movie lovers to films they wouldn't otherwise discover.
+            url: http://www.facets.org/
+          - name: Fandor
+            desc: another online streaming site for hard-to-find stuff from around the world.
+            url: http://www.fandor.com/
+          - name: Hulu
+            desc: Television shows, but also a fair amount of anime.
+            url: http://www.hulu.com/
+          - name: Netflix
+            desc: movie streaming and DVD/Blu-Ray rentals. Monthly subscription.
+            url: http://www.netflix.com/
+          - name: Youtube
+            desc: starting to get feature-length stuff, like the Doctor Who movie.
+            url: http://www.youtube.com/
+      - name: Movie Reviews
+        bullets:
+          - name: Metacritic
+            desc: aggregate movie reviews from around the country.
+            url: http://www.metacritic.com/
+          - name: Moria
+            desc: >
+              science fiction, horror, and fantasy film review.
+              A thorough collection of "genre films".
+              Includes foreign horror and unusual titles like the Spanish-language Dracula.
+            url: http://www.youtube.com/
+          - name: Roger Ebert
+            desc: Formerly the man himself, now updated by selected contributors.
+            url: http://rogerebert.com/
+  - width: 4
+    entries:
+      - name: Photography
+        bullets:
+          - name: Astronomy Picture of the Day
+            desc: pictures of cosmic events, updated daily with commentary.
+            url: http://apod.nasa.gov/apod/astropix.html
+          - name: Bars at the End of the World
+            url: http://www.atlasobscura.com/articles/essential-guide-to-bars-at-the-end-of-the-world
+          - name: Beautiful Air Scenes of Africa by Michael Poliza
+            url: http://www.frogview.com/show.php?file=1745
+          - name: The Beauty of Urban Decay
+            url: http://www.smashingmagazine.com/2009/01/18/the-beauty-of-urban-decay/
+          - name: Japanese Ghost Towns
+            url: http://www.asylum.com/2010/02/24/10-japanese-ghost-towns-love-hotel-toyo-bowling-alley-sports-world-russian-village-theme-park/
+          - name: Pixdaus
+            desc: Tagged nature photography
+            url: http://pixdaus.com/
+      - name: Shopping
+        bullets:
+          - name: Retropolis Transit Authority
+            desc: wear zeerust on your chest.
+            url: http://www.printfection.com/retro-future/Retropolis-T-Shirts-Page-1/_s_59947
+          - name: Golden Age Collectibles
+            desc: a full-service fan shop in the Pike Place Market, downtown.
+            url: http://www.goldenagecollectables.com/
+          - name: Otherworlds
+            desc: books, jewelry, and gewgaws of every description. Edmonds.
+            url: http://www.otherworldsstore.com/

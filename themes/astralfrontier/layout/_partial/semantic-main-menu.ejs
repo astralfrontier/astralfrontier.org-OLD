@@ -1,0 +1,46 @@
+<%
+    /* TODO: sort by path, arrange into submenus */
+    var categorySorter = function(a, b) {
+        var keyA = a.name;
+        var keyB = b.name;
+        if (keyA < keyB) { return -1 };
+        if (keyA > keyB) { return  1 };
+        return 0;
+    }
+    var sortedCategories = [];
+    site.categories.forEach(function(category) { sortedCategories.push(category); });
+    sortedCategories.sort(categorySorter);
+%>
+<div class="ui borderless main menu">
+    <div class="ui text container">
+        <a href="<%- config.root %>">
+            <div href="#" class="header item">
+                <%- image_tag(gravatar('garrett@astralfrontier.org'), {class: 'logo'}) %>
+                Astral Frontier
+            </div>
+        </a>
+        <a href="/about.html" class="item">About</a>
+        <a href="/work.html" class="item">Work</a>
+        <a class="right floated item" onClick="$('#semantic-tag-cloud').transition('fade down')">
+            Tags <i class="dropdown icon"></i>
+        </a>
+        <div class="ui right floated dropdown item">
+            Categories <i class="dropdown icon"></i>
+            <div class="menu">
+                <% sortedCategories.forEach(function(category) { %>
+                <div class="item">
+                    <a href="<%- config.root %><%- category.path %>">
+                        <%- category.name %>
+                    </a>
+                </div>
+                <% }); %>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="ui text container" id="semantic-tag-cloud">
+    <div class="ui raised segment">
+        <%- tagcloud() %>
+    </div>
+    <p></p>
+</div>

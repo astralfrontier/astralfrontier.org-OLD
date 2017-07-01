@@ -1,0 +1,28 @@
+<div class="ui raised segment">
+    <div class="ui grid">
+        <div class="twelve wide column">
+            <h3>
+                <a href="<%- config.root %><%- article.path %>">
+                    <%- article.title %>
+                </a>
+            </h3>
+        </div>
+        <div class="four wide right aligned column">
+            <%- partial('date', {article}) %>
+        </div>
+    </div>
+    <%- article.excerpt || article.content %>
+    <div class="ui grid">
+        <div class="twelve wide column">
+            <%- partial('semantic-categories-ribbon', {categories: article.categories}) %>
+            <%- partial('semantic-tags', {tags: article.tags}) %>
+        </div>
+        <% if(article.excerpt) { %>
+        <div class="four wide right aligned column">
+            <a href="<%- config.root %><%- article.path %>">
+                <%= theme.excerpt_link %>
+            </a>
+        </div>
+        <% } %>
+    </div>
+</div>

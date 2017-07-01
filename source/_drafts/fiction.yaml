@@ -1,0 +1,9 @@
+- name: Attack from the Stars
+  desc: A fusion of alien-invasion stories.
+  url: /assets/rpg/AttackfromtheStars.pdf
+- name: Superheroes
+  desc: Stories and settings beyond the mundane.
+  bullets:
+    - name: Villains Victorious!
+      desc: A post-a-day blog, now discontinued, on how to be an effective supervillain.
+      url: http://villainsvictorious.blogspot.com/

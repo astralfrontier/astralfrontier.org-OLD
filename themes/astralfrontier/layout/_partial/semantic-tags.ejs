@@ -1,0 +1,7 @@
+<% (tags || []).forEach(function(tag) { %>
+<div class="ui label">
+    <a href="<%- config.root %><%- tag.path %>">
+        <%- tag.name %>
+    </a>
+</div>
+<% }) %>
