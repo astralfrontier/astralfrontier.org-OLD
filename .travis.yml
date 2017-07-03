@@ -3,6 +3,7 @@ node_js:
 - '8'
 install:
   - npm install -g travis-ci-cloudfront-invalidation
+  - yarn install
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY_ID
