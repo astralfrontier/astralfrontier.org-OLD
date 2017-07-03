@@ -1,6 +1,8 @@
 ---
 date: 2017/05/21
 title: The Demons of Talispire
+tags:
+  - talispire
 ---
 
 What do you do when necessity compels you to throw away your heart?

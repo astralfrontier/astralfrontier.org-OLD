@@ -1,6 +1,8 @@
 ---
 date: 2017/05/01
 title: Doors, Walls, Windows
+categories:
+  - Roleplaying
 ---
 
 In role-playing games, the GM describes challenges and offers opportunities.

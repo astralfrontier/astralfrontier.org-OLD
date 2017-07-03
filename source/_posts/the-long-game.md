@@ -1,6 +1,8 @@
 ---
 date: 2016/02/09
 title: The Long Game
+categories:
+  - Roleplaying
 ---
 
 I want to offer a metaphor for the challenges you'll encounter as GM

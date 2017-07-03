@@ -3,7 +3,7 @@ date: 2016/11/28
 title: More Talispire
 tags:
   - grand-adventure
-icon: globe
+  - talispire
 ---
 
 This is another list of things I like about Talispire,

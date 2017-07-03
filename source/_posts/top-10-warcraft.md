@@ -3,7 +3,7 @@ date: 2016-05-24
 title: Top Ten Signs You're Watching Warcraft
 categories:
   - MMORPG
-tagged:
+tags:
   - world of warcraft
 ---
 

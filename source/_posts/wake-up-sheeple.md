@@ -1,6 +1,8 @@
 ---
 date: 2016/01/10
 title: Wake Up Sheeple
+categories:
+  - Roleplaying
 tags:
   - storygames
 ---

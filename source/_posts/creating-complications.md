@@ -1,6 +1,10 @@
 ---
 date: 2017/01/26
 title: Creating Complications
+categories:
+  - Roleplaying
+tags:
+  - pass fail complicate
 ---
 
 Many modern RPGs give you a triad of outcomes when you roll dice:

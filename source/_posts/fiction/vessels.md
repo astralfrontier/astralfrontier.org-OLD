@@ -1,7 +1,7 @@
 ---
 date: 2015-09-04
 title: Vessels
-tagged:
+tags:
   - vessels
 ---
 

@@ -3,7 +3,7 @@ date: 2016/10/15
 title: Talispire
 tags:
   - grand-adventure
-icon: globe
+  - talispire
 ---
 
 I wrote up a sample world for [Grand Adventure] called Talispire.

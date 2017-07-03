@@ -1,6 +1,8 @@
 ---
 date: 2016/12/17
 title: The Harvest
+categories:
+  - Fiction
 tags:
   - helping-hand
 ---

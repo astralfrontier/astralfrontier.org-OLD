@@ -1,7 +1,8 @@
 ---
 date: 2016/11/02
 title: The Princess Escort
-icon: book
+tags:
+  - talispire
 ---
 
 I had this random idea for a short story, about a grizzled mercenary

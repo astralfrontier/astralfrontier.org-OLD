@@ -1,6 +1,8 @@
 ---
 date: 2015/12/22
 title: Draw Maps, Leave Blanks for Supers
+categories:
+  - Roleplaying
 tags:
   - sssc
   - supers

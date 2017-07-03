@@ -1,7 +1,7 @@
 ---
 date: 2016-08-06
 title: Bootstrapping your crafting in FFXIV patch 3.3
-tagged:
+tags:
   - crafting
   - ffxiv
 categories:

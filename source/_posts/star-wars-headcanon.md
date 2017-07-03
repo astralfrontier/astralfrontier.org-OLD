@@ -1,6 +1,8 @@
 ---
 date: 2016/08/24
 title: Star Wars Headcanon
+tags:
+  - star wars
 ---
 
 I like putting thought into the reasons why a setting must work a certain way.

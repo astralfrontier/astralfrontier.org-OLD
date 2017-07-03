@@ -3,8 +3,6 @@ date: 2016-07-15
 title: Time of Eve
 categories:
   - Reviews
-images:
-  - /assets/behaviour-log.png
 links:
   - name: TV Tropes
     url: http://tvtropes.org/pmwiki/pmwiki.php/Anime/TimeOfEve

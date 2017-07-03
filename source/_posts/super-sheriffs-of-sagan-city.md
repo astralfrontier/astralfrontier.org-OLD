@@ -1,6 +1,8 @@
 ---
 date: 2015/12/07
 title: Super-Sheriffs of Sagan City
+categories:
+  - Roleplaying
 tags:
   - sssc
   - supers

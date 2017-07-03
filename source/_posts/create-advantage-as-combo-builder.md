@@ -1,7 +1,7 @@
 ---
 date: 2015-09-04
 title: Create Advantage as Combo Builder
-tagged:
+tags:
   - fate
 categories:
   - Roleplaying

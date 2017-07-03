@@ -1,7 +1,7 @@
 ---
 date: 2015-09-04
 title: Healing is the Hardest Role
-tagged:
+tags:
   - world of warcraft
 categories:
   - MMORPG
