@@ -50,6 +50,6 @@
     padding: 5em 0em;
   }
 
-#semantic-tag-cloud {
-  display: none;
+.hidden-by-default {
+  display: none !important;
 }

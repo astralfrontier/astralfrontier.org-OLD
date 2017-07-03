@@ -36,11 +36,27 @@
                 <% }); %>
             </div>
         </div>
+        <div class="ui right floated item">
+            <button class="circular ui icon button" onClick="showSearchContainer('<%- config.root %><%- theme.search.path %>')">
+                <i class="icon search"></i>
+            </button>
+        </div>
     </div>
 </div>
-<div class="ui text container" id="semantic-tag-cloud">
+<div class="ui hidden-by-default text container" id="semantic-tag-cloud">
     <div class="ui raised segment">
         <%- tagcloud() %>
+    </div>
+    <p></p>
+</div>
+<div class="ui hidden-by-default text container" id="search-container">
+    <div class="ui raised segment">
+        <div class="ui fluid icon input">
+            <input type="text" placeholder="Search..." id="search-input" />
+            <i class="search link icon"></i>
+        </div>
+        <div id="search-output">
+        </div>
     </div>
     <p></p>
 </div>
