@@ -1,9 +1,8 @@
 language: node_js
 node_js:
 - '8'
-cache: pip
 install:
-  - pip install awscli
+  - npm install -g travis-ci-cloudfront-invalidation
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY_ID
@@ -16,8 +15,7 @@ deploy:
   on:
     repo: astralfrontier/astralfrontier.org
 after_deploy:
-  - aws configure set preview.cloudfront true
-  - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
+  - travis-ci-cloudfront-invalidation -a $AWS_ACCESS_KEY -s $AWS_SECRET_ACCESS_ID -c $CLOUDFRONT_DISTRIBUTION_ID -i '/*' -b $TRAVIS_BRANCH -p $TRAVIS_PULL_REQUEST
 notifications:
   slack:
     rooms:
