@@ -23,6 +23,7 @@ Content                        | Author                 | License
 [D20pic.jpg]                   | Wohlerbear             | CC-BY-SA-3.0
 [First_Background_by_N1LS.jpg] | ~N1LS                  | CC-BY-ND
 [Future Lies A]                | ycc2106                | CC-BY-NC-SA
+[Galaxy]                       | OpenClipart-Vectors    | CC-0
 [Galaxy glow palette]          | Northern Dancer        | CC-BY-NC-SA
 [Guardian Angel]               | Ozakuya                | CC-BY-NC-ND
 [Lady Knight]                  | ogitaka                | CC-BY-NC-3.0
@@ -57,6 +58,7 @@ Some content is &copy; 2004 Blizzard Entertainment, Inc. All rights reserved. Wo
 [D20pic.jpg]: http://commons.wikimedia.org/wiki/File:D20pic.jpg
 [First_Background_by_N1LS.jpg]: http://n1ls.deviantart.com/art/First-Background-62110789
 [Future Lies A]: http://www.colourlovers.com/palette/1399398/Future_Lies_A_...
+[Galaxy]: https://pixabay.com/en/galaxy-magical-adventure-spiral-1294347/
 [Galaxy glow palette]: http://www.colourlovers.com/palette/1239681/Galaxy_glow
 [Guardian Angel]: http://ozakuya.deviantart.com/art/Guardian-Angel-178586564
 [Lady Knight]: http://ogitaka.deviantart.com/art/Lady-Knight-463651774

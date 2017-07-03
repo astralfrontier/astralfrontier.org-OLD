@@ -1,6 +1,6 @@
 ---
 date: 2015-09-04
-title: Chrismas With Claudia
+title: Christmas With Claudia
 categories:
   - Fiction
 tags:
