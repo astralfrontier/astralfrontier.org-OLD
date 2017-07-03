@@ -1,17 +1,23 @@
 language: node_js
 node_js:
 - '8'
+cache: pip
+install:
+  - pip install awscli
 deploy:
   provider: s3
-  access_key_id: AKIAJRUAFJDMBFPNZRNQ
-  secret_access_key:
-    secure: RJF7/myIVf9rGk62cckN23NOl9MsjGDd8PdWT0LYKygQXwE//OLE5RaOxtBkGiHjJA2Qj43KHUchnQCwpWH2Q84EmkclRzgg72mISkKC2KdZiRyQ/hKX2FrWlMwHncPIcYkhrTSkhVN8YRptdWoKSUY4ypIzfatyuzQhcgh46S0=
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
   bucket: astralfrontier.org
   local-dir: public
-  skip_cleanup: true
   acl: public_read
+  cache_control: "max-age=604800"
+  skip_cleanup: true
   on:
     repo: astralfrontier/astralfrontier.org
+after_deploy:
+  - aws configure set preview.cloudfront true
+  - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
 notifications:
   slack:
     rooms:
