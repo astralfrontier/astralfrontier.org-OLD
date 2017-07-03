@@ -23,6 +23,8 @@ she approaches.
 
 <!-- more -->
 
+[![Sawako Kuronuma](/assets/review/sawako-kuronuma.png)](/assets/review/sawako-kuronuma-full.png) {.ui .medium .right .floated .image}
+
 However, she's also one of the kindest, gentlest, and sweetest girls you'll
 ever meet. She likes animals (even if they avoid her due to her scary aura),
 she's honest to a fault, and she's so good-hearted that she doesn't understand

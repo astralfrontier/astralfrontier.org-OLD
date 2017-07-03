@@ -17,6 +17,8 @@ there shall be no distinction between humans and robots".
 
 <!-- more -->
 
+[![Time of Eve](/assets/review/behaviour-log.png)](/assets/review/behaviour-log-full.png) {.ui .medium .right .floated .image}
+
 "Who here is a robot and who here is human?" the two boys wonder,
 and try to discover the answer without outright breaking the law of the cafe.
 And as the series progresses, Rikuo - and perhaps Masaki - learn

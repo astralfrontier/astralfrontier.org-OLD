@@ -20,6 +20,8 @@ with a ferocious temper that hides deep insecurities.
 
 <!-- more -->
 
+[![Toradora!](/assets/review/toradora.jpg)](/assets/review/toradora.jpg) {.ui .medium .right .floated .image}
+
 Ryuuji is in love with Taiga's best friend, Minori,
 and Taiga is likewise secretly interested in Ryuuji's friend Yuusaku.
 Through a series of accidents, Ryuuji and Taiga learn about each other's crush,

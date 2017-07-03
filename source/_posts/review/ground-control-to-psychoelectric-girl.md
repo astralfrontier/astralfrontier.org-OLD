@@ -21,6 +21,8 @@ She wraps herself up in futons, refusing to reveal herself.
 
 <!-- more -->
 
+[![Touwa Erio](/assets/review/touwa-erio.jpg)](/assets/review/touwa-erio-full.jpg) {.ui .medium .right .floated .image}
+
 Makoto meets other girls at school,
 some of whom have a history with Erio.
 He learns more about the strange family he's come to live with.

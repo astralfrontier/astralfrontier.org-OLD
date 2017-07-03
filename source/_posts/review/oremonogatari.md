@@ -22,6 +22,8 @@ he has been raised well and acts as a gentleman (as he understands it) at all ti
 
 <!-- more -->
 
+[![Gouda Takeo](/assets/review/gouda-takeo.png)](/assets/review/gouda-takeo-full.png) {.ui .medium .right .floated .image}
+
 His best friend, Sunakawa Makoto, is a typically bishounen high school hero.
 The girls swoon over him, he's good at sports, he's aloof, he's cool.
 But he and Takeo are best friends, and their relationship is as important as the love story.
@@ -39,6 +41,8 @@ years-long friendship.
 
 ### What works
 
+[![Gouda Takeo](/assets/review/yamato-rinko.jpg)](/assets/review/yamato-rinko-full.jpg) {.ui .medium .right .floated .image}
+
 I watched "Oremonogatari" after finishing shows like "Golden Time" and "[Kimi ni Todoke]",
 and this show was such a departure from them without detracting from them.
 Sunakawa's sly arrangement of a mutual love confession short-circuited what could have been
@@ -55,6 +59,8 @@ Sunakawa will always be there for Gouda, and it's clear that he gets something i
 from the earnest giant that no other friend can ever provide.
 
 ### What doesn't work
+
+[![Gouda Takeo](/assets/review/sunakawa-makoto.jpg)](/assets/review/sunakawa-makoto-full.jpg) {.ui .medium .right .floated .image}
 
 Early on, Takeo seems like a superhero. He catches falling girders, rescues people from
 a fire, and even stops a groper on the train. While he would be a fantastic character in
