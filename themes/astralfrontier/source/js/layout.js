@@ -11,7 +11,11 @@ $(document)
         $('.main.menu  .ui.dropdown').dropdown({on: 'hover'});
     });
 
-function showSearchContainer(searchPath) {
+window.showTagCloud = function() {
+    $('#semantic-tag-cloud').transition('fade down')
+}
+
+window.showSearchContainer = function(searchPath) {
     console.log("showSearchContainer: doing the thing");
     $('#search-container').transition({
         animation: 'fade down',
