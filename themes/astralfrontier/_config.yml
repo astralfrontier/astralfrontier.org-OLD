@@ -3,5 +3,3 @@ excerpt_link: Read More
 search:
   path: search.xml
   field: all
-
-webpack_config: 'themes/astralfrontier/webpack.config.js'
