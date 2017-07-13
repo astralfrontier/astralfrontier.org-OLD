@@ -8,7 +8,7 @@ tags:
 ---
 
 Thinking more about the
-[Souls of Steel playtest](/blog/2015-10-12-souls-of-steel.html)
+[Souls of Steel playtest](/2015/10/12/souls-of-steel/)
 at GeekGirlCon spurred me to combine two of my anime interests:
 giant mecha and romantic comedy.
 

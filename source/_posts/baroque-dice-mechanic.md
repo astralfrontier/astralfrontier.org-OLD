@@ -3,6 +3,7 @@ date: 2015/06/08
 title: A Baroque Dice Mechanic
 tags:
   - baroque-dice
+  - game design
 ---
 
 I originally posted this on Ello in two parts ([Part 1], [Part 2]). This is a rewrite of some of that material, with extra thoughts.

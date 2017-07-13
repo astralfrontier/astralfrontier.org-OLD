@@ -5,6 +5,7 @@ categories:
   - Roleplaying
 tags:
   - pass fail complicate
+  - game design
 ---
 
 Many modern RPGs give you a triad of outcomes when you roll dice:

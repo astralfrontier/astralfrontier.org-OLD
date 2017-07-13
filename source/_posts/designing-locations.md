@@ -10,7 +10,7 @@ I've been learning how to write for years, and I'm still definitely not there.
 I have learned a few rules for writing, though.
 The first is that *successful writing emerges from rules*.
 Here are some of the rules I'm following for creating locations
-for the [Compleat Villain](/blog/2016-06-10-compleat-villain.html) project.
+for the [Compleat Villain](/2016/06/10/compleat-villain/) project.
 
 <!-- more -->
 

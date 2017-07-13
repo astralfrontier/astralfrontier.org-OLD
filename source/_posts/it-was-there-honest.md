@@ -6,7 +6,7 @@ tags:
 ---
 
 I've been looking for a way to play-test the
-[cue system I described earlier](/blog/2015-07-06-cues.html).
+[cue system I described earlier](/2015/07/06/cues/).
 I could plug it into [Inept Sorcerers](http://peppermile.com/inept-sorcerers.html),
 but I thought of another possibility: make a separate game.
 

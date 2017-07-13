@@ -6,7 +6,7 @@ tags:
 ---
 
 Today I want to talk about three exploration models for
-[It Was There, Honest!](/blog/2015-07-08-it-was-there-honest.html)
+[It Was There, Honest!](/2015/07/08/it-was-there-honest/)
 
 I have three ways to structure exploration: Freeform RP, the Five-Room Dungeon, and Adjective Maps.
 

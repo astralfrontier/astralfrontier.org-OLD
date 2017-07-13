@@ -3,9 +3,10 @@ date: 2015/06/10
 title: Why Another Dice System?
 tags:
   - baroque-dice
+  - game design
 ---
 
-I posted a [new dice mechanic](/blog/2015-06-08-baroque-dice-mechanic.html) recently. I explained the mechanics, and in doing so found a better version of the same idea. Thanks to [Lester Ward] for feedback confirming this conclusion. However, I didn't really articulate its intended purpose.
+I posted a [new dice mechanic](/2015/06/08/baroque-dice-mechanic/) recently. I explained the mechanics, and in doing so found a better version of the same idea. Thanks to [Lester Ward] for feedback confirming this conclusion. However, I didn't really articulate its intended purpose.
 
 Aside from novelty, what does this system bring to the table? It brings *risk*, *reward*, and *possibility*. Long conversations with [Gray Pawn] about success and failure in games got me thinking, and this system was the result of one of those thoughts. Reading gamer war stories like [Sameo] (warning: rest of 1d4chan is NSFW) reminded me that spectacular failures could still be exciting. Fate taught me that doling out excitement can be safely put, at least partly, in the hands of the players.
 

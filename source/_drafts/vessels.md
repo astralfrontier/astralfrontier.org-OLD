@@ -270,7 +270,7 @@ but they will have only one Bond that has a mechanical benefit.
 
 ### Chiridon Valley
 
-A nameless priest visits a hamlet redolent with secret sin. [Read more](/fiction/vessels/church.html).
+A nameless priest visits a hamlet redolent with secret sin. [Read more](/2015/09/04/fiction/vessels/church/).
 
 #### Identity: Preacher
 
@@ -298,7 +298,7 @@ You've given up trying to change the world from center stage, and now are conten
 
 ### The Caravan and the Horde
 
-A lady knight protects a caravan from attacks by the Bronze Horde. [Read more](/fiction/vessels/crown.html)
+A lady knight protects a caravan from attacks by the Bronze Horde. [Read more](/2015/09/04/fiction/vessels/crown/)
 
 #### Identity: Paladin
 

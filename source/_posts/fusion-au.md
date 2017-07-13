@@ -12,17 +12,17 @@ why I do it, and how I'm starting another one.
 
 <!-- more -->
 
-First was [Force Effect](/fiction/force-effect.html).
+First was [Force Effect](/2015/09/04/fiction/force-effect/).
 This could be considered a simple prototype,
 built only from four different franchises:
 Star Wars, Battlestar Galactica, Mass Effect, and Mobile Suit Gundam.
 
-Next I wrote [Falken's Matrix](/fiction/falkens-matrix.html).
+Next I wrote [Falken's Matrix](/2016/07/05/fiction/falkens-matrix/).
 This was a comprehensive look at artificial intelligence and robots
 gone rogue, running from 1947 to the future of the Matrix.
 
 Most recently I completed
-[Attack From the Stars](/assets/rpg/AttackfromtheStars.pdf).
+[Attack From the Stars](/2016/05/21/attack-from-the-stars/).
 This is a look at alien invasion: not just alien science fiction,
 but specifically where aliens come with hostile intent.
 

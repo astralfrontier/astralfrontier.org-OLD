@@ -8,7 +8,7 @@ tags:
 
 This is another list of things I like about Talispire,
 the sample world for [Grand Adventure].
-In the [last post](/blog/2016-10-15-talispire.html),
+In the [last post](/2016/10/15/talispire/),
 I talked about playing with standard fantasy tropes.
 This time I want to talk more about social and identity issues
 that sit in the text, waiting to be explored - if you want.

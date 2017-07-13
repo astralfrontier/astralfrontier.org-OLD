@@ -17,8 +17,8 @@ I've been slow to post, so here's a recap of recent work.
 
 ### Attack From the Stars
 
-I created an alien-invasion [Fusion AU](/blog/2016-05-16-fusion-au.html),
-called [Attack From the Stars](/assets/rpg/AttackfromtheStars.pdf).
+I created an alien-invasion Fusion AU,
+called [Attack From the Stars](/2016/05/21/attack-from-the-stars/).
 
 Some people, including Jacob Possin, expressed interest on Google+ in
 running a game based in this timeline.
@@ -31,7 +31,6 @@ My alternating-Sundays gaming group wasn't satisfied with Fate Accelerated
 for the sci-fi game we're playing, called Diaspora.
 We took a break to try out [Masks](http://www.magpiegames.com/masks/),
 and we got four sessions done.
-I posted a partial recap of the game, called [Deep 13](/games/deep-13.html).
 
 I think we missed out on a chance to really explore what makes Masks unique,
 like the Influence mechanics, but it was educational and fun.
@@ -61,7 +60,7 @@ For example, here's my private chamber decorations:
 ### Helping Hand visual journal
 
 I'm working on a visual journal for the
-[Helping Hand](/fiction/helping-hand.html) super-team,
+[Helping Hand](/2016/02/22/fiction/helping-hand/) super-team,
 to flesh out their world and background a bit.
 
 You can see a few
@@ -81,7 +80,7 @@ a new game setting.
 ### The Party
 
 A friend of mine experienced a personal loss.
-In response, I wrote a brief story called [The Party](/fiction/the-party.html).
+In response, I wrote a brief story called [The Party](/2016/05/19/fiction/the-party/).
 It seems to have been well received.
 
 ### Words as Approaches

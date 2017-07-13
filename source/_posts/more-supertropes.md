@@ -6,7 +6,7 @@ tags:
 ---
 
 After writing about the
-[Top Ten Super-Tropes](/blog/2015-10-01-top-ten-supertropes.html)
+[Top Ten Super-Tropes](/2015/10/01/top-ten-supertropes/)
 that bother me the most, I thought I would talk about the tropes
 in superhero gaming that really make it work for me as a genre.
 

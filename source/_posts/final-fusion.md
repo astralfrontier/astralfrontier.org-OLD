@@ -89,4 +89,4 @@ evolution, and mutation, and less on things like psionic abilities.
 If you know of some franchise that feels like it fits the theme,
 but doesn't appear here, let me know!
 
-[Fusion AU]: /blog/2016-05-16-fusion-au.html
+[Fusion AU]: /2016/05/16/fusion-au/

@@ -3,6 +3,7 @@ date: 2015/07/06
 title: Cues
 tags:
   - cues
+  - game design
 ---
 
 I've been working on a system I call "cues". First, I'll introduce the system itself, then talk about why it's written the way it is, and some possible ways to use it.

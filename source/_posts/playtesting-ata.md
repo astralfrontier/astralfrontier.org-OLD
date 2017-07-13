@@ -76,4 +76,4 @@ in a way that doesn't disrupt the quality and advancement system.
 I want to run a bit more before I start making more sweeping changes.
 
 [Avert the Apocalypse]: /assets/rpg/AvertTheApocalypse.pdf
-[Staying Busy]: /blog/2016-06-02-staying-busy.html
+[Staying Busy]: /2016/06/02/staying-busy/

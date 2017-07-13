@@ -1,6 +1,9 @@
 ---
 date: 2015/09/29
 title: Game Design Genetics
+tags:
+  - game design
+  - pinned
 ---
 
 I've had this conversation with a few people, and it seemed helpful to them.

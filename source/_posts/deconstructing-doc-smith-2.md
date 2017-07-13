@@ -6,7 +6,7 @@ tags:
 ---
 
 This is a continuation of part 1,
-[Deconstructing Doc Smith](/blog/2016-03-24-deconstructing-doc-smith.html).
+[Deconstructing Doc Smith](/2016/03/24/deconstructing-doc-smith/).
 
 In this part, I'll be talking about the underlying model
 of a typical Doc Smith universe, the unfortunate implications

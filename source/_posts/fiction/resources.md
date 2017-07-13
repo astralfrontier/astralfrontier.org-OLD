@@ -1,6 +1,8 @@
 ---
 date: 2015-09-04
 title: Professional Writing
+tags:
+  - pinned
 ---
 
 How do you make it as a writer? Here's some suggestions.

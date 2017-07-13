@@ -156,7 +156,7 @@ Inept Sorcerers has an easy premise:
 How do you "breed" a game?
 
 I wrote a blog post called
-[Game Design Genetics](/blog/2015-09-29-game-design-genetics.html)
+[Game Design Genetics](/2015/09/29/game-design-genetics/)
 about the similarities I see between games and living organisms,
 but the capsule version I'll leave here is this:
 the game idea you start with is probably not the game idea you'll finish with,

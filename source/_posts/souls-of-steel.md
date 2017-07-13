@@ -151,6 +151,6 @@ enough to accommodate the complex dynamics you get in these sorts of works.
 I would definitely recommend it for anyone looking to play
 in a typical Giant Robot-inspired series.
 
-[Force Effect]: /fiction/force-effect.html
+[Force Effect]: /2015/09/04/fiction/force-effect/
 [GeekGirlCon]: http://geekgirlcon.com/
 [Souls of Steel]: https://plus.google.com/communities/102943199048807904747

@@ -1,9 +1,28 @@
+<%
+function postIsTaggedPinned(post) {
+    var found = false;
+    if (post && post.tags) {
+        post.tags.forEach(function(tag) {
+            if(tag.name === 'pinned') {
+                found = true;
+            }
+        })
+    }
+    return found;
+}
+var pinned_posts = [];
+site.posts.sort('date', -1).each(function(post) {
+    if (postIsTaggedPinned(post)) {
+        pinned_posts.push(post);
+    }
+})
+%>
 <div class="ui right vertical inverted sidebar" id='site-sidebar'>
-    <% if (site.posts.length){ %>
+    <% if (pinned_posts.length){ %>
     <div class="ui segment">
-        <h4>Recent Posts</h4>
+        <h4>Pinned Posts</h4>
         <div class="ui list">
-            <% site.posts.sort('date', -1).limit(5).each(function(post){ %>
+            <% pinned_posts.forEach(function(post){ %>
             <div class="item">
                 <a href="<%- url_for(post.path) %>"><%= post.title || '(no title)' %></a>
             </div>

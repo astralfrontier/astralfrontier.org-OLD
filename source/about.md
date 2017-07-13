@@ -29,7 +29,6 @@ Content                        | Author                 | License
 [Lady Knight]                  | ogitaka                | CC-BY-NC-3.0
 [lambda.png]                   | Luks                   | Public Domain
 [Landscape Carina Nebula]      | Hubble                 | Public Domain
-[milkyway]                     | Troubadour1            | CC-BY-NC-SA
 [My Bookshelf palette]         | mavey                  | CC-BY-NC-SA
 [Project Cyborg]               | Transhuman-Project     | CC-BY-NC-SA-3.0
 [Quill (PSF).svg]              | Pearson Scott Foresman | Public Domain
@@ -64,7 +63,6 @@ Some content is &copy; 2004 Blizzard Entertainment, Inc. All rights reserved. Wo
 [Lady Knight]: http://ogitaka.deviantart.com/art/Lady-Knight-463651774
 [lambda.png]: http://commons.wikimedia.org/wiki/File:Lambda_lc.svg
 [Landscape Carina Nebula]: http://commons.wikimedia.org/wiki/File:Landscape_Carina_Nebula.jpg
-[milkyway]: http://www.flickr.com/photos/9614328@N02/6034593855/
 [My Bookshelf palette]: http://www.colourlovers.com/palette/2513686/my_bookshelf
 [Paizo]: http://paizo.com/paizo/about/communityuse
 [Project Cyborg]: http://transhuman-project.deviantart.com/art/Project-Cyborg-99991151

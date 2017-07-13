@@ -54,9 +54,9 @@ Ooh. The town has neurosis "cards". They must be played in the final conflict, u
  
 I wrote some sample fiction, intended to capture the rhythm of a particular story in this game. You can read two of them here:
 
-http://astralfrontier.org/fiction/vessels/wild.html
+https://astralfrontier.org/2015/09/04/fiction/vessels/wild/
 
-http://astralfrontier.org/fiction/vessels/crown.html
+http://astralfrontier.org/2015/09/04/fiction/vessels/crown/
 
 Both of them feature what you are talking about - adherence to the emotional status quo, an act of disruption followed by a reorganization into a new status quo - and so I think we're on the same page. My earlier mistake was treating "disrupt" and "reorganize" as different versions of the same action - emotional manipulation - and I'm now thinking that they're fundamentally different.
 

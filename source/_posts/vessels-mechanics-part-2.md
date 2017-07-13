@@ -5,13 +5,13 @@ tags:
   - vessels
 ---
 
-[In the last post](/blog/2015-07-13-vessels-mechanics-part-1.html),
+[In the last post](/2015/07/13/vessels-mechanics-part-1/),
 I talked about the three phases of the "vessels" game:
 disrupt, discover, and direct.
 
 <!-- more -->
 
-In [The Crown](/fiction/vessels/crown.html), an unnamed lady knight
+In [The Crown](/2015/09/04/fiction/vessels/crown/), an unnamed lady knight
 faces a crowd filled with fear, and tries to galvanize their feelings
 of hope. Instead she faces contempt, tied to her own feelings of shame.
 How do we model what happens to her? Let's take a look at the emotional

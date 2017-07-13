@@ -86,7 +86,7 @@ to 3d10 (averaging 16.5), to 3d10+2d6 at maximum skill (averaging 23.5).
 
 ### Discoveries
 
-My [previous post](/blog/2015-08-22-grand-adventure.html) got me thinking
+My [previous post](/2015/08/22/grand-adventure/) got me thinking
 about how to specialize and develop characters.
 I wanted each PC to feel unique, and I wanted a diverse group of characters.
 I didn't want each gaming group to face a high creative cost to deliver
