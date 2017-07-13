@@ -1,0 +1,26 @@
+<div class="ui right vertical inverted sidebar" id='site-sidebar'>
+    <% if (site.posts.length){ %>
+    <div class="ui segment">
+        <h4>Recent Posts</h4>
+        <div class="ui list">
+            <% site.posts.sort('date', -1).limit(5).each(function(post){ %>
+            <div class="item">
+                <a href="<%- url_for(post.path) %>"><%= post.title || '(no title)' %></a>
+            </div>
+            <% }) %>
+        </div>
+    </div>
+    <% } %>
+
+    <% if (site.categories.length){ %>
+    <div class="ui segment">
+        <h4>Categories</h4>
+        <%- list_categories({show_count: theme.show_count}) %>
+    </div>
+    <% } %>
+
+    <div class="ui segment">
+        <h4>Tags</h4>
+        <%- tagcloud() %>
+    </div>
+</div>

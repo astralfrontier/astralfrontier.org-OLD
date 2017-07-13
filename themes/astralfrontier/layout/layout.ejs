@@ -2,7 +2,10 @@
 <html>
     <%- partial('_partial/head') %>
     <body>
-        <%- body %>
+        <%- partial('_partial/sidebar') %>
+        <div class="pusher">
+            <%- body %>
+        </div>
         <%- js('js/index.js') %>
     </body>
 </html>
