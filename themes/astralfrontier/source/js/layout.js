@@ -40,6 +40,8 @@ $(document)
 
         // Initialize site search
         $('#site-search input').focus(loadLocalContent)
+
+        $('#site-sidebar').sidebar({transition: 'overlay'})
     });
 
 window.showSidebar = function() {
