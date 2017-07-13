@@ -13,7 +13,7 @@ Let's start with some of my deeper goals.
 
 One of the things that's kept me from doing this game already is my fear about point 1. I want to write a game that conveys a specific experience. I want a game that plausibly approximates the shifting nature of peoples' feelings. The uncertainty that I feel is found in this question: *Do I really understand what that is like?*
 
-Points 1 and 2 are what keeps me from just writing a DW/AW hack and shipping. I actually had written [Simple World] rules but I was unsatisfied with them. The main reason is how I interpret how the World games handle difficulty. And the way I think of that is like a train robbery.
+Points 1 and 2 are what keeps me from just writing a DW/AW hack and shipping. I actually had written Simple World rules but I was unsatisfied with them. The main reason is how I interpret how the World games handle difficulty. And the way I think of that is like a train robbery.
 
 <!-- more -->
 
@@ -51,4 +51,3 @@ I'm turning over the idea of "advancement through introducing backstory". For ex
 [A 16 HP Dragon]: http://www.latorra.org/2012/05/15/a-16-hp-dragon/
 [Iron Man 3 clip]: https://www.youtube.com/watch?v=ord05-DeofY
 [million-to-one chance]: http://wiki.lspace.org/mediawiki/Million-to-one_chance
-[Simple World]: http://buriedwithoutceremony.com/simple-world/

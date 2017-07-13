@@ -162,4 +162,4 @@ The secrets of Pelaga might be found in some lightless cave in the Core,
 or beyond the Skywall in the forbidding and unknown Outer Sea.
 
 [Grand Adventure]: http://peppermile.com/grand-adventure.html
-[previous post]: /blog/2016-10-15-talispire.html
+[previous post]: /2016/10/15/talispire/

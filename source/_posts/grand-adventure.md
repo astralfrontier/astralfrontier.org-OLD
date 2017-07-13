@@ -135,4 +135,4 @@ This is a special attack that does extra damage,
 and costs 5 AP to activate as well as having an Action Cost of 4.
 
 [Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html
-[It Was There, Honest!]: /blog/2015-07-08-it-was-there-honest.html
+[It Was There, Honest!]: /2015/07/08/it-was-there-honest/

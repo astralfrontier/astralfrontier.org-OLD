@@ -78,4 +78,4 @@ Watch "Oremonogatari" if you want to see an unconventional but sincere romance w
 no particular villain, good-hearted characters, and an exploration of relationships
 both romantic and otherwise.
 
-[Kimi ni Todoke]: /review/kimi-ni-todoke.html
+[Kimi ni Todoke]: /2016/07/15/review/kimi-ni-todoke/

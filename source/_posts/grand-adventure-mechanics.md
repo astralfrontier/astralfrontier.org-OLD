@@ -146,5 +146,5 @@ Each verb should come with a suggested list of stock twists,
 to help the GM out, and each verb should have some pretty
 distinct rules. But I'll talk about those in another post.
 
-[Cues]: /blog/2015-07-06-cues.html
+[Cues]: /2015/07/06/cues/
 [Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html

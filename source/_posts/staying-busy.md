@@ -37,7 +37,7 @@ like the Influence mechanics, but it was educational and fun.
 
 Following that, I put together a short set of rules, called
 [Avert the Apocalypse](/assets/rpg/AvertTheApocalypse.pdf),
-based on [Simple World](http://buriedwithoutceremony.com/simple-world/).
+based on Simple World.
 I tried to capture the typical things the Diaspora PCs were doing,
 then encode those into stats and moves.
 I included a sample character based on my own PC ("D7"),

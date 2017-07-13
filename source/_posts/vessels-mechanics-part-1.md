@@ -11,9 +11,9 @@ situation? What is the right way to model influencing those emotions?
 
 <!-- more -->
 
-I put up some [notes](/games/vessels-notes.html) from a conversation I
-had with a friend on G+, who's a subject matter expert on the brain.
-This was thoroughly enlightening, and gave me a model to work from:
+I had a conversation with a friend on G+,
+who's a subject matter expert on the brain.
+This was thoroughly enlightening, and gave me a model to work from.
 
 In the game, the basic cycle of manipulation is:
 
