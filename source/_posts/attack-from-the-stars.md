@@ -30,7 +30,7 @@ The Leviathans are the oldest known intelligence. They evolved in
 water. Leviathans were enormous in size and reminiscent of Earth's squid
 in overall design. Multiple eyes, tentacles, and a rigid armored plate
 system made them physically formidable, while an unexplained mental
-power let them dominate lesser organisms.
+power let them dominate lesser organisms. ^[[Mass Effect: Leviathan](http://masseffect.wikia.com/wiki/Leviathan)]
 
 Like many races to come, the Leviathans fell victim to their own
 creations, the synthetic Reapers, over a billion years before humanity
@@ -39,7 +39,7 @@ costs, the Reapers entered an eternal cycle: allow new civilizations to
 evolve, grow, and spread, then harvest them to create new Reapers. The
 Reapers established the Mass Relay network, and the Citadel, as tools
 for their continual processing of organic life throughout the
-galaxy.
+galaxy. ^[[Mass Effect: Reaper](http://masseffect.wikia.com/wiki/Reaper)]
 
 The Leviathans were not wholly destroyed. Pockets of survivors erased
 all signs of their presence from the galaxy using their technology and
@@ -48,6 +48,7 @@ time, a "Supervision Army", that would protect their most secret hiding
 places. They retreated to the deepest caverns of the oceans of forgotten
 worlds, and brooded. They would be remembered only in myths and fables
 told by successor races, known by names such as "the Protodeviln".
+^[[Macross: Protodeviln](http://macross.wikia.com/wiki/Protodeviln)]
 
 ![breetai-azonia.png](/assets/attack-from-the-stars/image9.png) {.ui .medium .right .floated .image}
 
@@ -58,10 +59,10 @@ successful, others were not.
 Nearly 500,000 years before human space-flight, a race of beings known
 as the "protoculture" dominated the galaxy. They were the first
 humanoids to evolve in the galaxy, and seeded it with life modeled on
-their own. In time, the Reapers came
-for them, and they created the Zentradi army, a race of organic
-warriors, to defend themselves. Though
-the protoculture was eventually destroyed as a society, the Zentradi
+their own. ^[[Macross: Protoculture](http://macross.wikia.com/wiki/Protoculture)]
+In time, the Reapers came for them, and they created the Zentradi army,
+a race of organic warriors, to defend themselves. ^[[Macross: Zentraedi](http://macross.wikia.com/wiki/Zentradi)]
+Though the protoculture was eventually destroyed as a society, the Zentradi
 were too numerous and too powerful to wipe out as well. These clone
 warriors left the galaxy, searching for their enemy.
 
@@ -73,7 +74,7 @@ BCE, a human-like race of such survivors called the "Forerunners" ruled
 an empire of a million worlds thanks to their dominance of the Citadel
 and the Mass Relay network. They in turn had wrested the galaxy from
 their elder race, the "Precursors", an older and different survival of
-the protoculture's humanoid species.
+the protoculture's humanoid species. ^[[Halo: Forerunner](http://halo.wikia.com/wiki/Forerunner)]
 
 When the Reapers came for them, the Forerunners faced a complication:
 the Flood, a malignant and perverted viral form of the Precursors
@@ -82,7 +83,7 @@ forming vast networked intelligences and mutating whatever life it came
 in contact with, as a sort of biological reflection of the Reapers
 themselves. This, the ultimate Precursor weapon against the Reapers of
 their time, threatened to destroy the Forerunners in a final act of
-vengeance.
+vengeance. ^[[Halo: Flood](http://halo.wikia.com/wiki/Flood)]
 
 ![flood-thumbnail-708x398-051a8c0f98a84b49a828010da2d435a5.jpg](/assets/attack-from-the-stars/image35.jpg) {.ui .medium .right .floated .image}
 
@@ -96,7 +97,7 @@ protoculture, they had taken a different evolutionary turn. They had
 multiple eyes and nostrils, a thick carapace, and a unique genetic
 structure. They had a mental power like the Leviathans, but one for
 communicating and transmitting thought rather than dominating
-it.
+it. ^[[Mass Effect: Prothean](http://masseffect.wikia.com/wiki/Prothean)]
 
 Twenty thousand years later, the Reapers came again. The Protheans had
 learned of the Halo Array and used its advanced design in the
@@ -104,7 +105,7 @@ construction of a new weapon, called the Crucible. They were unable to
 construct it in time, due to the vast resources it would require.
 Instead, they entrusted the schematics to the future, storing them in a
 repository on the planet Mars, just prior to their own
-fall.
+fall. ^[[Mass Effect: Crucible](http://masseffect.wikia.com/wiki/Crucible)]
 
 ![The-Prothean-mass-effect-3-29578058-1920-1080.jpg](/assets/attack-from-the-stars/image23.jpg) {.ui .medium .right .floated .image}
 
@@ -115,13 +116,13 @@ created drones, spread across the stars on Prothean starships. When the
 last Protheans came to Mars to bury their secrets, some samples of the
 infection came with them. And when a chunk of Mars was ejected toward
 Earth in 35,000 BCE, the Flood's spores went too, in the form of a
-"black oil".
+"black oil". ^[[X-Files: Fight the Future](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheXFilesFightTheFuture)]
 
 Circa 20,000 BCE, the Supervision Army of the Leviathans was alive and
 well. A genetically engineered race drawn from Leviathan DNA and
 possessing their mental dominance power, called the "Ur-Quan", were
 steadily building an invasion force they called the Hierarchy by
-capturing and brainwashing aliens.
+capturing and brainwashing aliens. ^[[Star Control](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarControl)]
 
 Circa 3,000 BCE, a race of "Gems", silicon-based lifeforms who project
 humanoid bodies with advanced psychokinesis, come to Earth with the
@@ -129,21 +130,21 @@ intent of creating more of their kind and transforming Earth into a
 colony world. They are thwarted by an insurgent faction more interested
 in preserving Earth life. The insurgents manage to drive the invasion
 force back home, cutting off their access to the planet, then remain for
-the next several millennia.
+the next several millennia. ^[[Steven Universe](http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/StevenUniverse)]
 
 Age of Invasion (1947 - 2012)
 ------------------------------
 
 Earth's interaction with alien life during this time is dominated by
-three factions: the Reticulans, the Mor-Taxans, and the Hierarchy.
+three factions: the Reticulians, the Mor-Taxans, and the Hierarchy.
 
 ![XFilesGrey.jpg](/assets/attack-from-the-stars/image18.jpg) {.ui .small .right .floated .image}
 
-The Reticulans are a race of large-eyed, gray-skinned aliens. Their
+The Reticulians are a race of large-eyed, gray-skinned aliens. Their
 biochemistry is not based on carbon. They are cautious, cunning, and
 manipulative. They have been partially taken over by the Flood, and
 their mission is to colonize and hybridize other life-forms in
-preparation for the Flood's resurgence.
+preparation for the Flood's resurgence. ^[[X-Files: Reticulian](http://x-files.wikia.com/wiki/Reticulian)]
 
 ![War\_worlds\_spielberg\_43\_x.jpg](/assets/attack-from-the-stars/image10.jpg) {.ui .small .left .floated .image}
 
@@ -152,22 +153,22 @@ each with three fingers, and a three-lobed eye on a neckless head.
 Physically they are closer to jellyfish than mammals. They are
 emotionless, dispassionate, and organized in a caste structure. Their
 goal on Earth to secure the secrets of the
-Protheans.
+Protheans. ^[[War of the Worlds: Mor-Taxan](http://waroftheworlds.wikia.com/wiki/Mor-Taxan)]
 
 ![star\_control\_kohr\_ah\_ur\_quan\_by\_dczanik-d2z6mty.jpg](/assets/attack-from-the-stars/image11.jpg) {.ui .small .right .floated .image}
 
 The Hierarchy is the cluster of races held in thrall by the Ur-Quan
 "masters". Each race has different strengths and weaknesses, but all
 work together to facilitate invasions of other
-planets.
+planets. ^[[Ur-Quan Hierarchy](http://wiki.uqm.stack.nl/Ur-Quan_Hierarchy)]
 
 ### Arrival
 
-The Reticulans and the Mor-Tax were both aware of the Prothean presence
+The Reticulians and the Mor-Tax were both aware of the Prothean presence
 in the Solar System millennia ago, and were convinced that the Protheans
 may have hidden something on Earth.
 
-The Reticulans begin to scout the Earth. In 1947, a fault causes one of
+The Reticulians begin to scout the Earth. In 1947, a fault causes one of
 their stealth ships to fail and crash over Roswell, New Mexico. The
 United State's armed forces immediately seize control of the wreckage
 and begin to analyze it. What they discover alarms the American
@@ -176,7 +177,7 @@ government.
 Several secret programs are initiated to deal with this new alien
 threat. These include Black Mesa, Project 9, and Majestic 12. Black
 Mesa's charter is the study of the exotic physics and anomalous
-materials used to construct the Reticulans' craft. Project 9 studies the
+materials used to construct the Reticulians' craft. Project 9 studies the
 aliens' biology. Majestic 12 is assigned to creating cover stories,
 falsify or distort news reports, and otherwise manage the public
 relations concerning aliens.
@@ -192,9 +193,9 @@ interest.
 
 The government's preparations pay off in 1953, when the Mor-Taxans land
 in Grover's Mill, New Jersey and begin their invasion of America using
-giant mechanical tripods. The
-Syndicate launches a biological counter-attack using a substance called
-the "black oil", discovered in the Reticulan wreckage. The Mor-Taxans
+giant mechanical tripods. ^[[War of the Worlds](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheWarOfTheWorlds)]
+The Syndicate launches a biological counter-attack using a substance called
+the "black oil", discovered in the Reticulian wreckage. The Mor-Taxans
 are captured and sealed away in steel barrels filled with the oil.
 Unfortunately, their unique biology began to adapt to it, even gaining
 some of the Flood's ability to infect other life-forms.
@@ -204,7 +205,8 @@ on an Army base near Santa Mira, California escape their containers.
 They begin infiltrating human hosts, intent on conquering humanity from
 within. This attempt is thwarted by a few brave citizens such as Dr.
 Miles Bennett, who reveals his findings to the
-FBI. This prompts the Bureau to open
+FBI. ^[[Invasion of the Body Snatchers](http://tvtropes.org/pmwiki/pmwiki.php/Film/InvasionOfTheBodySnatchers1956)]
+This prompts the Bureau to open
 a set of files on incidents which could be due to alien action, dubbed
 the "X-Files".
 
@@ -214,14 +216,13 @@ Elsewhere in the world, other governments are secretly preparing for
 the alien threat, which they became aware of through spies in the
 American government. A secret group called the Global Alliance is put
 together to keep the existence of aliens secret, and to hunt aliens who
-interfered with humanity. It is
-joined by luminaries such as Professor Bernard Quatermass, whose British
+interfered with humanity. ^[[The Roswell Conspiracies](http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/RoswellConspiracies)]
+It is joined by luminaries such as Professor Bernard Quatermass, whose British
 Rocket Group analyzes an alien device in 1958, found buried under
 London, and finds evidence of prehistoric tampering with human beings in
-an attempt to give them psychic
-powers.
+an attempt to give them psychic powers. ^[[Professor Quatermass](http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Quatermass)]
 
-The Reticulans, meanwhile, send a second expedition back to Earth. They
+The Reticulians, meanwhile, send a second expedition back to Earth. They
 manage to learn about the Syndicate's existence and open a dialogue with
 key members. The Syndicate is shown enough of the gray aliens'
 capabilities to become convinced that Earth could not survive a
@@ -231,14 +232,13 @@ government that prepared to facilitate, rather than oppose, the
 invasion.
 
 In 1982, a Norwegian Antarctic base sends out personnel who get too
-close to a Reticulan secret base buried under the ice. It is destroyed
+close to a Reticulian secret base buried under the ice. It is destroyed
 by a shapeshifting creature, possibly a sample of the Flood, who then
-almost completely destroys a nearby American
-outpost.
+almost completely destroys a nearby American outpost. ^[[The Thing](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheThing1982)]
 
 In 1987, American commandos on a mission to rescue a VIP from a jungle
 prison encounter an unknown alien life form, which apparently takes
-pleasure in stalking them.
+pleasure in stalking them. ^[[Predator](http://tvtropes.org/pmwiki/pmwiki.php/Film/Predator)]
 
 ### Awakening
 
@@ -247,7 +247,7 @@ Mor-Taxans. They promptly take over the terrorists' bodies and resumed
 their invasion plans. A small group consisting of Harrison Blackwood,
 Colonel Paul Ironhorse, computer expert Norton Drake, Dr. Suzanne
 McCullough, and her daughter Debi, worked to uncover, understand, and
-oppose the Mor-Taxans' actions.
+oppose the Mor-Taxans' actions. ^[[War of the Worlds](http://tvtropes.org/pmwiki/pmwiki.php/Series/WarOfTheWorlds)]
 
 ![They-Live.jpg](/assets/attack-from-the-stars/image4.jpg) {.ui .medium .right .floated .image}
 
@@ -259,11 +259,10 @@ recipients of these sunglasses, an itinerant blue-collar worker, is
 shocked by what he sees. He goes on the run as the aliens discover he
 can see them, eventually taking a hostage and being betrayed. He manages
 to destroy a crucial transmitter used by the Mor-Taxans to transmit
-their hypnotic influence throughout Los
-Angeles.
+their hypnotic influence throughout Los Angeles. ^[[They Live](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheyLive)]
 
 A city-wide panic is barely averted by Majestic 12, working with the
-Reticulans, but the revelation of the Mor-Taxans allows Majestic and the
+Reticulians, but the revelation of the Mor-Taxans allows Majestic and the
 Syndicate to complete Blackwood's mission and wipe the aliens out
 completely.
 
@@ -272,23 +271,23 @@ completely.
 FBI special agent Dana Scully is assigned to long-time X-Files
 researcher Fox Mulder in 1994. Together, the pair spend the next several
 years researching mysterious cases, including the prior alien
-incursions. Some of their
-information comes from abductee claims made by individuals such as
+incursions. ^[[X-Files](http://tvtropes.org/pmwiki/pmwiki.php/Series/TheXFiles)]
+Some of their information comes from abductee claims made by individuals such as
 Travis Walton, who reported being taken to an alien spacecraft and
-having horrific experiments performed on him.
+having horrific experiments performed on him. ^[[Fire in the Sky](http://tvtropes.org/pmwiki/pmwiki.php/Film/FireInTheSky)]
 
 In 1995, Mulder and Scully investigate an effort by the Syndicate to
-create human-Reticulan hybrids, who will help facilitate the aliens'
+create human-Reticulian hybrids, who will help facilitate the aliens'
 takeover of Earth. One of these, created by Project 9, is dubbed "Sil".
 She escapes her holding facility and is driven by instinct to attempt to
 mate with human beings and reproduce. She is eventually killed by the
 team assigned to track her, including  Dr. Stephen Arden, Dr. Laura
-Baker, Dan Smithson, and Preston Lennox.
+Baker, Dan Smithson, and Preston Lennox. ^[[Species](http://tvtropes.org/pmwiki/pmwiki.php/Film/Species)]
 
 ![Species.1995-movie-1.jpg](/assets/attack-from-the-stars/image25.jpg) {.ui .medium .right .floated .image}
 
 The Global Alliance has managed to deal with isolated alien
-disturbances - the result of other species' interest in the Reticulan
+disturbances - the result of other species' interest in the Reticulian
 and Mor-Taxan presence on Earth - but are unable to infiltrate or
 interfere with these races' activities.
 
@@ -296,13 +295,13 @@ interfere with these races' activities.
 
 As of 1997, UFO sightings have been increasing steadily, and the Global
 Alliance's best intelligence shows "something big" coming soon, thanks
-to an analysis of signals by astronomer  Zane
-Zaminski. In 1998, they invite members of the Blackwood Project,
+to an analysis of signals by astronomer Zane Zaminski. ^[[The Arrival](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheArrival)]
+In 1998, they invite members of the Blackwood Project,
 the Project 9 tracking team, selected FBI special agents,
 and other individuals to join a new organization.
 Their charter remains the same: investigate, contain, or eliminate alien
 threats. This new organization is known as X-COM and will work
-semi-openly with the government.
+semi-openly with the government. ^[[X-COM](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/XCom)]
 
 The Hierarchy begins its invasion of Earth with the first of three
 waves. This wave, led by the Gua species, arrives in 1997. The Gua don't
@@ -310,7 +309,7 @@ physically exist on Earth; instead, they clone "husks" from human DNA,
 implanting them with alien tech, and transfer their consciousness into
 the husks. They begin experimenting with humans to determine their
 vulnerabilities, but also to probe for Prothean secrets or evidence of
-Flood contamination.
+Flood contamination. ^[[First Wave](http://tvtropes.org/pmwiki/pmwiki.php/Series/FirstWave)]
 
 ![MV5BMzM3MDYxNTYwMV5BMl5BanBnXkFtZTgwMjg0MjUzMDE@.\_V1\_SX640\_SY720\_.jpg](/assets/attack-from-the-stars/image20.jpg) {.ui .medium .right .floated .image}
 
@@ -318,15 +317,15 @@ Reformed thief Cade Foster, one of the Gua test subjects, escapes
 confinement. He is framed for the murder of his wife - really a Gua husk -
 and goes on the run. Elsewhere, Gua experiments on high school
 populations are disrupted by unlikely alliances between different
-cliques of students.
+cliques of students. ^[[The Faculty](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheFaculty)]
 
 Cade Foster manages to get in contact with X-COM and inform them of the
 existence of the Gua. Mulder and Scully finally learn the truth after
 pursuing the Foster case themselves. Following further leads, the two
-agents independently uncover a Reticulan spacecraft in Antarctica. The
-Reticulans, now knowing the Hierarchy is coming, launch their
+agents independently uncover a Reticulian spacecraft in Antarctica. The
+Reticulians, now knowing the Hierarchy is coming, launch their
 spacecraft, taking with it numerous hybrid experiments and aliens, and
-abandon the Earth.
+abandon the Earth. ^[[X-Files: Fight the Future](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheXFilesFightTheFuture)]
 
 ### The Second Wave
 
@@ -338,7 +337,7 @@ Wave arrives. The Hierarchy's fleet of massive starships - the largest
 on par with Earth's moon - enters Earth's orbit. The ships attack major
 population centers in a devastating bombardment.
 
-The Syndicate, abandoned by their Reticulan allies, takes a gamble and
+The Syndicate, abandoned by their Reticulian allies, takes a gamble and
 hands over the alien data it has been collecting since 1947. Based on
 this data, the President authorizes a nuclear strike, but it is
 ineffective due to the Hierarchy ships' force fields.
@@ -350,7 +349,7 @@ are instrumental in delivering a nuclear device to the fleet mothership
 in one of the Hierarchy's own fighter craft, using these access codes to
 bypass the shields. The destruction of the mothership, and other ships
 in the fleet, ends the immediate threat of Earth's
-destruction.
+destruction. ^[[Independence Day](http://tvtropes.org/pmwiki/pmwiki.php/Film/IndependenceDay)]
 
 ![5531442823\_33ac9983cb\_b.jpg](/assets/attack-from-the-stars/image16.jpg) {.ui .medium .left .floated .image}
 
@@ -358,13 +357,11 @@ Several of the Hierarchy's other alien races have already landed. X-COM
 is mobilized to deal with these forces. One minor species, for whom
 water is acidic, is apparently sent to Earth as a joke by the Ur-Quan
 masters, who also used their psychic powers to compel human beings to
-create crop circles as signals for them to
-follow.
+create crop circles as signals for them to follow. ^[[Signs](http://tvtropes.org/pmwiki/pmwiki.php/Film/Signs)]
 
 One of the damaged Hierarchy ships soft-lands on South Ataria
 island.Scientists begin an immediate program to salvage and repair it,
-dubbing it the "Super Dimension Fortress", or
-SDF.
+dubbing it the "Super Dimension Fortress", or SDF. ^[[Macross](http://tvtropes.org/pmwiki/pmwiki.php/Anime/SuperDimensionFortressMacross)]
 
 ### Black Mesa
 
@@ -385,7 +382,7 @@ chaos.
 As a result of the resonance cascade, an extradimensional faction of
 aliens known as the Nihilanth send their foot soldiers - headcrabs,
 vortigaunts, and other creatures - through dimensional portals opened by
-the cascade.
+the cascade. ^[[Half-Life](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HalfLife)]
 
 X-COM's HECU (Hazardous Environment Combat Unit) is dispatched to Black
 Mesa to contain the situation and deal with the alien presence. Thanks
@@ -394,8 +391,7 @@ Mesa were deliberately attempting to create a dimensional breach and
 facilitate an invasion of Earth. The HECU is unprepared for the
 outpouring of creatures from the portals, and only Corporal Adrian
 Shephard is the only survivor of his unit. He witnesses Dr. Freeman
-crossing the dimensional barrier in the Lambda Complex of Black
-Mesa.
+crossing the dimensional barrier in the Lambda Complex of Black Mesa.
 
 Dr. Freeman enters the "border world" of Xen, fighting the Nihilanth's
 forces using military weaponry supplied by the Lambda team. He is able
@@ -428,7 +424,7 @@ Survivors of the earlier waves of invasion are debriefed using
 hypnosis, and their stories are studied and correlated by government
 psychologists in the hope that useful intelligence will emerge. Many of
 their stories include mention of certain animals or distinct
-odors.
+odors. ^[[The Fourth Kind](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheFourthKind)]
 
 ![0f21f0349462cacdc5796990d37760ae\_567x210.jpg](/assets/attack-from-the-stars/image33.jpg) {.ui .medium .right .floated .image}
 
@@ -457,16 +453,16 @@ Zentradi threat back to humanity's homeworld.
 
 In 2011, the Third Wave of the Hierarchy comes to Earth. Aliens in
 biomechanical suits attack major cities like Los Angeles, and encounter
-opposition from UN Spacy's marine forces. Elsewhere, other aliens use
-hypnotic blue beams to hypnotize and teleport humans away for forced
-conversion into biomechanical components of the alien war
-machine.
+opposition from UN Spacy's marine forces. ^[[Battle Los Angeles](http://tvtropes.org/pmwiki/pmwiki.php/Film/BattleLosAngeles)]
+Elsewhere, other aliens use hypnotic blue beams to hypnotize and teleport
+humans away for forced conversion into biomechanical components
+of the alien war machine. ^[[Skyline](http://tvtropes.org/pmwiki/pmwiki.php/Film/Skyline)]
 Mysterious energy-eating aliens land in Moscow and begin disintegrating the populace, with a few
-survivors managing to evacuate via submarine. Navies engage the aliens
-in the open ocean, notably the USS John Paul Jones which
-manages to destroy an alien flagship.
+survivors managing to evacuate via submarine. ^[[The Darkest Hour](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheDarkestHour)]
+Navies engage the aliens in the open ocean, notably the USS John Paul Jones which
+manages to destroy an alien flagship. ^[[Battleship](http://tvtropes.org/pmwiki/pmwiki.php/Film/Battleship)]
 A few unintelligent but vicious alien parasites land in places like Brixton,
-to be fended off by local street gangs.
+to be fended off by local street gangs. ^[[Attack the Block](http://tvtropes.org/pmwiki/pmwiki.php/Film/AttackTheBlock)]
 
 ![Edge-of-Tomorrow-Reviews-Starring-Tom-Cruise-and-Emily-Blunt.jpg](/assets/attack-from-the-stars/image31.jpg) {.ui .medium .left .floated .image}
 
@@ -479,7 +475,7 @@ Jackets, and a mysterious property of the mimic blood that allows the
 affected person to mentally travel backwards in time, soldiers William
 Cage and Rita Vrataski are able to locate the master "Omega" mimic and
 destroy it. With the source of their time-winding powers destroyed, the
-tide is turned against the mimics.
+tide is turned against the mimics. ^[[Edge of Tomorrow](http://tvtropes.org/pmwiki/pmwiki.php/Film/EdgeOfTomorrow)]
 
 Age of Destruction (2012 - 2050)
 ---------------------------------
@@ -519,10 +515,9 @@ somewhat intact. In 2013, the forces of the Nihilanth on the border
 world of Xen use one of these ship's fold engines to open a dimensional
 breach in the Pacific Ocean. They send gigantic biologically engineered
 monsters, called "kaiju" by the humans, through this breach to attack a
-war-ravaged and exhausted
-humanity. The first emerge of a
-kaiju is later known as "K-Day", and is documented by citizen
-journalists such as Hudson Platt.
+war-ravaged and exhausted humanity. ^[[Pacific Rim](http://tvtropes.org/pmwiki/pmwiki.php/Film/PacificRim)]
+The first emerge of a kaiju is later known as "K-Day", and is documented by citizen
+journalists such as Hudson Platt. ^[[Cloverfield](http://tvtropes.org/pmwiki/pmwiki.php/Film/Cloverfield)]
 
 By 2015, conventional military forces have proven thoroughly
 ineffective against kaiju incursions. This "Small War" causes military
@@ -555,7 +550,7 @@ space-fold engine.
 In 2041, it is discovered that the Nihilanth sent through numerous
 smaller forces in addition to the kaiju, and that these have been
 building up military bases under the ocean. UN Spacy comes under attack,
-but defeats them within a few years.
+but defeats them within a few years. ^[[X-COM: Terror From the Deep](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/XcomTerrorFromTheDeep)]
 
 2045 marks the centennial of the second World War and the end of alien
 hostilities on Earth. Mankind, shattered, exhausted, but alive, makes a
@@ -581,11 +576,11 @@ experiment with a limited version of the space-fold engine, called
 "transtar". Their biggest enemy is not an alien force, but a mad
 scientist who calls himself "Emperor Dark", and makes use of alien
 technology provided by an unidentified
-species.
+species. ^[[STARCOM](http://futurewarstories.blogspot.com/2011/09/msf-oddities-starcom-us-space-force.html)]
 
 In 2059, a mysterious constellation of fold portals opens over Earth,
 and an insect-like alien species emerges for a few minutes. They
-disappear as quickly as they came.
+disappear as quickly as they came. ^[[Macross Frontier](http://tvtropes.org/pmwiki/pmwiki.php/Anime/MacrossFrontier)]
 
 Armstrong Outpost becomes UN Spacy's biggest military base on the Moon,
 centered on the Shackleton Crater. It is inaugurated in 2069, a century
@@ -605,14 +600,14 @@ promising. A disastrous accident overtakes the Phobos base in 2072, and
 forces brought through the space fold kill or mutate almost everyone in
 the facility. The only survivor is an anonymous UN Spacy marine, who
 fights his way through the hordes of altered creatures to shut down the
-experiment.
+experiment. ^[[Doom](http://tvtropes.org/pmwiki/pmwiki.php/Videogame/Doom)]
 
 Despite this setback, the Manswell Expedition departs in 2075, bound
 for the Alpha Centauri system. They will not be not heard from for over
 a century. Speculation at the time that the space fold drives
 malfunctioned or went off course renews determination not to use the
 technology until it is better
-understood.
+understood. ^[[Mass Effect: Manswell Expedition](http://masseffect.wikia.com/wiki/Manswell_Expedition)]
 
 In 2080, the United Nations institutes organizational changes to UN
 Spacy. The Manswell Expedition exposed a weakness in how the military
@@ -626,7 +621,7 @@ Decades prior, scientist Hsien Ho led a project to create
 "androsynths", a synthetic humanoid that would aid mankind in rebuilding
 a shattered planet. In 2085, an androsynth rebellion is put down, but
 numerous androsynths are unaccounted for, and it is widely believed that
-they folded out of the solar system.
+they folded out of the solar system. ^[[Star Control](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarControl)]
 
 ![prometheus.jpg](/assets/attack-from-the-stars/image21.jpg) {.ui .medium .right .floated .image}
 
@@ -636,15 +631,15 @@ Aboard is corporate founder Peter Weyland, the androsynth "David 8", and
 a complement of scientists including Dr. Ellie M. Shaw. Their goal is to
 discover the source of the "black oil" and perhaps trace the origins of
 life on Earth. LV-223 is one of three moons located in Zeta Reticuli,
-the home constellation of the Reticulans that dealt with the Syndicate.
+the home constellation of the Reticulians that dealt with the Syndicate.
 The expedition is also never heard from
-again.
+again. ^[[Prometheus](http://tvtropes.org/pmwiki/pmwiki.php/Film/Prometheus)]
 
 In 2103, the European Space Agency's Lowell City becomes the first
 permanent human settlement on Mars. Located in Eos Chasma, the site
 seems ideal at first. However, satellites and local observations in the
 area give unusual readings, and strange phenomena earn the area a
-reputation for being "haunted".
+reputation for being "haunted". ^[[Mass Effect: Mars](http://masseffect.wikia.com/wiki/Mars)]
 
 ![zq3gtmm3t9ksh3linwld.jpg](/assets/attack-from-the-stars/image1.jpg) {.ui .small .right .floated .image}
 
@@ -652,7 +647,7 @@ Inspired by the old stories of the Global Alliance and their "Roswell
 conspiracies", the son of Lowell City's Mayor Jones assembles a few
 friends, and a caniform androsynth companion, to investigate haunting
 rumors in the hope of discovering new forms of alien
-life.
+life. ^[[Scooby Doo Mystery Incorporated](http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ScoobyDooMysteryIncorporated)]
 
 In 2112, Ceres Base is constructed by Star Control. This marks the
 largest space-borne military outpost, and the current extent of
@@ -673,7 +668,7 @@ silicon, crystalline beings, with advanced technology and high
 intelligence. They are aware of the Hierarchy's invasion of Earth in
 1999, and offer humanity a place in the "Alliance of Free Stars", which
 intends to combat the Hierarchy and their Ur-Quan
-masters.
+masters. ^[[Star Control](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarControl)]
 
 After a few weeks of deliberation, and system-wide voting, humans join
 the Alliance. They join the Chenjesu, the Mmrnmhrm (mechanical
@@ -685,8 +680,8 @@ race), the Shofixti (marsupials uplifted by the Yehat), and the Syreen
 
 The Nostromo, a cargo spaceship carrying raw materials for
 the war effort, disappears after investigating a signal on planet
-LV-426. Hierarchy interference is
-thought to be responsible.
+LV-426. ^[[Alien](http://tvtropes.org/pmwiki/pmwiki.php/Film/Alien)]
+Hierarchy interference is thought to be responsible.
 
 By 2126 the Alliance is ready for war. Humans contribute material and
 labor, while the other races provide technological assistance. The next
@@ -751,7 +746,7 @@ out that the inhabitants of a mining town on Mars have been killed or
 have disappeared. The cause is a series of psychic emanations from the
 Prothean cache, reacting to the imminent approach of the Reapers,
 causing local humans to become "possessed", ritually scarify themselves,
-and attack anyone not also possessed.
+and attack anyone not also possessed. ^[[Ghosts of Mars](http://tvtropes.org/pmwiki/pmwiki.php/Film/GhostsOfMars)]
 
 ![Newt\_and\_Ripley\_after\_Crash.png](/assets/attack-from-the-stars/image36.png) {.ui .medium .right .floated .image}
 
@@ -763,7 +758,7 @@ acting as a special advisor. Together they discover an infestation of
 Flood xenomorphs. The survivors destroy the colony, and the infestation,
 using the colony's nuclear reactor by causing it to go critical. Only
 Ripley, Corporal Dwayne Hicks, and a surviving colonist named Newt
-survive the incident.
+survive the incident. ^[[Aliens](http://tvtropes.org/pmwiki/pmwiki.php/Film/AlienS)]
 
 ![Mass-effect-saren-geth.jpg](/assets/attack-from-the-stars/image14.jpg) {.ui .medium .left .floated .image}
 
@@ -773,14 +768,14 @@ secretly allied with the Reaper Sovereign, in preparation for the
 Reapers' repeated conquest and destruction of organic life in the
 galaxy. One member of the Systems Alliance, Commander Shepard, is
 instrumental in relaying information about the Reapers to the Citadel
-Council.
+Council. ^[[Mass Effect](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect1)]
 
 In 2185, Shepard is revived by a human-supremacist terrorist
 organization called Cerberus. The Commander investigates disappearances
 on human colonies, uncovering the actions of a race called the
 Collectors. In reality, these are indoctrinated remnants of the
 long-lost Protheans, created by the Reapers as
-tools.
+tools. ^[[Mass Effect 2](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect2)]
 
 ![Crucible\_under\_construction.png](/assets/attack-from-the-stars/image26.png) {.ui .medium .right .floated .image}
 
@@ -793,7 +788,7 @@ construct and fire it.
 As the Reapers approach and besiege Earth, Shepard activates the
 Crucible. It fires, destroying the Reapers, but also crippling or
 damaging the mass relay network throughout the
-galaxy.
+galaxy. ^[[Mass Effect 3](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect3)]
 
 Age of War (2199 - 2699)
 -------------------------
@@ -824,7 +819,7 @@ SDF's main gun, and a modified version of the space-fold engine.
 The Yamato completes its one-year journey to Iscandar,
 eventually defeating the Gamilas invasion forces and learning their
 secret: their own planet is dying, and they had hoped to use Earth as a
-new world.
+new world. ^[[Space Battleship Yamato](http://tvtropes.org/pmwiki/pmwiki.php/Anime/SpaceBattleshipYamato)]
 
 Expeditions to Epsilon Eridani uncover several alien races in the
 region. In 2245, the commander of the Earth vessel
@@ -844,7 +839,7 @@ established in Epsilon Eridani space by the Earth forces. Recognizing
 the value the Citadel provided as a place for diplomacy and commerce,
 mankind inaugurates their own version of the concept, the "Babylon"
 station. Babylon 5 welcomes ambassadors from the rival Centauri and Narn
-races, as well as many other aliens.
+races, as well as many other aliens. ^[[Babylon 5](http://tvtropes.org/pmwiki/pmwiki.php/Series/BabylonFive)]
 
 ![rn4lrg.jpg](/assets/attack-from-the-stars/image39.jpg) {.ui .medium .right .floated .image}
 
@@ -854,7 +849,7 @@ speculates that the Bugs were created from the rachni and have been
 observing the Earth-Gamilas conflict to learn about Terran weaknesses.
 The armed forces mobilize to strike back against the Bugs, tracking them
 to their home base on the planet
-Klendathu.
+Klendathu. ^[[Starship Troopers](http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StarshipTroopers)]
 
 By 2261, Earth - thanks to the attacks from the Bugs - has become
 increasingly militarized and fascistic. The leadership limits voting and
@@ -907,13 +902,13 @@ humanity is effectively heresy.
 The next twenty-eight years sees a continual state of war between the
 UNSC and the Covenant. In 2552, the Covenant come to Reach and
 eventually prevail over the human military forces protecting
-it.
+it. ^[[Halo Reach](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HaloReach)]
 
 At the same time, a human ship called the Pillar of
 Autumn comes across one Halo, now infected by the Flood and
 under the control of the Covenant. They prevent the firing of the Halo
 (an event which would wipe out much of the organic life in the galaxy,
-as had happened once before).
+as had happened once before). ^[[Halo](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HaloCombatEvolved)]
 
 The next six years is a whirlwind of warfare. The UNSC struggles to
 protect humankind against the Covenant, while dealing with the
@@ -921,19 +916,19 @@ resurgence of the Flood, the activation of Forerunner artifacts, and an
 eventual invasion of Earth. The Battle of Installation 00 marked the
 effective end of the Covenant, as it was torn apart by internal schisms,
 the assassination of key leaders, and the stresses of
-war.
+war. ^[[Halo 3](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Halo3)]
 
 ![wing-4.jpg](/assets/attack-from-the-stars/image28.jpg) {.ui .medium .left .floated .image}
 
 In 2629, humans encounter a race of hostile feline aliens called the
 Kilrathi. From then until 2671, sporadic fighting between the two
 species keeps humanity on a war
-footing.
+footing. ^[[Wing Commander](http://tvtropes.org/pmwiki/pmwiki.php/Franchise/WingCommander)]
 
 In 2633, alien allies of the Kilrathi, dubbed the "Red Falcon", manage
 to land on Earth and set up a base. Engineered super-soldiers Bill Rizer
 and Lance Bean are dispatched to deal with the infiltration, and manage
-to destroy the base.
+to destroy the base. ^[[Contra](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Contra)]
 
 Age of Stewardship (2700 -)
 ----------------------------
@@ -944,13 +939,11 @@ the Kilrathi, human starships spread throughout the stars. From Epsilon
 Eridani to Council space, Earth's war vessels come with seasoned
 warriors, simple but powerful weapons, and a message:
 
-"We are not your leaders, nor your slaves. We are your
-Shepherds."
+"We are not your leaders, nor your slaves. We are your Shepherds."
 
 Humans have in effect become the new Zentradi, protecting the children
 of the protoculture and their allies. Any race that needs assistance can
 petition them for protection. Unlike the Zentradi, humanity also has its
 own culture and emotional fulfillment. They will want for nothing.
 
-There may always be war in the galaxy, but peace has never been
-closer.
+There may always be war in the galaxy, but peace has never been closer.
