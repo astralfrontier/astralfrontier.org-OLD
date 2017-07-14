@@ -15,7 +15,7 @@ As of right now (2017), I'm working with the following technologies:
   [TypeScript](https://www.typescriptlang.org/) and
   [Babel](https://babeljs.io/).
 * **Web development**: [AngularJS](https://angularjs.org/) and [Angular Material](https://material.angularjs.org/latest/) for the front-end UI.
-  I'm also using [React](https://facebook.github.io/react/)/[Redux](http://redux.js.org/) and [Semantic-UI](https://semantic-ui.com/.
+  I'm also using [React](https://facebook.github.io/react/)/[Redux](http://redux.js.org/) and [Semantic-UI](https://semantic-ui.com/).
 * **Storage**: [MongoDB](http://www.mongodb.com/) is my NoSQL engine of choice.
 * **Libraries**: [Ramda](http://ramdajs.com/) for functional JS programming.
 
