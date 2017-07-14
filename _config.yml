@@ -56,6 +56,7 @@ markdown:
     - markdown-it-abbr
     - markdown-it-toc
     - markdown-it-attrs
+    - markdown-it-footnote
   anchors:
     level: 2
     collisionSuffix: 'v'
