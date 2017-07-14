@@ -93,21 +93,18 @@ What does this mean for you?
 
 ### Breeding a Good Game
 
-When you sit down to design a game, you will be working with *components*,
-whether or not you realize it at first.
-Components are things like "character attributes", dice systems,
-the concepts of hit points or damage, and so forth.
-The genes of games long gone, like specific methods dice rolling, are components.
+When you sit down to design a game, you will be working with these game genes.
+Things like "character attributes", dice systems, the concepts of hit points or damage, and so forth.
 
-Once you know that, learn to sift through your design for new components you've made.
+Once you know that, learn to sift through your design for new genes you've made.
 If you reach a point where you think your current design won't work, start reviewing the pieces.
 Something in your design has value. Find it, then extract it.
-Put it in your toolkit of useful components.
+Put it in your genetic library.
 
 If your design mostly works, but isn't all the way there yet,
 apply some artificial selection.
-Make a copy of your document, then mutate one of your components,
-or pull an old component out of your toolkit and see if it plugs
+Make a copy of your document, then mutate one of the genes,
+or pull an old genes out of your toolkit and see if it plugs
 in any better.
 Tweak, and test, and tweak again.
 If what you're changing doesn't seem to help, now you know that you're
@@ -126,4 +123,4 @@ Every design you're not happy with will give you the ingredients
 for a design you love.
 Remember to look at everything you do as an opportunity.
 Breed a good game through breeding bad ones, then so-so ones,
-and grow your toolkit with useful components for the future.
+and grow your toolkit with useful genes for the future.
