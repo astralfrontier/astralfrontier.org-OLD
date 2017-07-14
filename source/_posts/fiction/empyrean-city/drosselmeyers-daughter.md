@@ -14,3 +14,7 @@ Drosselmeyer is pleased.  For the next several months, he teaches his mechanical
 One day the doll asks him something.  "Father, how is it that you taught a machine to love?" she asks innocently.  "For I am a machine, and I love you."
 
 Drosselmeyer doesn't look up from his work.  He peels away the withered skin of his arm to reveal the ancient brass and crystal gears spinning within.  "As it was taught to me, my daughter," he answers with a smile.
+
+<!-- more -->
+
+![Project Cyborg by Transhuman Project](/assets/art/Project_Cyborg_by_Transhuman_Project.jpg) {.ui .fluid .image}

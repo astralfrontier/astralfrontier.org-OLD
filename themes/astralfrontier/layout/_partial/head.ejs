@@ -70,4 +70,7 @@ body {
   display: none !important;
 }
   </style>
+    <% if (page.stylesheet) { %>
+    <%- css(`css/${page.stylesheet}.css`) %>
+    <% } %>
 </head>
