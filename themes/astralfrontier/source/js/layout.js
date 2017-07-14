@@ -26,6 +26,10 @@ function loadLocalContent() {
     })
 }
 
+function scrollToHashWithMenuOffset() {
+    $('html, body').animate({ scrollTop: $(window.location.hash).offset().top - 64}, 100);
+}
+
 $(document)
     .ready(function () {
         // fix main menu to page on passing
@@ -42,7 +46,13 @@ $(document)
         $('#site-search input').focus(loadLocalContent)
 
         $('#site-sidebar').sidebar({transition: 'overlay'})
+
+        if(window.location.hash) {
+            scrollToHashWithMenuOffset
+        }
     });
+
+$(window).on('hashchange', scrollToHashWithMenuOffset);
 
 window.showSidebar = function() {
     $('#site-sidebar').sidebar('toggle')
