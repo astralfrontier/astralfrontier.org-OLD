@@ -2,7 +2,9 @@
 date: 2015-09-04
 title: Libraria
 categories:
-  - Setting
+  - Roleplaying
+tags:
+  - setting
 ---
 
 What if the world were literature made literal?

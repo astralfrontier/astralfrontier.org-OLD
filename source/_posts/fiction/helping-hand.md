@@ -2,9 +2,10 @@
 date: 2016-02-22
 title: Helping Hand
 categories:
-  - Setting
+  - Roleplaying
 tags:
   - supers
+  - setting
 ---
 
 The **Helping Hand** is an alien technology created to empower the protectors
