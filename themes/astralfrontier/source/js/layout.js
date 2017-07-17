@@ -50,6 +50,9 @@ $(document)
         if(window.location.hash) {
             scrollToHashWithMenuOffset
         }
+
+        // Accordion content
+        $('.ui.accordion').accordion();
     });
 
 $(window).on('hashchange', scrollToHashWithMenuOffset);
