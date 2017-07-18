@@ -1,9 +1,11 @@
 ---
 date: 2016/12/04
 title: Pelaga
+categories:
+  - Roleplaying
 tags:
   - grand-adventure
-icon: globe
+  - setting
 ---
 
 In comments on a [previous post], describing a sample world for [Grand Adventure]
@@ -13,11 +15,11 @@ Here's the start of one, a water-world called **Pelaga**.
 
 <!-- more -->
 
-Pelaga is a series of four concentric spheres, as shown here:
-[Pelaga Layers](/assets/rpg/pelaga-spheres.svg)
+![Pelaga Layers](/assets/rpg/pelaga-spheres.svg) {.ui .medium .right .floated .image}
 
+Pelaga is a series of four concentric spheres.
 In order from the center outward,
-they are the Core, the Inner Sea, the Skywall, and the Outer Sea.
+they are the **Core**, the **Inner Sea**, the **Skywall**, and the **Outer Sea**.
 
 ### The Inner Sea
 
