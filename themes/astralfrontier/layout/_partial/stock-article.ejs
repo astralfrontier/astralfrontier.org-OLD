@@ -1,0 +1,9 @@
+<div id="stock-container">
+    <%- partial('semantic-header', {title: page.title, summary: page.excerpt}) %>
+    <%- partial('semantic-main-menu') %>
+    <div class="ui text container">
+        <%- partial('semantic-article', {article: page, content: page.content.replace(page.excerpt, '')}) %>
+        <%- partial('disqus') %>
+    </div>
+    <%- partial('_partial/semantic-footer') %>
+<div id="stock-container">
