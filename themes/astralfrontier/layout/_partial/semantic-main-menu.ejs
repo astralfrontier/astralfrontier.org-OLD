@@ -13,15 +13,15 @@
 %>
 <div class="ui borderless main menu">
     <div class="ui text container">
-        <a href="<%- config.root %>">
+        <a href="<%- config.root %>" class="hidden-on-mobile">
             <div href="#" class="header item">
                 <%- image_tag('/assets/galaxy-1294347.png', {class: 'logo', width: 40, height: 40}) %>
-                Astral Frontier
+                <span>Astral Frontier</span>
             </div>
         </a>
         <a href="/about.html" class="hidden-on-mobile item">About</a>
         <a href="/work.html" class="hidden-on-mobile item">Work</a>
-        <div class="hidden-on-mobile ui search item" id="site-search">
+        <div class="ui search item" id="site-search">
             <div class="ui icon input">
                 <input class="prompt" type="text" placeholder="Search" />
                 <i class="search icon"></i>
