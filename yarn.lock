@@ -2171,15 +2171,6 @@ hexo-front-matter@^0.2.2:
   dependencies:
     js-yaml "^3.6.1"
 
-hexo-fs@^0.1.5:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/hexo-fs/-/hexo-fs-0.1.6.tgz#f980ccc3bc79d0fb92eddbd887bc20a56500d03f"
-  dependencies:
-    bluebird "^3.4.0"
-    chokidar "^1.5.2"
-    escape-string-regexp "^1.0.5"
-    graceful-fs "^4.1.4"
-
 hexo-fs@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/hexo-fs/-/hexo-fs-0.2.0.tgz#534a9278fdf99d82f53ac097b83b4ebc57b79fe5"
@@ -2310,9 +2301,9 @@ hexo-util@^0.6.0:
     html-entities "^1.2.0"
     striptags "^2.1.1"
 
-hexo@^3.2.0:
-  version "3.3.7"
-  resolved "https://registry.yarnpkg.com/hexo/-/hexo-3.3.7.tgz#1cbf05cfd36770929fee4f89fd646fe8b477cfb9"
+hexo@^3.3.8:
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/hexo/-/hexo-3.3.8.tgz#c25dcc7a926bedab64ae7e0c3c4c227eb741dc0e"
   dependencies:
     abbrev "^1.0.7"
     archy "^1.0.0"
@@ -2322,7 +2313,7 @@ hexo@^3.2.0:
     deep-assign "^2.0.0"
     hexo-cli "^1.0.2"
     hexo-front-matter "^0.2.2"
-    hexo-fs "^0.1.5"
+    hexo-fs "^0.2.0"
     hexo-i18n "^0.2.1"
     hexo-log "^0.1.2"
     hexo-util "^0.6.0"
