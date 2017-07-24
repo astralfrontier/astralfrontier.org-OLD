@@ -17,7 +17,7 @@ Here's a big master list of resources for people doing creative writing.
 * [Aaron Sorkin's Masterclass Cliff's Notes](https://www.reddit.com/r/Screenwriting/comments/4zpcz2/i_took_aaron_sorkins_masterclass_heres_my_cliffs/)
 * [Helping Writers Become Authors](http://www.helpingwritersbecomeauthors.com/)
 * [James Patterson Teaches Writing](https://www.masterclass.com/classes/james-patterson-teaches-writing)
-* [STory Structure 101: Super Basic Shit](http://channel101.wikia.com/wiki/Story_Structure_101:_Super_Basic_Shit)
+* [Story Structure 101: Super Basic Shit](http://channel101.wikia.com/wiki/Story_Structure_101:_Super_Basic_Shit)
 * [What Makes Bad Writing Bad?](https://www.theguardian.com/books/2016/may/20/what-makes-bad-writing-bad-toby-litt)
 
 Pixar-specific:
@@ -30,6 +30,10 @@ Pixar-specific:
 Describing characters:
 
 * [writingwithcolor](http://writingwithcolor.tumblr.com/post/96830966357/writing-with-color-description-guide-words-for) - words to capture skin tone
+
+Conflict and Drama:
+
+* [Blood Loss](https://sewickedthread.tumblr.com/post/163341167394/boundtoashes-starkanine-liathwen)
 
 Fantasy:
 
