@@ -34,6 +34,7 @@ Describing characters:
 Conflict and Drama:
 
 * [Blood Loss](https://sewickedthread.tumblr.com/post/163341167394/boundtoashes-starkanine-liathwen)
+* [Writing Action Scenes](https://kfmonkey.blogspot.co.nz/2005/12/writing-action-scenes.html) - "Don't write action sequences. Write suspense sequences that require action to resolve."
 
 Fantasy:
 
