@@ -20,6 +20,12 @@ You should have all your Disciple of Hand classes at 70.
 If you do not, I highly recommend the 1-70 guides available
 at [FFXIV Guild](http://www.ffxivguild.com/).
 
+At minimum, you'll need almost all of them to 50,
+so you have access to the required cross-class skills.
+Your high-level products will also require precursor recipes
+from ALC, GSM, LTW, WVR, and so on.
+BSM, LTW, and WVR are your go-to classes to craft your own gear.
+
 I strongly encourage you to keep your Mining and Botany up to date as well.
 If not, you will be buying a lot of materials you could farm for yourself.
 
@@ -27,7 +33,7 @@ If not, you will be buying a lot of materials you could farm for yourself.
 
 #### Red and Yellow Scrip
 
-Scrip is a custom currency for crafters.
+[Scrip](https://ffxiv.consolegameswiki.com/wiki/Scrips) is a custom currency for crafters and gatherers.
 In Stormblood, it comes in two flavors: Red (basic) and Yellow (advanced).
 Gatherers have an identical system, but the two scrip types cannot be exchanged.
 That is, Red Crafter's Scrip (for example) is not the same as Red Gatherer's Scrip.
@@ -37,7 +43,7 @@ This will tell you the items you can deliver for the day to receive scrip.
 Each collectible must be manufactured, or gathered, as a collectible,
 and must meet a minimum collectibility value.
 Craft this stuff the same way you would try to create any HQ item,
-but with the Collectable Synthesis ability activated.
+but with the [Collectable Synthesis](http://xivdb.com/action/4564/collectable+synthesis) ability activated.
 
 #### Specialization
 
@@ -55,10 +61,11 @@ See the wiki page for details.
 
 #### Master Recipes and Regional Folklore
 
-The Splendors Vendor in Rhalgar's Reach (X: 9, Y: 12)
-sells six fieldcraft items: Tomes of Geological, Botanical, and Ichthyological folklore for Gyr Abania and Othard.
-Each tome costs 50 Rowena's Token (Regional Folklore).
-These tokens are sold by the Scrip Exchange vendor a few doors down, 50 Red Scrip per token.
+The [Splendors Vendor](https://ffxiv.gamerescape.com/wiki/Splendors_Vendor_(Rhalgr%27s_Reach))
+in Rhalgar's Reach (X: 9, Y: 12) sells six fieldcraft items:
+Tomes of Geological, Botanical, and Ichthyological folklore for Gyr Abania and Othard.
+Each tome costs 50 [Rowena's Token (Regional Folklore)](https://ffxiv.gamerescape.com/wiki/Rowena%27s_Token_(Regional_Folklore).
+These tokens are sold by the [Scrip Exchange](https://ffxiv.gamerescape.com/wiki/Scrip_Exchange_(Rhalgr%27s_Reach)) vendor a few doors down, 50 Red Scrip per token.
 Thus, you'll need 2500 Red Gatherers' Scrip per Tome, or 15,000 for all of them.
 For most crafting needs, you only need the Geological and Botanical Tomes.
 
@@ -83,7 +90,7 @@ You must be level 56 or higher, and complete a quest, to unlock this.
 See the link for details.
 
 When you see an Ephemeral Node on your map,
-make sure Collector's Glove is active, then harvest from the node.
+make sure [Collector's Glove](http://xivdb.com/action/4074/collector's+glove) is active, then harvest from the node.
 Once the node is exhausted, you can force it to respawn, by tapping two nearby nodes.
 In Stormblood, gathering nodes come clustered together.
 You don't have to fully harvest the regular nodes, just hit them once.
@@ -103,8 +110,7 @@ You can find the complete list, along with notes on how and when to find them,
 ### Getting Geared
 
 Your goal is to reach at least 290 equipped with your crafting gear.
-I did this by creating HQ 290 gear myself,
-made by WVR, LTW, and CRP.
+I did this by creating HQ 290 gear myself, made by WVR, LTW, and CRP.
 You can see this gear here, along with recommended melds: [http://ffxiv.ariyala.com/11VCH](http://ffxiv.ariyala.com/11VCH).
 
 In addition to this gear, the Scrip Exchange vendor in Rhalgar's Reach sells level 300 items for Yellow Scrip.
@@ -113,7 +119,10 @@ I personally opted for a universally usable crafting set,
 so I crafted the 290 gear and am buying the yellow scrip tools.
 You must still craft or buy offhands yourself, so don't neglect BSM too.
 
-The recommended melds came from [Katya's post](http://forum.square-enix.com/ffxiv/threads/337993-Stormblood-1%2A-and-2%2A-Crafting-Macros)
+#### Materia
+
+The recommended melds above came from
+[Katya's post](http://forum.square-enix.com/ffxiv/threads/337993-Stormblood-1%2A-and-2%2A-Crafting-Macros)
 and cost me about 4 million gil.
 You might find it cheaper to pursue the Yellow Scrip gear,
 but grinding crafting with Potent Spiritbond Potions
@@ -138,9 +147,13 @@ include every ability named in the macro!
 That includes Comfort Zone, Ingenuity II, Byregot's Blessing, Steady Hand II,
 Muscle Memory, Innovation, Waste Not, and Piece by Piece.
 
+When making gear of your level, you will often need crafter food to boost your stats.
+[Tempura Platter](http://xivdb.com/item/19826/tempura+platter) is what I use most often.
+It is available for sale in Kugane, from the Independent Culinarian at the market.
+
 #### 40 Durability
 
-Minimum stats: 407 CP.
+Minimum stats: 407 CP (including food).
 Use NQ Tempura Platter as your food.
 Use this for precursor materials (cloth, ingots, alchemy, etc.).
 
@@ -169,7 +182,7 @@ Use this for precursor materials (cloth, ingots, alchemy, etc.).
 
 #### 80 Durability
 
-Minimum stats: 407 CP.
+Minimum stats: 407 CP (including food).
 Use NQ Tempura Platter as your food.
 Use this for non-Master recipes.
 
@@ -201,7 +214,7 @@ Use this for non-Master recipes.
 
 #### Two-Star
 
-Minimum stats: 1288 Craftsmanship, 467 CP.
+Minimum stats: 1330 Craftsmanship, 510 CP (including food).
 Use NQ Tempura Platter as your food (this is not optional).
 
 If you start with about 2000 Quality (which should be easy enough),
