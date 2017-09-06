@@ -14,42 +14,85 @@ and share it in a single coherent place.
 
 <!-- more -->
 
+@[toc](Table of Contents)
+
 ### Getting to 70
 
 You should have all your Disciple of Hand classes at 70.
-If you do not, I highly recommend the 1-70 guides available
+If you do not, follow the 1-70 guides available
 at [FFXIV Guild](http://www.ffxivguild.com/).
+
+If you are already 60 and want to push through the new Stormblood levels, start here:
+[Alchemist](http://www.ffxivguild.com/ffxiv-alc-alchemist-leveling-guide-ffxivarr/5/) --
+[Armorsmith](http://www.ffxivguild.com/ffxiv-ARM-Armorsmith-leveling-guide-ffxivarr/5) --
+[Blacksmith](http://www.ffxivguild.com/ffxiv-BSM-Blacksmith-leveling-guide-ffxivarr/5/) --
+[Carpentry](http://www.ffxivguild.com/ffxiv-crp-carpenter-leveling-guide-ffxivarr/5/) --
+[Culinarian](http://www.ffxivguild.com/ffxiv-CUL-Culinarian-leveling-guide-ffxivarr/5/) --
+[Goldsmith](http://www.ffxivguild.com/ffxiv-GSM-Goldsmith-leveling-guide-ffxivarr/5/) --
+[Leatherworker](http://www.ffxivguild.com/ffxiv-ltw-leatherworker-leveling-guide-ffxivarr/5) --
+[Weaver](http://www.ffxivguild.com/ffxiv-wvr-weaver-leveling-guide-ffxivarr/5/)
 
 At minimum, you'll need almost all of them to 50,
 so you have access to the required cross-class skills.
 Your high-level products will also require precursor recipes
-from ALC, GSM, LTW, WVR, and so on.
-BSM, LTW, and WVR are your go-to classes to craft your own gear.
+from ALC, GSM, LTW, WVR, and sometimes others.
+BSM, LTW, and WVR are the key classes if you want to craft your own gear as you go.
 
 I strongly encourage you to keep your Mining and Botany up to date as well.
 If not, you will be buying a lot of materials you could farm for yourself.
+FFXIV Guild has [Botany](http://www.ffxivguild.com/ff14-botany-botanist-leveling-guide-a-realm-reborn/)
+and [Mining](http://www.ffxivguild.com/ff14-mining-miner-leveling-guide-a-realm-reborn/) leveling guides.
 
 ### Post-70
+
+Once you reach 70, you'll need to get a few more things squared away
+to make the high-level recipes.
+This will involve grinding collectible items for scrip,
+farming ephemeral and legendary nodes,
+and learning recipes.
 
 #### Red and Yellow Scrip
 
 [Scrip](https://ffxiv.consolegameswiki.com/wiki/Scrips) is a custom currency for crafters and gatherers.
 In Stormblood, it comes in two flavors: Red (basic) and Yellow (advanced).
-Gatherers have an identical system, but the two scrip types cannot be exchanged.
+Crafters and gatherers have separate scrip types which cannot be exchanged.
 That is, Red Crafter's Scrip (for example) is not the same as Red Gatherer's Scrip.
 
-To obtain scrip, look at the Timer (control-U), then click on Rowena's House of Splendors.
+To obtain scrip, look at the Timer (control-U on PC), then click on Rowena's House of Splendors.
+Or talk to the Collectible Appraiser vendor in Rhalgar's Reach.
 This will tell you the items you can deliver for the day to receive scrip.
-Each collectible must be manufactured, or gathered, as a collectible,
-and must meet a minimum collectibility value.
-Craft this stuff the same way you would try to create any HQ item,
+Your goal is usually to make a lot of the item that'll deliver the most value while requiring the fewest materials.
+The turn-in items for scrip change daily at 1 AM, so check each day before you start crafting.
+
+Craft these items the same way you would try to create any other HQ item,
 but with the [Collectable Synthesis](http://xivdb.com/action/4564/collectable+synthesis) ability activated.
+See the "Rotations" section below for suggested rotations to make HQ items.
+This process results in an item with a "Collectibility Rating".
+The minimum rating for an item is shown in the Timer window along with the item name.
+If you make something that doesn't meet the required rating,
+you can downgrade it to NQ versions by right-clicking on it and selecting "Lower Quality".
+
+#### Master Recipes and Regional Folklore
+
+The [Splendors Vendor](https://ffxiv.gamerescape.com/wiki/Splendors_Vendor_(Rhalgr%27s_Reach))
+in Rhalgar's Reach (X: 9, Y: 12) sells six fieldcraft items:
+Tomes of Geological, Botanical, and Ichthyological folklore for Gyr Abania and Othard.
+Each tome costs 50 [Rowena's Token (Regional Folklore)].
+These tokens are sold by the [Scrip Exchange](https://ffxiv.gamerescape.com/wiki/Scrip_Exchange_(Rhalgr%27s_Reach)) vendor a few doors down, 50 Red Scrip per token.
+Thus, you'll need 2500 Red Gatherers' Scrip per Tome, or 15,000 for all of them.
+For most crafting needs, you only need the Geological and Botanical Tomes.
+
+The Scrip Exchange vendor also sells Master V recipe books
+for all crafting professions, costing 900 Red Crafter's Scrip apiece.
+These contain the level 70 two-star recipes you want to eventually make.
 
 #### Specialization
 
+**Note:** Specialization is _optional_ for all the rotations given in this guide.
+
 You can use the [Specialist System](http://ffxiv.consolegameswiki.com/wiki/Specialist_System)
 to specialize in up to three crafting classes.
-These work very similar to combat jobs: you get an equippable soul, along with specific abilities.
+These work very similar to combat jobs: you get an equippable soul, along with some new abilities.
 Having the soul equipped also gives you +20 to both Craftsmanship and Control.
 
 What should you specialize in?
@@ -59,20 +102,6 @@ as these classes create most of the precursors for high-level recipes.
 You can spend red scrip to change your specialization later.
 See the wiki page for details.
 
-#### Master Recipes and Regional Folklore
-
-The [Splendors Vendor](https://ffxiv.gamerescape.com/wiki/Splendors_Vendor_(Rhalgr%27s_Reach))
-in Rhalgar's Reach (X: 9, Y: 12) sells six fieldcraft items:
-Tomes of Geological, Botanical, and Ichthyological folklore for Gyr Abania and Othard.
-Each tome costs 50 [Rowena's Token (Regional Folklore)](https://ffxiv.gamerescape.com/wiki/Rowena%27s_Token_(Regional_Folklore).
-These tokens are sold by the [Scrip Exchange](https://ffxiv.gamerescape.com/wiki/Scrip_Exchange_(Rhalgr%27s_Reach)) vendor a few doors down, 50 Red Scrip per token.
-Thus, you'll need 2500 Red Gatherers' Scrip per Tome, or 15,000 for all of them.
-For most crafting needs, you only need the Geological and Botanical Tomes.
-
-The Scrip Exchange vendor also sells Master V recipe books
-for all crafting professions, costing 900 Red Crafter's Scrip apiece.
-These contain the level 70 two-star recipes you want to eventually make.
-
 ### Material Gathering
 
 The most useful tool for gathering from ephemeral and legendary nodes
@@ -80,6 +109,19 @@ is [Garland Tools](https://www.garlandtools.org/bell/).
 The site includes maps, rotations, and timers for rare nodes.
 Other sites, like [FFXIV Clock](ffxivclock.com/#/),
 also include timers, but Garland Tools pulls it all together.
+
+Special nodes come in three varieties: Ephemeral, Legendary, and Unspoiled.
+Ephemeral and Unspoiled nodes will appear for anyone, but only at specific times.
+Legendary nodes require that you acquire Regional Folklore books for them.
+
+Each node hides its contents behind "out of reach" barriers,
+which you must click on to reveal the item.
+However, specific items are always in the same slot,
+so just look at Garland Tools to be sure.
+For example, Chromite Ore is always in slot 6 of its Legendary node.
+When harvesting, click once to reveal, then do your rotation as shown in the tool -
+depending on whether you want collectibles,
+aetherial reduction, scrip, or just the item itself.
 
 #### Aetherial Reduction
 
@@ -89,22 +131,37 @@ FFXIV includes a tool to help you acquire these very quickly:
 You must be level 56 or higher, and complete a quest, to unlock this.
 See the link for details.
 
+After this, you'll harvest specific items from Ephemeral Nodes that periodically appear.
+Use Garland Tools to time the appearance of these nodes.
+The list of nodes, and what you get through reduction,
+can be found [here](https://ffxiv.consolegameswiki.com/wiki/Ephemeral_Nodes).
+
 When you see an Ephemeral Node on your map,
 make sure [Collector's Glove](http://xivdb.com/action/4074/collector's+glove) is active, then harvest from the node.
-Once the node is exhausted, you can force it to respawn, by tapping two nearby nodes.
-In Stormblood, gathering nodes come clustered together.
-You don't have to fully harvest the regular nodes, just hit them once.
-Ephemeral Nodes will continue to spawn for four hours Eorzea time.
+
+Once the node is exhausted, you can force it to respawn, by tapping nodes from two nearby groups.
+In Stormblood, like Heavensward, nodes appear together in groups.
+You don't have to fully harvest these nodes, just hit them once.
+For example, you might fly west of the Ephemeral Node, tap one regular node,
+then fly east to the other group and tap another node there.
+Doing this will respawn the Ephemeral Node.
+Repeat until your bags are full or the node goes away.
 
 Once you have harvested the collectibles,
 right-click on them in your bag and select "Aetherial Reduction".
 
+Ephemeral Nodes will continue to spawn for four hours Eorzea time.
+
 #### Aethersands
 
 Many high-level recipes call for one or more types of "Aethersand".
-These can be obtained by Aetherial Reduction.
+These can be obtained by Aetherial Reduction,
+following the process described above.
+The rotation for Aethersand reduction is different than for scrip.
+Check Garland Tools for details.
 
-You can find the complete list, along with notes on how and when to find them,
+You can find the complete list of Aethersands,
+along with notes on how and when to find them,
 [here](https://www.reddit.com/r/ffxiv/comments/6ne73j/shiny_new_aethersands_and_where_to_find_them/).
 
 ### Getting Geared
@@ -148,7 +205,7 @@ That includes Comfort Zone, Ingenuity II, Byregot's Blessing, Steady Hand II,
 Muscle Memory, Innovation, Waste Not, and Piece by Piece.
 
 When making gear of your level, you will often need crafter food to boost your stats.
-[Tempura Platter](http://xivdb.com/item/19826/tempura+platter) is what I use most often.
+[Tempura Platter](http://xivdb.com/item/19826/tempura+platter) is what I use for all HQ and high-level recipes.
 It is available for sale in Kugane, from the Independent Culinarian at the market.
 
 #### 40 Durability
@@ -248,7 +305,11 @@ this should give you an HQ end product every time.
 /ac "Byregot's Blessing" <wait.3>
 /echo Advanced Part 2 finished <se.1>
 /ac "Careful Synthesis III" <wait.3>
-/ac "Careful Synthesis III" <wait.3>
-/ac "Careful Synthesis III" <wait.3>
+/ac "Observe" <me> <wait.3>
+/ac "Focused Synthesis" <me> <wait.3>
+/ac "Observe" <me> <wait.3>
+/ac "Focused Synthesis" <me> <wait.3>
 /echo Advanced Part 3 finished <se.14>
 ```
+
+[Rowena's Token (Regional Folklore)]: https://ffxiv.gamerescape.com/wiki/Rowena%27s_Token_(Regional_Folklore)
