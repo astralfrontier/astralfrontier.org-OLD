@@ -181,10 +181,16 @@ You must still craft or buy offhands yourself, so don't neglect BSM too.
 The recommended melds above came from
 [Katya's post](http://forum.square-enix.com/ffxiv/threads/337993-Stormblood-1%2A-and-2%2A-Crafting-Macros)
 and cost me about 4 million gil.
+If you don't have the gil to spare,
+you can buy IV and V grade materia for red scrip
+from the Rhalgr's Reach vendor.
+IV costs 25, V costs 400.
+
 You might find it cheaper to pursue the Yellow Scrip gear,
 but grinding crafting with Potent Spiritbond Potions
 active should let you convert your spiritbound gear
-and sell it for this much money.
+and either use it or sell it as necessary.
+
 Either way, check the rotations below for minimum stats,
 and make sure you meet those stats.
 
@@ -276,6 +282,12 @@ Use NQ Tempura Platter as your food (this is not optional).
 
 If you start with about 2000 Quality (which should be easy enough),
 this should give you an HQ end product every time.
+
+**Important Note**: you'll need a proc of [Stroke of Genius](http://xivdb.com/action/50351/stroke+of+genius)
+to get by with 510 CP - you need 517 without it.
+Specialists always proc this ability.
+If you don't get it, skip one of the Prudent Touches
+at steps 16-20.
 
 ```
 /ac "Muscle Memory" <me> <wait.3>
