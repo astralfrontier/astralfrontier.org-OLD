@@ -164,6 +164,26 @@ You can find the complete list of Aethersands,
 along with notes on how and when to find them,
 [here](https://www.reddit.com/r/ffxiv/comments/6ne73j/shiny_new_aethersands_and_where_to_find_them/).
 
+#### Demimateria
+
+Materia are equippable on items.
+Demimateria, however, are crafting ingredients.
+They are obtained via [Desynthesis](https://ffxiv.consolegameswiki.com/wiki/Desynthesis).
+
+Essentially, Desynthesis converts a regular item into a related raw material.
+For example, a hempen robe might turn into hempen yarn.
+You can desynth numerous items, but only a few provide something useful (like demimateria).
+Simply right-click on an item in your inventory, and click "Desynthesize".
+
+You level up desynthesis by using it.
+There's an excellent [end-game guide](http://forum.square-enix.com/ffxiv/threads/181498-Desynthesis-Endgame-Guide),
+updated for patch 3.0, which will get you through the low levels.
+
+Because you can only max out your Desynth skill for three crafting classes,
+think carefully about the sorts of items you want to destroy,
+and the type of demimateria or other item you want to obtain.
+Only ALC and LTW don't have source for a Mastercraft Demimateria.
+
 ### Getting Geared
 
 Your goal is to reach at least 290 equipped with your crafting gear.
