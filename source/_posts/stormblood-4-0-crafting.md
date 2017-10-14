@@ -123,6 +123,14 @@ When harvesting, click once to reveal, then do your rotation as shown in the too
 depending on whether you want collectibles,
 aetherial reduction, scrip, or just the item itself.
 
+For collectible gathering for red or yellow scrip, or for crystal farming,
+you'll want to use specific rotations depending on what you want to obtain.
+Sometimes you want more of an item, while other times you want to maximize the rating of the items you get.
+
+Here's the 4.0 collectable rotations: https://na.finalfantasyxiv.com/lodestone/character/8444495/blog/2596906/
+
+Here's an ephemeral rotation for 4.05: https://imgur.com/a/feaks
+
 #### Aetherial Reduction
 
 You'll be doing a lot of farming for crystals and clusters.
