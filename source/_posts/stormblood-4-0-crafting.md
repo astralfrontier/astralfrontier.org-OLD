@@ -238,6 +238,23 @@ include every ability named in the macro!
 That includes Comfort Zone, Ingenuity II, Byregot's Blessing, Steady Hand II,
 Muscle Memory, Innovation, Waste Not, and Piece by Piece.
 
+Here's a macro that'll set up everything you need:
+
+```
+/aaction clear
+/aaction "Waste Not" on
+/aaction "Comfort Zone" on
+/aaction "Piece by Piece" on
+/aaction "Flawless Synthesis" on
+/aaction "Steady Hand II" on
+/aaction "Ingenuity" on
+/aaction "Ingenuity II" on
+/aaction "Innovation" on
+/aaction "Byregot's Blessing" on
+/aaction "Muscle Memory" on
+/echo Cross-class action setup complete <se.1>
+```
+
 When making gear of your level, you will often need crafter food to boost your stats.
 [Tempura Platter](http://xivdb.com/item/19826/tempura+platter) is what I use for all HQ and high-level recipes.
 It is available for sale in Kugane, from the Independent Culinarian at the market.
