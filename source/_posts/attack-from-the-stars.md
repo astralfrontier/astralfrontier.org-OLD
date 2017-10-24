@@ -231,10 +231,30 @@ independently of the State Department's oversight, forming a shadow
 government that prepared to facilitate, rather than oppose, the
 invasion.
 
+![s-l1000.jpg](/assets/attack-from-the-stars/s-l1000.jpg) {.ui .medium .right .floated .image}
+
+Colonel Ed Straker's car is driven off the road by alien attack
+to prevent him from bringing evidence of alien activity to the authorities.
+He survives the attack and manages to convince world governments
+that existing response teams are insufficient to deal with the threat.
+Aliens capable of shapeshifting, mind control, or body possession
+make current security screening processes inadequate.
+In addition, some governments privately distrust the presence
+of aliens operating within Global Alliance.
+As a result, a new organization, SHADO, is created and funded.
+It will be a "backup" or "shadow" alien-hunting organization.
+^[[UFO](http://tvtropes.org/pmwiki/pmwiki.php/Series/UFO)]
+
 In 1982, a Norwegian Antarctic base sends out personnel who get too
 close to a Reticulian secret base buried under the ice. It is destroyed
 by a shapeshifting creature, possibly a sample of the Flood, who then
 almost completely destroys a nearby American outpost. ^[[The Thing](http://tvtropes.org/pmwiki/pmwiki.php/Film/TheThing1982)]
+
+By 1984, SHADO's organization is fully operational,
+with submarines, satellites, and a secret moon base tracking alien activity.
+Commander Straker's private life is a mess due to the oppressive security
+requirements of keeping SHADO from being infiltrated,
+but his organization is efficient and secure.
 
 In 1987, American commandos on a mission to rescue a VIP from a jungle
 prison encounter an unknown alien life form, which apparently takes
