@@ -102,3 +102,14 @@ Fills the same role as the Herculoids' Zok, but a giant bird rather than a drago
 * Functions: long-range transport; mobile base
 * A full-sized jet liner that can act as a team base
 * Intercontinental range, potentially able to reach outer space
+
+### Fourth Generation: Dark Link
+
+![6656ed65e0d0ced63d25c6108e3dcdef.jpg](/assets/link-s-robots/6656ed65e0d0ced63d25c6108e3dcdef.jpg) {.ui .small .right .floated .image}
+
+* Relationship: TBD
+* Modes: Human; armored humanoid
+* Integrations: connects like Link or Pneuma to other units
+* Functions: infiltration; espionage; combat
+* Another sentient AI, trained in time-accelerated virtual reality with commando and ninja skills
+* Equipped with a full range of stealth and infiltration technology (cloaking, skyhooks, etc.)
