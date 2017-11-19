@@ -113,3 +113,6 @@ Fills the same role as the Herculoids' Zok, but a giant bird rather than a drago
 * Functions: infiltration; espionage; combat
 * Another sentient AI, trained in time-accelerated virtual reality with commando and ninja skills
 * Equipped with a full range of stealth and infiltration technology (cloaking, skyhooks, etc.)
+
+![d4cu56f.jpg](/assets/link-s-robots/d4cu56f.jpg) {.ui .medium .image}
+
