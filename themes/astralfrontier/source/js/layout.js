@@ -52,7 +52,7 @@ $(document)
         }
 
         // Accordion content
-        $('.ui.accordion').accordion();
+        // $('.ui.accordion').accordion();
     });
 
 $(window).on('hashchange', scrollToHashWithMenuOffset);
