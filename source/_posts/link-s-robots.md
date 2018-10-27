@@ -6,6 +6,7 @@ categories:
 tags:
   - masks
   - supers
+  - link
 ---
 
 This is a run-down of the current and potential robots [Link](/2017/08/07/link/) allies with.

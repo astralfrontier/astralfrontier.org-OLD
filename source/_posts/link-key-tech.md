@@ -6,6 +6,7 @@ categories:
 tags:
   - masks
   - supers
+  - link
 ---
 
 Some key technology concepts for [Link](/2017/08/07/link/).

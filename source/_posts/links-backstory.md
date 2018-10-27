@@ -6,6 +6,7 @@ categories:
 tags:
   - masks
   - supers
+  - link
 ---
 
 Here's [Link](/2017/08/07/link/)'s backstory for the Tuesday Masks game.

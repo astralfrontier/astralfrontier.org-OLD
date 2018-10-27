@@ -6,6 +6,7 @@ categories:
 tags:
   - masks
   - supers
+  - link
 ---
 
 This is a run-down of the battlesuit and technology [Link](/2017/08/07/link/) uses.
