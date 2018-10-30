@@ -1,7 +1,6 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="Description" content="Astral Frontier roleplaying fiction blog">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
     <%
         title = page.title || 'Astral Frontier';
@@ -19,6 +18,9 @@
         }
     %>
     <title><%- title %></title>
+    <meta name="description" content="<%= strip_html(page.excerpt || 'Astral Frontier') %>">
+    <%- open_graph() %>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <%- css('css/semantic.min.css') %>
     <style>
 body {
