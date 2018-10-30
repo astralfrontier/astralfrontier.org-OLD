@@ -1,8 +1,11 @@
 ---
 date: 2015/08/14
 title: It Was There, Honest!'s Exploration system
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - it-was-there-honest
+  - it was there honest
 ---
 
 I decided to go with the five-rooms approach, to give the game some structure.

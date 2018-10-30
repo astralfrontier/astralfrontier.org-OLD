@@ -1,8 +1,11 @@
 ---
 date: 2016/09/20
 title: Beggars on Horseback
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - inept-sorcerers
+  - inept sorcerers
 icon: magic
 ---
 

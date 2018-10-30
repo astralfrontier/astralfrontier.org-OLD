@@ -6,7 +6,7 @@ categories:
   - RPGaDAY2018
 tags:
   - rpg-a-day
-  - inept-sorcerers
+  - inept sorcerers
 ---
 
 **Day 21: Which dice mechanic appeals to you?**

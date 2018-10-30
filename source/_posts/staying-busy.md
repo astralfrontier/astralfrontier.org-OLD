@@ -2,11 +2,11 @@
 date: 2016/06/02
 title: Staying Busy
 tags:
-  - avert-the-apocalypse
+  - avert the apocalypse
   - fae
   - ffxiv
-  - fusion-au
-  - helping-hand
+  - fusion au
+  - helping hand
   - pbta
 ---
 

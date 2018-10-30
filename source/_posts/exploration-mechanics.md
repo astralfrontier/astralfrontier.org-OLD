@@ -1,8 +1,11 @@
 ---
 date: 2015/08/04
 title: Exploration Mechanics for It Was There, Honest!
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - it-was-there-honest
+  - it was there honest
 ---
 
 Today I want to talk about three exploration models for

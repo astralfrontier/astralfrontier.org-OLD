@@ -2,7 +2,7 @@
 date: 2016/06/27
 title: Playtesting Avert the Apocalypse
 tags:
-  - avert-the-apocalypse
+  - avert the apocalypse
   - pbta
   - scifi
 ---

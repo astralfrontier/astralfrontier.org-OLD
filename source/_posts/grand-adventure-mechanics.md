@@ -1,8 +1,11 @@
 ---
 date: 2015/09/18
 title: Grand Adventure Mechanics
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - grand-adventure
+  - grand adventure
 ---
 
 I'm looking at a design for Grand Adventure that focuses around

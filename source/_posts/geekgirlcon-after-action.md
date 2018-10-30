@@ -2,7 +2,7 @@
 date: 2015/10/11
 title: GeekGirlCon After-Action Report
 tags:
-  - inept-sorcerers
+  - inept sorcerers
   - convention
 ---
 

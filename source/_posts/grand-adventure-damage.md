@@ -1,8 +1,11 @@
 ---
 date: 2016/12/06
 title: Grand Adventure and Damage
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - grand-adventure
+  - grand adventure
 icon: flask
 ---
 

@@ -2,7 +2,7 @@
 date: 2015/09/27
 title: GeekGirlCon
 tags:
-  - inept-sorcerers
+  - inept sorcerers
   - convention
 ---
 

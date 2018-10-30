@@ -1,8 +1,11 @@
 ---
 date: 2016/07/19
 title: Designing Locations for the Compleat Villain
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - compleat-villain
+  - compleat villain
   - supers
 ---
 

@@ -1,9 +1,11 @@
 ---
 date: 2015/06/08
 title: A Baroque Dice Mechanic
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - baroque-dice
-  - game design
+  - baroque dice
 ---
 
 I originally posted this on Ello in two parts ([Part 1], [Part 2]). This is a rewrite of some of that material, with extra thoughts.

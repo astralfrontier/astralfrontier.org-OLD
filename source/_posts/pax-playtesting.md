@@ -3,7 +3,7 @@ date: 2015/09/01
 title: PAX Playtesting for Inept Sorcerers
 tags:
   - convention
-  - inept-sorcerers
+  - inept sorcerers
   - playtest
 ---
 

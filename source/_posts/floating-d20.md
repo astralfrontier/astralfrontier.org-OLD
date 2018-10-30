@@ -1,9 +1,11 @@
 ---
 date: 2015/06/11
 title: The Floating d20
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - baroque-dice
-  - game design
+  - baroque dice
 ---
 
 I've been thinking more about the [new dice mechanic](/2015/06/08/baroque-dice-mechanic/). In some games, players can (a few times a session) have their characters go above and beyond their normal abilities for a desperate, risky, or effective super-move. How would this system accommodate that? There's a few possibilities.

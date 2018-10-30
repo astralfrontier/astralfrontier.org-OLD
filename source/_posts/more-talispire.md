@@ -1,8 +1,11 @@
 ---
 date: 2016/11/28
 title: More Talispire
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - grand-adventure
+  - grand adventure
   - talispire
 ---
 

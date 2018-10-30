@@ -4,7 +4,7 @@ date: 2017-07-19 17:09:44
 tags:
   - bioshock
   - gattaca
-  - guilty-crown
+  - guilty crown
 categories:
   - Fiction
   - Fusion AU

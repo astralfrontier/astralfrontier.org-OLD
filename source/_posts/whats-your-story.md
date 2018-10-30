@@ -1,8 +1,10 @@
 ---
 date: 2017/03/22
 title: What's Your Story?
+categories:
+  - Roleplaying
 tags:
-  - the-wake
+  - the wake
 ---
 
 "What's your story?"

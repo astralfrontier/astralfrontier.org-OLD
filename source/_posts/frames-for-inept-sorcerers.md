@@ -1,8 +1,11 @@
 ---
 date: 2015/09/10
 title: Frames for Inept Sorcerers
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - inept-sorcerers
+  - inept sorcerers
 ---
 
 I'm designing a few "campaign frames" for [Inept Sorcerers], which provide

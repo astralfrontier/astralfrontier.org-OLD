@@ -2,9 +2,9 @@
 date: 2015/08/09
 title: What setting books would I love to put out?
 tags:
-  - compleat-villain
-  - fairy-soul
-  - song-of-eden
+  - compleat villain
+  - fairy soul
+  - song of eden
   - supers
 ---
 

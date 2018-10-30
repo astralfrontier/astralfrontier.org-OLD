@@ -1,8 +1,11 @@
 ---
 date: 2016/10/29
 title: Grand Adventure Without Challenges
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - grand-adventure
+  - grand adventure
 icon: flask
 ---
 

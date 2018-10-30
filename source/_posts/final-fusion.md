@@ -1,13 +1,12 @@
 ---
 date: 2016/09/10
 title: Final Fusion
-tags:
-  - fusion-au
 ---
 
 After working on the other [Fusion AU] documents,
 I started on a new one, focused on bio-punk,
 genetic engineering, and monsters of various sorts.
+EDIT: final version is here: [Crossbreed](/2017/07/19/crossbreed/).
 
 <!-- more -->
 

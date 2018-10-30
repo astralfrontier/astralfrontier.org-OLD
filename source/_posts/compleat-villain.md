@@ -1,8 +1,11 @@
 ---
 date: 2016/06/10
 title: The Compleat Villain
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - compleat-villain
+  - compleat villain
   - supers
 ---
 

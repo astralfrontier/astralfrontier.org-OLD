@@ -2,7 +2,7 @@
 date: 2015/09/20
 title: The Last Tribe
 tags:
-  - the-last-tribe
+  - the last tribe
 ---
 
 An idea for a hack of [Ammo](http://cegames.wikidot.com/ammorpg),

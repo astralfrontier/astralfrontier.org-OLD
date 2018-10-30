@@ -1,14 +1,13 @@
 ---
 date: 2016/05/16
 title: Fusion AU
-tags:
-  - fusion-au
 ---
 
 I've got three different documents that describe "fusion AUs":
 alternate universes built from combinations of existing franchises.
 I want to talk about how I went about creating them,
 why I do it, and how I'm starting another one.
+EDIT: final version is here: [Crossbreed](/2017/07/19/crossbreed/).
 
 <!-- more -->
 

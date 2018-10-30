@@ -2,7 +2,7 @@
 date: 2016/01/03
 title: An Otome Game idea
 tags:
-  - silver-sheen
+  - silver sheen
   - otome
 ---
 

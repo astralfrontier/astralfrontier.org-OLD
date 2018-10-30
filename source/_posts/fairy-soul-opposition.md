@@ -2,7 +2,7 @@
 date: 2016/03/04
 title: Fairy Soul Opposition
 tags:
-  - fairy-soul
+  - fairy soul
   - pbta
 ---
 

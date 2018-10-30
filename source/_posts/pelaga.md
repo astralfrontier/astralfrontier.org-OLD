@@ -3,8 +3,9 @@ date: 2016/12/04
 title: Pelaga
 categories:
   - Roleplaying
+  - Game Design Diary
 tags:
-  - grand-adventure
+  - grand adventure
   - setting
 ---
 

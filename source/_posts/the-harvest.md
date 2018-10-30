@@ -4,7 +4,7 @@ title: The Harvest
 categories:
   - Fiction
 tags:
-  - helping-hand
+  - helping hand
 ---
 
 It was the summer I turned 17 when Shannon got taken by the UFO.

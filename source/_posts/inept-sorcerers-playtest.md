@@ -1,8 +1,11 @@
 ---
 date: 2015/07/17
 title: Inept Sorcerers Playtest
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - inept-sorcerers
+  - inept sorcerers
   - playtest
 ---
 

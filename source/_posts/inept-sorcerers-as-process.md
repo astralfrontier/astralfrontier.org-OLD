@@ -1,8 +1,11 @@
 ---
 date: 2015/10/26
 title: Inept Sorcerers as a Process
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - inept-sorcerers
+  - inept sorcerers
 ---
 
 I posted quite a bit about [Inept Sorcerers] on G+, on this blog,

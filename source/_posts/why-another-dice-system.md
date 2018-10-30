@@ -1,9 +1,11 @@
 ---
 date: 2015/06/10
 title: Why Another Dice System?
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - baroque-dice
-  - game design
+  - baroque dice
 ---
 
 I posted a [new dice mechanic](/2015/06/08/baroque-dice-mechanic/) recently. I explained the mechanics, and in doing so found a better version of the same idea. Thanks to [Lester Ward] for feedback confirming this conclusion. However, I didn't really articulate its intended purpose.

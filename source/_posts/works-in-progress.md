@@ -2,10 +2,10 @@
 date: 2017/01/04
 title: Works in Progress
 tags:
-  - compleat-villain
-  - fairy-soul
-  - grand-adventure
-  - helping-hand
+  - compleat villain
+  - fairy soul
+  - grand adventure
+  - helping hand
   - supers
 ---
 

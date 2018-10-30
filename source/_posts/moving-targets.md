@@ -1,8 +1,11 @@
 ---
 date: 2016/02/21
 title: Moving Targets
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - grand-adventure
+  - grand adventure
 ---
 
 I have to get my household moved by April 2, so I've been busy with that.

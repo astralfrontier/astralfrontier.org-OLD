@@ -1,8 +1,10 @@
 ---
 date: 2015/09/29
 title: Game Design Genetics
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - game design
   - pinned
 ---
 

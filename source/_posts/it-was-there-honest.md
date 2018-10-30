@@ -1,8 +1,11 @@
 ---
 date: 2015/07/08
 title: It Was There, Honest!
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - it-was-there-honest
+  - it was there honest
 ---
 
 I've been looking for a way to play-test the

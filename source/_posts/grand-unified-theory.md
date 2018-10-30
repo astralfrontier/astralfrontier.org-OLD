@@ -1,8 +1,11 @@
 ---
 date: 2015/11/27
 title: A Grand Unified Theory
+categories:
+  - Roleplaying
+  - Game Design Diary
 tags:
-  - grand-adventure
+  - grand adventure
 ---
 
 I was sick for a few weeks in November, and have been busy around
