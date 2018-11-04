@@ -3,6 +3,7 @@
     <%- partial('semantic-main-menu') %>
     <div class="ui text container">
         <%- partial('semantic-article', {article: page, content: page.content.replace(page.excerpt, '')}) %>
+        <%- partial('pagination-article') %>
         <%- partial('disqus') %>
     </div>
     <%- partial('_partial/semantic-footer') %>

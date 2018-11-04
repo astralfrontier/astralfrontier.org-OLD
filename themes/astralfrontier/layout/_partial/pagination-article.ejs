@@ -1,12 +1,12 @@
 <div class="ui equal width grid">
     <% if (page.prev) { %>
     <div class="column">
-        <a href="<%- config.root %><%- page.prev_link %>">&laquo; Newer</a>
+        <a href="<%- url_for(page.prev.path) %>">&laquo; <%= page.prev.title %></a>
     </div>
     <% } %>
     <% if (page.next) { %>
     <div class="right aligned column">
-        <a href="<%- config.root %><%- page.next_link %>">Older &raquo;</a>
+        <a href="<%- url_for(page.next.path)  %>"><%= page.next.title %> &raquo;</a>
     </div>
     <% } %>
 </div>
