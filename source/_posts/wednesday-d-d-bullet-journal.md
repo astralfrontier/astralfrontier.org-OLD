@@ -13,23 +13,41 @@ Here's some pictures of the bullet journal I started keeping for the Wednesday D
 
 <!-- more -->
 
-[![The journal is a Leuchtturm1917][page1thumb]][page1image]
+[![page 1][page1thumb]][page1image] {.ui .large .image}
 
-[![Character photo on the left, druid symbol on the right][page2thumb]][page2image]
+The journal is a [Leuchtturm1917](https://www.leuchtturm1917.us).
 
-[![Arcane school symbols][page3thumb]][page3image]
+[![page 2][page2thumb]][page2image] {.ui .large .image}
 
-[![Other PCs, page 1][page4thumb]][page4image]
+Character photo on the left, druid symbol on the right.
 
-[![Other PCs, page 2][page5thumb]][page5image]
+[![page 3][page3thumb]][page3image] {.ui .large .image}
 
-[![Encounter map and session notes][page6thumb]][page6image]
+Arcane school symbols. These are unofficial, not the new colorful icons from [dndbeyond.com](https://dndbeyond.com).
 
-[![Session notes, green good red bad][page7thumb]][page7image]
+[![page 4][page4thumb]][page4image] {.ui .large .image}
 
-[![The terrain of the region changes on its own][page8thumb]][page8image]
+Other PCs, page 1. Our Paladin and Glamour Bard.
 
-[![Useful notes on local flora][page9thumb]][page9image]
+[![page 5][page5thumb]][page5image] {.ui .large .image}
+
+Other PCs, page 2. Our Sorcerer and Ranger.
+
+[![page 6][page6thumb]][page6image] {.ui .large .image}
+
+Encounter map and session notes. We went exploring and the city slicker PCs got hurt.
+
+[![page 7][page7thumb]][page7image] {.ui .large .image}
+
+Session notes, green is good and red is bad.
+
+[![page 8][page8thumb]][page8image] {.ui .large .image}
+
+The terrain of the region changes on its own.
+
+[![page 9][page9thumb]][page9image] {.ui .large .image}
+
+Useful notes on local flora. The game talks about gathering rare ingredients for magic items, and we found some winners.
 
 [page1image]: i/IMG_20181105_183902.jpg
 [page1thumb]: t/IMG_20181105_183902.jpg
