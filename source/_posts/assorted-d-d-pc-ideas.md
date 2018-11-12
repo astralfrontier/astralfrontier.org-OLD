@@ -18,6 +18,7 @@ No matter the character class, here's some of the elements that I think would be
 
 What media have influenced your thinking:
 
+* **Final Fantasy XIV**: it's a high-fantasy game, but it's remarkably grounded and mundane in important ways. People get sick, poisoned, or hurt. Mundane matters like trade deals or revenge motives are much more common than mind-control curses. There's no generically evil Dark Lord, just a paranoid magic-free empire that took a laudable goal (protect the world from false gods) and simply became corrupted by power. Similarly, the way the game handles non-humans and humanoids (the six playable races can't interbreed with a couple of rare exceptions, but they're free to marry, adopt, and otherwise form "mixed-race" family units without any sort of stigma) is inspirational.
 * [Hilda]: airing on Netflix, a wilderness girl moves to the city in a world of giants, rock trolls, and dream-haunting specters. Her world isn't _safe_, but the show depicts a world where people can go about their daily lives in the presence of a dangerous supernatural sub-world.
 * **Star Wars**: yeah, it's tropey, but young people caught up in the spirit of adventure - or escape from awfulness - are very well depicted in the franchise.
 
@@ -52,7 +53,9 @@ Aside from this, playing Masks reminds me that emphasis on a character's mundane
 **Cleric**: Two options.
 
 1. A Knowledge Cleric, someone shepherding and curating knowledge of the old world. They inherited a cache of scrolls (or some more obscure record-keeping device), or a famous library burned around their ancestors, or something similar.
-2. A Life Cleric with Magic Initiate to take up Druid spells like Shillelagh and Goodberry, effectively an FFXIV [White Mage] in D&D.
+2. A Life Cleric with Magic Initiate to take up Druid spells like Shillelagh and Goodberry, effectively an FFXIV [White Mage] in D&D. In the MMO, White Mages are healers and protectors of life and nature, so this is one way to do that.
+
+**Druid**: A Circle of Dreams Druid, a healer and protector of nature. Someone aligned with the spirits of the forest or the sylvan folk there. Either this or a Life Cleric would make a great White Mage template.
 
 **Fighter**: There's a few options here.
 
@@ -66,7 +69,7 @@ Aside from this, playing Masks reminds me that emphasis on a character's mundane
 
 **Warlock**: A full Warlock is unlikely, but a Hexblade + Paladin or Valor Bard multiclass has a lot of neat opportunities. The idea of a magic sword calling a hero to adventure is an old one in fiction, but there's room to develop it in new or interesting ways.
 
-**Wizard**: A Divination Wizard inspired by the [Astrologian] from FFXIV, crossed with [Lando Calrissian] and a touch of FFVI's [Setzer]. A mystic gambler who understands the celestial and terrestrial through the medium of games.
+**Wizard**: A Divination Wizard inspired by the [Astrologian] from FFXIV, crossed with [Lando Calrissian] and a touch of FFVI's [Setzer]. A mystic who understands the celestial and terrestrial through games and chance.
 
 [Astrologian]: https://na.finalfantasyxiv.com/jobguide/astrologian/
 [Batman: the Brave and the Bold]: https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheBraveAndTheBold
