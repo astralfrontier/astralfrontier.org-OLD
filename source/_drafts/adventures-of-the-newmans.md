@@ -36,7 +36,7 @@ She is superhumanly strong and fast.
 She assists *Link* with his superhero activities.
 She was formerly his girlfriend, but the two broke up over the circumstances of her creation.
 Themes: purpose, anxiety, love, humanity.
-Masks Playbook: TODO.
+Masks Playbook: *The Janus*.
 
 **Otto** is a humanoid robot who can transform into a car.
 He can combine with the Link Suit and *Pneuma*.
@@ -49,8 +49,8 @@ Masks Playbook: *The Transformed*.
 She has control over vibration, and uses it to accelerate her body at high speeds or do damage.
 She is blind, but is capable of navigating and perceiving by sensing vibrations in the air.
 Her need to rely on sound rather than light limits her effective speed to under Mach 1, otherwise she cannot navigate safely.
-Themes: disability, TODO.
-Masks Playbook: TODO.
+Themes: disability, rebellion.
+Masks Playbook: *The Delinquent*.
 
 **Armiger** is a magical swordsman.
 He was originally described [here](/2017/08/07/armiger/).
@@ -65,7 +65,7 @@ Out of respect for her teammates and others, she chooses not to speak out loud.
 She uses sign language, writing, and texting to communicate.
 Her powers do not work on Newman-type robots, putting their humanity into question.
 Themes: disability, villainy.
-Masks Playbook: TODO.
+Masks Playbook: *The Scion*.
 
 ### Characters: Villains
 
