@@ -57,6 +57,8 @@ markdown:
     - markdown-it-toc
     - markdown-it-attrs
     - markdown-it-footnote
+    - markdown-it-task-lists
+    - markdown-it-emoji
   anchors:
     level: 2
     collisionSuffix: 'v'
