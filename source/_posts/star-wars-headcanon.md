@@ -56,7 +56,7 @@ Let's look at the deaths that happened in the film franchise:
 * Obi-Wan and Anakin vs. Dooku, second fight (Revenge of the Sith). This is very clearly a victory for the Dark Side - Palpatine urges Anakin to strike down his old apprentice, thus gaining a new one.
 * Mace Windu vs. Palpatine (Revenge of the Sith). Victory for both the Dark Side and the Sith Lord allied with it.
 * Yoda vs. Palpatine (Revenge of the Sith). Nobody dies. It's my personal feeling that Yoda realizes he could only win the fight by killing Palpatine, and he's reached a moral line he's unwilling to cross.
-* Obi-Wan vs. Anakin (Revenge of the Sith). Obi-Wan is unwilling to strike the killing blow, but he clearly comes close. I give my thoughts on an alternate version of this fight, and its tragic outcomes, here: [https://plus.google.com/+RyanMDanks/posts/MtgoJkivyti](https://plus.google.com/+RyanMDanks/posts/MtgoJkivyti)
+* Obi-Wan vs. Anakin (Revenge of the Sith). Obi-Wan is unwilling to strike the killing blow, but he clearly comes close. I give my thoughts on an alternate version of this fight, and its tragic outcomes, below.
 * Obi-Wan vs. Vader (A New Hope). The classic fight. Kenobi is clearly fighting to buy time - he knows he's not going to make it out, but he hopes the sacrifice is worth it. A victory for the Dark Side in that Luke feels despair and anger at seeing his mentor die.
 * Luke vs. Vader, first fight (Empire Strikes Back). Clearly a victory for the Dark Side, even though Luke survives.
 * Luke vs. Vader, second fight (Return of the Jedi). Luke refuses to strike a fatal blow, representing a moral victory even if he would have been killed by the Emperor without Vader's intervention. A loss for the Dark Side.
@@ -65,6 +65,46 @@ If a Jedi character wants to "win" a lightsaber duel,
 consider emphasizing the moral dimension, offering Dark Side points or corruption
 or whatever mechanic if they want to kill, or doing something else to drive
 home that *what they are about to do is a misuse of the Force*.
+
+#### Dark Side Inversion
+
+Originally posted [here](https://plus.google.com/+RyanMDanks/posts/MtgoJkivyti) in response to this question: _What if Yoda and Obi-Wan had won their duels against the Emperor and Vader in Ep3 (and Obi-Wan had the guts to finish Vader)?_
+
+> It depends on what "won" means. If it means "killed", you get a more narratively interesting outcome.
+
+> Yoda kills the Chancellor of the Republic-turned-Empire, who nobody knows is a Sith lord. The Senate chamber is wired for video, of course, and some loyal lackey finds and edits the holo-footage to wipe out the evidence of the fight, leaving only Yoda running him through. Of course, we also have evidence that Mace Windu visited Palpatine earlier, so now it looks like the Jedi Council is trying to just flat-out murder the duly elected leader of known space.
+
+> Yoda won't lie, but they really have nothing tying Palpatine to the Separatists. The Sith are a Jedi legend, so of course they'd say something like that. "Look at what happened!" people will say. "The peace-loving Jedi held us back from really fighting the Separatists, they led our armies to defeat and disgrace, and then they murdered the only man with the guts to stand up and hold the Republic together!"
+
+> Order 66 has gone out. Yoda, Obi-Wan, and a handful of others are all that's left of the Jedi.
+
+> Meanwhile, Obi-Wan has his duel on Mustafar. He cuts off Anakin's legs, then - out of mercy - thrusts his lightsaber through the beating heart of his best friend as his wretched body does its best to crawl up a lava-soaked hill. Obi-Wan takes the dying Padme to Polis Massa. On some level she knows what he's done, and she can't forgive him in spite of everything. He leaves, alone.
+
+> What is going to happen now? Kenobi doesn't know. The Republic is in flames. Separatist sentiment didn't stop just because Dooku fell. The clone troopers were created by the Republic's real enemies. The droid army is still in their hands. Everything is falling apart.
+
+> He's afraid.
+
+> In his youth, Kenobi saw his master killed by the Sith. He just killed his own apprentice. Two guys have split the Republic apart. Two guys. How fragile it all was. How vulnerable. But how peaceful. How perfect. It can't end like this.
+
+> He's angry.
+
+> A thousand generations won't go to waste because of the machinations of a few. The greedy, selfish, evil few. The ones he's killed, and seen kill those closest to him. This won't stand. Damn the Sith!
+
+> He hates.
+
+> Obi-Wan Kenobi puts up his hood to hide his contorted face and blazing eyes. He's going to fix this. Oh yes, he's going to fix this. If two Force-users can destroy a Republic, two can destroy an Empire. He'll make things right again. He just needs an apprentice...
+
+> There's the twins. Who took them? Oh yes...
+
+> He can wait. He needs time to prepare.
+
+I don't think there's any version of events where Yoda redeems Palpatine. I think he'd be willing to try, but I also assume he'd be wise enough to know when it's clearly impossible.
+
+You can go further along this timeline. Obi-Wan recruits Luke, forcing Yoda to come out of retirement and train Leia... I think you really start diverging from canon only at this point, but in hopefully interesting ways. The intermediate years probably look very similar. But "Leia as heroine of the New Hope era" has a lot of potential. She's temperamentally closer to the Jedi, has her mother's Action Senator skills and her father's Force potential, and just generally comes off as a sensible woman who can kick ass but is smart enough to know when not to.
+
+It gets funny if you leave Han and Chewie working with darkside!Kenobi and Luke for awhile, and Leia having to work against them. So there's this rogue she keeps having to go up against, but he's charming and interesting and has this way of looking at her that no commoner ever dared, but he's on the wrong side dammit and now everything's confusing...
+
+So they keep taking each other captive and do this dance through like the first movie and a half.
 
 ### Technology
 
