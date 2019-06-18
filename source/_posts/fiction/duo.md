@@ -42,21 +42,21 @@ were the demons' only choice of vessel.
 So they grew crafty, and cunning, and patient.
 No longer content with blood and slaughter,
 they took to seduction and deceit.
-Whole downs would fall because the mayor's daughter
+Whole towns would fall because the mayor's daughter
 trysted with a handsome farmer's son at night,
 not guessing he was in thrall to dark forces.
 
 Even these demons would return if their human host were slain.
 They tormented the family and friends of their stolen flesh.
-They mocked the priests, the soldiers,
-calling us by name and naming us craven and powerless.
+They sought out the priests and soldiers who'd fought so valiantly,
+calling us by name and mocking us as craven and powerless.
 
 We changed tactics again.
 We would travel in pairs - the Duo.
 One of us would live a life of purity, simplicity, and virtuousness.
-He or she would be sinless in God's eyes.
+They would be sinless in God's eyes.
 The other would be a warrior, merciless and pitiless.
-He or she must have the courage and skill to strike, no matter the cost.
+They must have the courage and skill to strike, no matter the cost.
 
 The sacred soul would find a demon looking for a host,
 or mystically draw out a demon already possessing someone.
@@ -64,12 +64,12 @@ The entity becomes drawn to the light of purity,
 but cannot escape it.
 One member of the Duo becomes possessed.
 
-Well.
-You can imagine the rest.
-The other exists to strike their partner down.
 You see, a demon caged by one forgiven and blameless is drawn to Heaven when their host dies.
 There is no escape for the soldiers of hell in their enemy's camp,
 and no such demon has ever returned to plague us.
+Well.
+You can imagine the rest.
+The other exists to strike their partner down.
 
 There is a risk, of course.
 If the possessed member of the Duo hides a secret sin,
